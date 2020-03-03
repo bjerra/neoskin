@@ -1,12 +1,25 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: 'Neoskin',
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      '',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-source-dynamodb',
+      options: {
+        typeName: 'Dynamo',
+        accessKeyId: 'AKIAT6OGSPLT735KDTNU', 
+        secretAccessKey: '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',
+        region: 'eu-north-1',
+        params: {
+          TableName : "Anais",
+          // OTHER PARAMS HERE
+        }
+      }
+    },
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
