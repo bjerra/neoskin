@@ -1,8 +1,8 @@
 {
-  "name": "gatsby-starter-netlify-cms",
-  "description": "Example Gatsby, and Netlify CMS project",
+  "name": "neoskin",
+  "description": "Neoskin beauty",
   "version": "1.1.3",
-  "author": "Austin Green",
+  "author": "Bjorn Eriksson",
   "dependencies": {
     "bulma": "^0.8.0",
     "gatsby": "^2.13.31",
