@@ -1,4 +1,6 @@
+const {AWS_ID, AWS_KEY} = process.env;
 module.exports = {
+
   siteMetadata: {
     title: 'Neoskin',
     description:
@@ -11,8 +13,8 @@ module.exports = {
       resolve: 'gatsby-source-dynamodb',
       options: {
         typeName: 'Dynamo',
-        accessKeyId: 'AKIAT6OGSPLT735KDTNU', 
-        secretAccessKey: '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',
+        accessKeyId: 'AKIAT6OGSPLTWT3HGKN7', 
+        secretAccessKey: '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',
         region: 'eu-north-1',
         params: {
           TableName : "Anais",

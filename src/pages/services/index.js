@@ -15,11 +15,41 @@ export default class ServicesPage extends React.Component {
           <section className="section">
             <div className="container">
               <div className="content">
-                {data.dynamo.treatments.map(({ title }, index) => (
-                    <div key={index}>
-                    <p>{title}</p> 
+                <div class="">
+
+                    {data.dynamo.treatments.map(({ title,price, time, info, url }, index) => (
+                        <div key={index} class="box">
+
+                            <div class="card">
+                                <div class="card-content">
+                                    <p class="title">
+                                        {title}
+                                    </p>
+                                    <p class="subtitle">
+                                        {info}
+                                    </p>
+                                </div>
+                                <footer class="card-footer">
+                                    <p class="card-footer-item">
+                                    <span>
+                                        {time}
+                                    </span>
+                                    <span>
+                                        {price}
+                                    </span>
+                                    </p>
+                                    <p class="card-footer-item">
+                                    <span>
+                                       <a href={url}>BOKA</a>
+                                    </span>
+                                    </p>
+                                </footer>
+                                </div>
+                                
+                        </div>
+                    ))}
                     </div>
-                ))}
+                      
               </div>
             </div>
           </section>
