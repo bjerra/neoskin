@@ -9,9 +9,10 @@ export default class ServicesPage extends React.Component {
     }
   
     render() {     
-      const { category } = this.props.location.state;
-        const { services } = this.props.data.dynamo;   
-        const group = services.filter(service => service.group === category);
+      const { data, location } = this.props;
+      if(!location.state) return null;
+      const { category } = location.state;  
+        const group = data.dynamo.services.filter(service => service.group === category);
       return (
         <Layout>    
           <section className="section">
