@@ -13,8 +13,8 @@ module.exports = {
       resolve: 'gatsby-source-dynamodb',
       options: {
         typeName: 'Dynamo',
-        accessKeyId: 'AKIAT6OGSPLTWT3HGKN7', 
-        secretAccessKey: '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',
+        accessKeyId: AWS_ID, 
+        secretAccessKey: AWS_KEY,
         region: 'eu-north-1',
         params: {
           TableName : "Anais",
