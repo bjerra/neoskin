@@ -1,7 +1,8 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/logo.svg'
-import ServiceCategories from '../components/ServiceCategories'
+import facebook from '../img/social/facebook.svg'
+import instagram from '../img/social/instagram.svg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -44,6 +45,20 @@ const Navbar = class extends React.Component {
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="NeoSkin" style={{ width: '88px' }} />
             </Link>
+            <a title="facebook" href="https://facebook.com"  className="navbar-item">
+                  <img
+                    src={facebook}
+                    alt="Facebook"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>              
+                <a title="instagram" href="https://instagram.com"  className="navbar-item">
+                  <img
+                    src={instagram}
+                    alt="Instagram"
+                    style={{ width: '1em', height: '1em' }}
+                  />
+                </a>   
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -59,22 +74,23 @@ const Navbar = class extends React.Component {
             id="navMenu"
             className={`navbar-menu ${this.state.navBarActiveClass}`}
           >
-            <div className="navbar-start has-text-centered">
+            <div className="navbar-start has-text-centered">       
               <Link className="navbar-item" to="/about">
                 About
               </Link>
               <Link className="navbar-item" to="/products">
                 Products
-              </Link>
-              <ServiceCategories />
+              </Link>              
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
-              </Link>           
+              </Link>    
+              
+                    
             </div>
-            <div className="navbar-end has-text-centered">
+            <div className="navbar-end has-text-centered">         
               <a
                 className="navbar-item" 
                 href=""                
