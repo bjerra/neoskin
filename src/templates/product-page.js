@@ -4,6 +4,8 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import ServiceCategories from '../components/ServiceCategories'
 import ServiceList from '../components/ServiceList'
+import ServiceCategoriesTouch from '../components/ServiceCategoriesMobile'
+
 
 export const ProductPageTemplate = ({
   image,
@@ -34,34 +36,29 @@ export const ProductPageTemplate = ({
         {title}
       </h2>
     </div>
-    <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
-          <div className="columns">
-            <div className="column is-7 is-offset-1">
-              <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-              <p>{description}</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <div class="columns">
-
-        <div class="column">        
-        </div>
-
-        <div class="column is-half">
-          <ServiceList category={category}/>
-        </div>
-
-        <div class="column">    
-         <ServiceCategories selectCategory={selectCategory}/> 
-         
+    <div class="columns is-centered">
+    <ServiceCategoriesTouch currentCategory={category} selectCategory={selectCategory}/>
+                <div class="column">
                   
-        </div>
-
-    </div>     
+                </div>
+                <div class="column is-half">
+                <div className="container">
+                  <div className="section">
+                  
+                    <div className="columns">
+                      <div className="column is-7 is-offset-1">
+                        <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
+                        <p>{description}</p>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                  <ServiceList category={category}/>
+                </div>
+                <div class="column">
+                  <ServiceCategories currentCategory={category} selectCategory={selectCategory}/>
+                  </div>
+          </div>      
   </div>
 )
 

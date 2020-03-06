@@ -44,21 +44,7 @@ const Navbar = class extends React.Component {
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo">
               <img src={logo} alt="NeoSkin" style={{ width: '88px' }} />
-            </Link>
-            <a title="facebook" href="https://facebook.com"  className="navbar-item">
-                  <img
-                    src={facebook}
-                    alt="Facebook"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>              
-                <a title="instagram" href="https://instagram.com"  className="navbar-item">
-                  <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>   
+            </Link>        
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
@@ -77,28 +63,26 @@ const Navbar = class extends React.Component {
             <div className="navbar-start has-text-centered">       
               <Link className="navbar-item" to="/about">
                 About
-              </Link>
-              <Link className="navbar-item" to="/products">
-                Products
-              </Link>              
+              </Link>                      
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
               <Link className="navbar-item" to="/contact">
                 Contact
               </Link>    
-              
+              <Link className="navbar-item" to="/products">
+                 Products
+                </Link>   
                     
             </div>
-            <div className="navbar-end has-text-centered">         
-              <a
-                className="navbar-item" 
-                href=""                
-              >
-                <span className="icon">
-                  BOKA
-                </span>
-              </a>
+            <div className="navbar-end has-text-centered">      
+            <div class="navbar-item">
+                <a class="button is-link">
+                  <strong>BOKA</strong>
+                </a>      
+                
+            </div>
+           
             </div>
           </div>
         </div>
