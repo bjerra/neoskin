@@ -25,8 +25,7 @@ export const ProductPageTemplate = ({
   console.log(refs)
   const scrollTo = category =>
     refs[category].current.scrollIntoView({
-      behavior: 'smooth',
-      block: 'center',
+      block: 'start',
     });
 
   return(
@@ -76,7 +75,7 @@ export const ProductPageTemplate = ({
                             </div>
                           </div>
 
-                          <div className="column">                                    
+                          <div className="column" style={{borderRight: '1px solid #ababab', borderLeft: '1px solid #ababab'}}>                                    
                             <ServiceList 
                               data={serviceData} 
                               refs={refs}

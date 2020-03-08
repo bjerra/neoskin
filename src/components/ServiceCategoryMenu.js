@@ -10,7 +10,7 @@ const ServiceCategories = ({data, currentCategory, selectCategory}) => {
             data.map(({category }) => (   
                                       
                 <li key={category}>
-                <a style={{fontSize: '1rem'}}className={`${category === currentCategory ? 'is-active' : ''}`} onClick={() => selectCategory(category)}>{category}</a>                      
+                <a style={{fontSize: '1rem', padding: '0.25em'}}className={`${category === currentCategory ? 'is-active' : ''}`} onClick={() => selectCategory(category)}>{category}</a>                      
                </li> 
             )) 
             }                   

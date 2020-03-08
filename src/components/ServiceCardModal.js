@@ -9,7 +9,7 @@ const ServiceCard = ({data, close}) => {
             <div class="modal-background" onClick={close}>></div>
             <div class="modal-content">
                 <div className="service-card" style={{margin: '2rem'}}>                          
-                    <p className="title is-4">
+                    <p className="title is-4"style={{fontWeight: 350, color: 'black'}}>
                         {title}
                     </p>      
                     <div className="service-info">
@@ -26,7 +26,7 @@ const ServiceCard = ({data, close}) => {
                         </div>     
                     </div>
                    
-                    <p className="is-size-6">
+                    <p style={{fontWeight: 350, color: 'black'}}>
                         {info}
                     </p>                                                 
                 </div>  

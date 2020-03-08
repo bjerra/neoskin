@@ -6,11 +6,11 @@ const ServiceCard = ({data}) => {
     const {title, info, time, price, url } = data;
     return(   
             <div className="service-card" >                          
-                    <p className="title is-4">
+                    <p className="title is-4" style={{fontWeight: 350, color: 'black'}}>
                         {title}
                     </p>      
                     <div className="service-info">
-                    <div className="columns">
+                    <div className="columns ">
                         <div className="column">
                             {time}
                         </div>
@@ -21,11 +21,10 @@ const ServiceCard = ({data}) => {
                             <a className="bd-btn" href={url} target="_blank">BOKA</a>
                         </div>
                     </div>     
-                    </div>
-                   
-                    <p className="is-size-6">
-                        {info}
-                    </p>                                                 
+                    </div>                 
+                    <p style={{fontWeight: 350, color: 'black'}}>
+                            {info}
+                    </p>                                                         
             </div>                          
     )
 }
