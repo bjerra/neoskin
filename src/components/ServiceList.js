@@ -1,22 +1,32 @@
 import React from 'react'
-import ServiceCard from './ServiceCard'
-import useServicedata from './ServiceData'
 
-const ServiceList = ({category}) => {
- 
-    const data = useServicedata().find(el => el.category === category);
-    const services = data  ? [...data.services] : [];
 
-    return(   
-        <section className="section">                             
-            {
-                        services.map((serviceData, index) => (                         
-                            <ServiceCard                         
-                            {...serviceData}/>                          
+const ServiceList = ({ data, selectService, refs }) => {
+    
+    return(
+        <aside className="menu ">                          
+            <ul className="menu-list"> {
+                data.map(({category, services }) => (   
+                                          
+                            <li key={category} ref={refs[category]}>
+                            <p className="title is-4" >{category}</p>
+                            <ul className="menu-list ">  {                           
+                                    services.map(({title, info, time, price, url }, index) => (  
+                                        <li className="servicelist-item">     
+                                            <a className="subtitle" onClick={() => selectService({title, info, time, price, url })}>                                      
+                                                 {title}   
+                                            </a> 
+                                                                                                                                                                               
+                                        </li> 
+                                    )) 
+                                }         
+                           </ul>
+                </li> 
 
-                        )) 
-                    }
-        </section> 
+                )) 
+                            }                   
+            </ul>                    
+            </aside>
     )
 }
 

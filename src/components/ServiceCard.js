@@ -1,44 +1,32 @@
-import React, { useState } from 'react'
+import React from 'react'
 
 
 
-const ServiceCard = ({title, info, time, price, url }) => {
-
-    const [isVisible, toggleInfo] = useState(false)
+const ServiceCard = ({data}) => {
+    const {title, info, time, price, url } = data;
     return(   
-        <div class="box">
-            <div class="card" >
-                <div class="card-content">
-                    <p class="title">
+            <div className="service-card" >                          
+                    <p className="title is-4">
                         {title}
-                    </p>
-                    <p class="button" onClick={() => toggleInfo(!isVisible)}>
-                        Mer Info
-                    </p>
-                    {isVisible && 
-                    <p className="subtitle">
+                    </p>      
+                    <div className="service-info">
+                    <div className="columns">
+                        <div className="column">
+                            {time}
+                        </div>
+                        <div className="column">
+                            {price}
+                        </div>
+                        <div className="column">
+                            <a className="bd-btn" href={url} target="_blank">BOKA</a>
+                        </div>
+                    </div>     
+                    </div>
+                   
+                    <p className="is-size-6">
                         {info}
-                    </p>
-                    }
-                </div>
-                <footer class="card-footer">
-                    <p class="card-footer-item">
-                    <span>
-                        {time}
-                    </span>
-                    <span>
-                        {price}
-                    </span>
-                    </p>
-                    <p class="card-footer-item">
-                    <span>
-                    <a href={url} target="_blank">BOKA</a>
-                    </span>
-                    </p>
-                </footer>
-                </div>
-                
-        </div>
+                    </p>                                                 
+            </div>                          
     )
 }
 

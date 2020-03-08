@@ -2,65 +2,101 @@ import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import ServiceCategories from '../components/ServiceCategories'
 import ServiceList from '../components/ServiceList'
-import ServiceCategoriesTouch from '../components/ServiceCategoriesMobile'
-
+import useServicedata from '../components/ServiceData'
+import ServiceCategoryMenu from '../components/ServiceCategoryMenu'
+import ServiceCard from '../components/ServiceCard'
+import ServiceCardModal from '../components/ServiceCardModal'
 
 export const ProductPageTemplate = ({
   image,
   title,
   heading,
   description,
-  category, 
-  selectCategory
-}) => (
-  <div className="content">
-    <div
-      className="full-width-image-container margin-top-0"
-      style={{
-        backgroundImage: `url(${
-          !!image.childImageSharp ? image.childImageSharp.fluid.src : image
-        })`,
-      }}
-    >
-      <h2
-        className="has-text-weight-bold is-size-1"
+}) => {
+
+  const [currentService, selectService] = useState(null)
+  const serviceData = useServicedata();
+
+  const refs = serviceData.reduce((acc, value) => {
+    acc[value.category] = React.createRef();
+    return acc;
+  }, {});
+  console.log(refs)
+  const scrollTo = category =>
+    refs[category].current.scrollIntoView({
+      behavior: 'smooth',
+      block: 'center',
+    });
+
+  return(
+    <div className="content">
+      <div
+        className="full-width-image-container margin-top-0"
         style={{
-          boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
-          backgroundColor: '#f40',
-          color: 'white',
-          padding: '1rem',
+          backgroundImage: `url(${
+            !!image.childImageSharp ? image.childImageSharp.fluid.src : image
+          })`,
         }}
       >
-        {title}
-      </h2>
-    </div>
-    <div class="columns is-centered">
-    <ServiceCategoriesTouch currentCategory={category} selectCategory={selectCategory}/>
-                <div class="column">
+        <h2
+          className="has-text-weight-bold is-size-1"
+          style={{
+            boxShadow: '0.5rem 0 0 #f40, -0.5rem 0 0 #f40',
+            backgroundColor: '#f40',
+            color: 'white',
+            padding: '1rem',
+          }}
+        >
+          {title}
+        </h2>
+        </div>
+          <div className="container">
+            <div className="only-touch">
+            {currentService && 
+                < ServiceCardModal data={currentService} close={() => selectService(null)}/>
+              } 
+       
+            </div>
+             
+          
+            <div className="section">   
+                    
+              <div className="columns">
                   
-                </div>
-                <div class="column is-half">
-                <div className="container">
-                  <div className="section">
-                  
-                    <div className="columns">
-                      <div className="column is-7 is-offset-1">
-                        <h3 className="has-text-weight-semibold is-size-2">{heading}</h3>
-                        <p>{description}</p>
-                      </div>
-                    </div>
+                <div className="column">                     
+                  <div className="columns">    
+
+                          <div className="column is-4">
+                            <div className="sticky">
+                              <ServiceCategoryMenu 
+                                data={serviceData} 
+                                currentCategory={null} 
+                                selectCategory={scrollTo}/>
+                            </div>
+                          </div>
+
+                          <div className="column">                                    
+                            <ServiceList 
+                              data={serviceData} 
+                              refs={refs}
+                              selectService={selectService}/>
+                          </div>
                   </div>
+                </div>                                         
+                <div className="column is-4 only-desktop">
+                  {currentService && 
+                    <div className="sticky">
+                    <ServiceCard data={currentService}/>
+                    </div>  
+                  }                                         
                 </div>
-                  <ServiceList category={category}/>
-                </div>
-                <div class="column">
-                  <ServiceCategories currentCategory={category} selectCategory={selectCategory}/>
-                  </div>
+              </div>     
+            </div>
           </div>      
-  </div>
-)
+    </div>
+  )
+}
 
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
@@ -71,17 +107,14 @@ ProductPageTemplate.propTypes = {
 
 const ProductPage = ({ data }) => {
   const { frontmatter } = data.markdownRemark
-  const [category, selectCategory] = useState(null)
-         
+  
   return (
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}
         title={frontmatter.title}
         heading={frontmatter.heading}
-        description={frontmatter.description}  
-        category={category}
-        selectCategory={selectCategory}
+        description={frontmatter.description}             
       />
     </Layout>
   )

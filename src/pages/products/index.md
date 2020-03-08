@@ -1,7 +1,7 @@
 ---
 templateKey: 'product-page'
 path: /products
-title: Our Coffee
+title: Behandlingar
 image: /img/services.jpg
 heading: Great coffee with a conscience
 description: >-
