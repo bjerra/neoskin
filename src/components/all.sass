@@ -97,7 +97,7 @@ $menu-item-active-color: $neoskin-blue
 $menu-item-active-background-color:	$neoskin-blue-invert
 $menu-list-border-left: 0px
 $menu-label-color: $white-ter
-$menu-nested-list-margin: 1em 0em
+$menu-nested-list-margin: 0em 0em
 $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 1em 0em
 
@@ -151,16 +151,17 @@ $menu-list-link-padding: 1em 0em
 .slide-in
     animation-duration: .2s;
     animation-name: slidein;
+    animation-timing-function: ease
 
 .fade-in
-    animation-duration: .4s;
+    animation-duration: .3s;
     animation-name: fadein;
 
 @keyframes slidein 
   from 
-    margin-top: 100%;   
+    margin-left: 100%;   
   to 
-    margin-top: 0%;
+    margin-left: 0%;
    
 @keyframes fadein 
   0% 
@@ -178,7 +179,7 @@ $menu-list-link-padding: 1em 0em
     margin-bottom: 1rem
 
 .servicelist-item
-    border-bottom: 1px solid $grey-lighter;
+    border-bottom: 1px solid #baa477;
 
 .bd-btn
     margin: auto;

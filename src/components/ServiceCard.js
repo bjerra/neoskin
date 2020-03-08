@@ -10,7 +10,7 @@ const ServiceCard = ({data}) => {
                         {title}
                     </p>      
                     <div className="service-info">
-                    <div className="columns ">
+                    <div className="columns">
                         <div className="column">
                             {time}
                         </div>

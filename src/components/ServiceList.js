@@ -37,14 +37,14 @@ const ServiceList = ({ data, selectService }) => {
 
                     return( 
                                           
-                            <li key={category} ref={refs[category]}>
+                            <li key={category} ref={refs[category]} >
                             <a className="subtitle" 
-                                style={{paddingTop: '1em', borderBottom: '2px solid #ababab'}} 
+                                style={{paddingTop: '1em', marginBottom: 0, borderBottom: '1px solid #baa477', fontWeight: 350}} 
                                 onClick={() => expandMenu(expanded === category ? '' : category )}>
                             {category}
                             </a>
                             {expanded === category &&
-                            <ul className="menu-list" style={{backgroundColor: '#fcfcfc'}}>  {                           
+                            <ul className="menu-list" style={{backgroundColor: '#fafafa'}}>  {                           
                                     services.map(({title, info, time, price, url }, index) => (  
                                         <li className="servicelist-item">     
                                             <a className="subtitle is-6" onClick={() => selectService({title, info, time, price, url })}>                                      
