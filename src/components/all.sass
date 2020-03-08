@@ -101,7 +101,7 @@ $menu-nested-list-margin: 1em 0em
 $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 1em 0em
 
-$modal-background-background-color: #000000aa
+
 
 .menu-label
   font-size: 1em !important
@@ -152,12 +152,23 @@ $modal-background-background-color: #000000aa
     animation-duration: .2s;
     animation-name: slidein;
 
+.fade-in
+    animation-duration: .4s;
+    animation-name: fadein;
+
 @keyframes slidein 
   from 
     margin-top: 100%;   
   to 
     margin-top: 0%;
    
+@keyframes fadein 
+  0% 
+    background-color: #00000000;
+  100% 
+    background-color: 000000aa;
+  
+
 
 
 .service-info
