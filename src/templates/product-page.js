@@ -4,7 +4,6 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import ServiceList from '../components/ServiceList'
 import useServicedata from '../components/ServiceData'
-import ServiceCategoryMenu from '../components/ServiceCategoryMenu'
 import ServiceCard from '../components/ServiceCard'
 import ServiceCardModal from '../components/ServiceCardModal'
 
@@ -17,16 +16,6 @@ export const ProductPageTemplate = ({
 
   const [currentService, selectService] = useState(null)
   const serviceData = useServicedata();
-
-  const refs = serviceData.reduce((acc, value) => {
-    acc[value.category] = React.createRef();
-    return acc;
-  }, {});
-  console.log(refs)
-  const scrollTo = category =>
-    refs[category].current.scrollIntoView({
-      block: 'start',
-    });
 
   return(
     <div className="content">
@@ -59,31 +48,17 @@ export const ProductPageTemplate = ({
             </div>
              
           
-            <div className="section">   
+            <div className="section" style={{padding:0}}>   
                     
               <div className="columns">
-                  
-                <div className="column">                     
-                  <div className="columns">    
-
-                          <div className="column is-4">
-                            <div className="sticky">
-                              <ServiceCategoryMenu 
-                                data={serviceData} 
-                                currentCategory={null} 
-                                selectCategory={scrollTo}/>
-                            </div>
-                          </div>
-
-                          <div className="column" style={{borderRight: '1px solid #ababab', borderLeft: '1px solid #ababab'}}>                                    
-                            <ServiceList 
-                              data={serviceData} 
-                              refs={refs}
-                              selectService={selectService}/>
-                          </div>
-                  </div>
-                </div>                                         
-                <div className="column is-4 only-desktop">
+                                        
+                <div className="column">                                    
+                  <ServiceList 
+                    data={serviceData} 
+                    selectService={selectService}/>
+                </div>
+                                      
+                <div className="column only-desktop" style={{borderLeft: '1px solid #ababab'}}>
                   {currentService && 
                     <div className="sticky">
                     <ServiceCard data={currentService}/>

@@ -5,7 +5,7 @@ import React from 'react'
 const ServiceCard = ({data, close}) => {
     const {title, info, time, price, url } = data;
     return(   
-        <div class="modal is-active">
+        <div class="modal is-active slide-in">
             <div class="modal-background" onClick={close}>></div>
             <div class="modal-content">
                 <div className="service-card" style={{margin: '2rem'}}>                          
