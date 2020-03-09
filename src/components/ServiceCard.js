@@ -22,9 +22,8 @@ const ServiceCard = ({data}) => {
                         </div>
                     </div>     
                     </div>                 
-                    <p style={{fontWeight: 350, color: 'black'}}>
-                            {info}
-                    </p>                                                         
+                    <div className="content" dangerouslySetInnerHTML={{__html: info}}>
+                    </div>                                                                                           
             </div>                          
     )
 }
