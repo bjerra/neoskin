@@ -1,61 +1,32 @@
-import React, { useState, useEffect } from 'react'
-
+import React from 'react'
 
 const ServiceList = ({ data, selectService }) => {
     
-    const refs = data.reduce((acc, value) => {
-        acc[value.category] = React.createRef();
-        return acc;
-      }, {});
-    
-      const scrollTo = category =>
-        refs[category].current.scrollIntoView({
-          block: 'start',
-          behavior: 'smooth',
-        });
-
-    const [expanded, expandMenu] = useState(null)
-    useEffect(() => {
-        if(expanded){
-            const top = refs[expanded].current.getBoundingClientRect().top;
-            if (top > window.innerHeight * .6)
-                scrollTo(expanded)
-        }           
-      });
-
-
     return(
         <aside className="menu ">                          
             <ul className="menu-list" style={{margin: '.25em'}}> {
-                data.map(({category, services }) => {
-
-                    const ref = React.createRef();
-                    const scrollIntoView = () =>
-                        ref.current.scrollIntoView({
-                        block: 'start',
-                        });
-
-                    return( 
-                                          
-                            <li key={category} ref={refs[category]} >
+                data.map(({category, services, variants, info }) => {
+                    return(                                        
+                            <li key={category} >
                             <a className="subtitle" 
-                                style={{paddingTop: '1em', marginBottom: 0, borderBottom: '1px solid #baa477', fontWeight: 350}} 
-                                onClick={() => expandMenu(expanded === category ? '' : category )}>
+                                style={{paddingTop: '1em', marginBottom: 0, borderBottom: '1px solid #baa477', fontWeight: 350}}
+                                onClick={() => selectService({title: category, services: variants, info })}>
                             {category}
                             </a>
-                            {expanded === category &&
+
                             <ul className="menu-list" style={{backgroundColor: '#fafafa'}}>  {                           
-                                    services.map(({title, info, time, price, url }, index) => (  
+                                    services.map((service, index) => (  
                                         <li className="servicelist-item">     
-                                            <a className="subtitle is-6" onClick={() => selectService({title, info, time, price, url })}>                                      
-                                                 {title}   
+                                            <a className="subtitle is-6" 
+                                                onClick={() => selectService({title: service.title, services: [{time: service.time, price: service.price, url:service.url }], info: service.info})}>                                      
+                                                 {service.title}   
                                             </a> 
                                                                                                                                                                                
                                         </li> 
                                     )) 
                                 }         
                            </ul>
-}
+
                 </li> 
 
                 )}) 
