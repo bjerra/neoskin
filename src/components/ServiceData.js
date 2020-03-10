@@ -17,21 +17,9 @@ const useServicedata = () => {
             title
             url
             offer
-          }
-          variants {
-            info 
-            price
-            staff
-            time
-            title
-            url
-            offer
-          }
-          category
-          info {
-            title
-            text
-          }
+            variant
+          }       
+          category       
         }
       }
       }
