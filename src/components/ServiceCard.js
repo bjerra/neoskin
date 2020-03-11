@@ -1,55 +1,36 @@
-import React, { useState , useEffect} from 'react'
+import React from 'react'
 
 
-const ServiceCard = ({data}) => {
-    const { category, services } = data;
-    const [info, showInfo] = useState([])
-
-    return(   
-            <div className="service-card" >                          
-                    <p className="title is-4" style={{fontWeight: 350, color: 'black'}}>
-                        {category}
-                    </p>      
-                    <div className="service-info">{
-                    services.map((service, index) => (
-                        <div className="box" onClick={() => showInfo(service.info)}>
-                            {service.title}
-                            <div className="columns" key={index}>
-                        <div className="column">
-                            {service.time}
-                        </div>
-                        <div className="column">
-                            {service.price}
-                        </div>
-                        <div className="column">
-                            <a className="bd-btn" href={service.url} target="_blank">BOKA</a>
-                        </div>
-                        
-                    </div>   
-                    
-                            {service.variant}
-                        </div>
-
-                    ))
-                    }
-                     
-                    </div>   
-                    {
-                        info.map((infoData) => (
-                            <div>
-                                <div className="content" dangerouslySetInnerHTML={{__html: infoData.title}}/>
-      
-                                 <div className="content" dangerouslySetInnerHTML={{__html: infoData.text}}/>
-    
-                            </div>
-                        ))          
+const ServiceCard = ({showInfo, title, time, price, variant, info, url}) => (
+            <div className="service-card">                                                             
+                    <div className="service-info" onClick={() => showInfo(info)}>
+                        <p className="service-title">
+                            {title}
+                        </p>                         
+                            <div className="columns" style={{margin: 0, display: 'flex'}}>
+                        <div className="column" style={{paddingTop: 0, paddingBottom:0, flex: 5}}>
                            
-        
-                    }
-                    
-                                                                                                          
+                        <p className="variant-text">
+                            {variant}
+                        </p>  
+                       
+                        </div>
+                        <div className="column" style={{paddingTop: 0, paddingBottom:0, flex: 2}}>
+                            <p className="service-text">
+                            {time}
+                            </p> 
+                            <p className="service-text">
+                                {price}
+                            </p> 
+                        </div>
+                        <div className="column" style={{paddingTop: 0, paddingBottom:0}}>
+                            <a className="bd-btn" href={url} target="_blank">BOKA</a>
+                        </div>                               
+                        </div>   
+                                                 
+                    </div>                                           
             </div>                          
     )
-}
+
 
 export default ServiceCard

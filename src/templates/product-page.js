@@ -4,7 +4,7 @@ import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import ServiceList from '../components/ServiceList'
 import useServicedata from '../components/ServiceData'
-import ServiceCard from '../components/ServiceCard'
+import CategoryCard from '../components/CategoryCard'
 import ServiceCardModal from '../components/ServiceCardModal'
 
 export const ProductPageTemplate = ({
@@ -52,7 +52,7 @@ export const ProductPageTemplate = ({
                     
               <div className="columns">
                                         
-                <div className="column">                                    
+                <div className="column is-4">                                    
                   <ServiceList 
                     data={serviceData} 
                     selectService={selectService}/>
@@ -61,7 +61,7 @@ export const ProductPageTemplate = ({
                 <div className="column only-desktop" style={{borderLeft: '1px solid #ababab'}}>
                   {currentService && 
                     <div className="sticky">
-                    <ServiceCard data={currentService}/>
+                    <CategoryCard data={currentService}/>
                     </div>  
                   }                                         
                 </div>
