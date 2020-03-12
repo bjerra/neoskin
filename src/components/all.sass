@@ -4,13 +4,13 @@
 // Kaldi logo brand color: #FD461E
 $neoskin-blue: #4287f5
 $neoskin-blue-invert: #fff
-$neoskin-beige: #363636
-$neoskin-beige-invert: #c4907c
+$neoskin-gold: #EEE8AA
+$neoskin-gold-invert: #c4907c
 
-$primary: $neoskin-blue
-$primary-invert: $neoskin-blue-invert
-$info: $neoskin-beige
-$info-invert: $neoskin-beige-invert
+$primary: $neoskin-gold
+$primary-invert: $neoskin-gold-invert
+$info: $neoskin-blue
+$info-invert: $neoskin-blue-invert
 $body-color: #333
 $black: #2b2523
 
@@ -96,7 +96,7 @@ $menu-item-hover-background-color: $black
 $menu-item-active-color: $neoskin-blue
 $menu-item-active-background-color:	$neoskin-blue-invert
 $menu-list-border-left: 0px
-$menu-label-color: $white-ter
+$menu-label-color: $black
 $menu-nested-list-margin: 0em 0em
 $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 1em 0em
@@ -131,23 +131,50 @@ $menu-list-link-padding: 1em 0em
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
 
-.category-card
-    background-color: #ddd
+.category-container
+    background-color: #fff
     display: block
-    padding: .5rem  
-    margin: .5rem
+    padding: 0  
+    height: 100%
+    text-align: center
     border-radius: .25rem
-    border: 2px solid black
+    border-left: 2px solid $primary
+    transition: all .15s ease
+  
+.category-card
+    background-color: #fff
+    font-size: 1.25rem
+    display: block
+    padding: 1rem  
+    border-radius: .25rem
+    cursor: pointer
+    border-bottom: 1px solid #ddd
     transition: all .15s ease
 
+    &.is-active
+      border-bottom: 2px solid $primary
+
+.category-title
+  margin: 0 2rem 0 2rem
+  padding: .5rem
+  background-color: #eee
+  font-weight: 350 !important
+
 .service-card
-    background-color: #fefefe
+    background-color: #fff
     display: block
     padding: .5rem
     line-height: 1.25
-    border-bottom: 1px solid #ccc
+    border-radius: .5rem
+    border: 2px solid $primary
     margin-bottom: .5rem
 
+.service-info
+    border-bottom: 1px solid #ddd;
+
+.info-card 
+    padding: 2rem
+    
   
 .slide-in
     animation-duration: .2s;
@@ -178,8 +205,11 @@ $menu-list-link-padding: 1em 0em
 .service-title
   font-size: 1.25rem
   font-weight: 450
+  text-align: center
   margin: 0 0 .5rem 0 !important
-  border-bottom: 1px solid #baa477;
+  border-bottom: 1px solid #ddd;
+  background-color: #eee
+  
 
 .variant-text
   font-size: 1rem
@@ -188,9 +218,17 @@ $menu-list-link-padding: 1em 0em
 .category-button  
     display: block;
     width: 100%;
-    font-size: 1.5rem
+    border-bottom: 1px solid #ddd !important;
+    font-size: 1.25rem
+    padding: .25rem
     text-align: left
-
+    border: none
+    cursor: pointer
+    
+    
+.category-button.is-active
+    border-bottom: 2px solid $primary !important;
+    
 
 .servicelist-item
     border-bottom: 1px solid #baa477;
@@ -203,7 +241,7 @@ $menu-list-link-padding: 1em 0em
     font-size: 1rem
     line-height: 1.25
     background-color: $primary
-    border-radius: .25rem
+    border-radius: .5rem
     text-decoration: none
     font-weight: 700
     color: $primary-invert

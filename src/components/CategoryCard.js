@@ -1,40 +1,49 @@
 import React, { useState } from 'react'
-import ServiceCard from './ServiceCard'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
 
 
-const CategoryCard = ({data}) => {
+
+const CategoryCard = ({data, selectService, currentService}) => {
     const { category, services } = data;
-    const [info, showInfo] = useState(null)
-    
+    const isGold = category.toLowerCase().includes('gold')
+
+    let modifiedServices = isGold ? [] : [...services];
+    if(isGold){
+        services.forEach(service => {     
+            const splitTitle = service.title.split(',') 
+            let isAlt = false;
+            modifiedServices.forEach(s => {               
+                if(s.title.includes(splitTitle[0])){
+                    s.alt = { title: splitTitle[1], url: service.url,time: service.time, price: service.price }
+                    isAlt = true
+                    
+                } 
+            })
+            if(!isAlt)
+                modifiedServices.push({...service})           
+        })
+    }
+
     return(   
-            <div className="category-card" >                          
-                    <p className="title is-4" style={{fontWeight: 350, color: 'black'}}>
-                        {category}
-                    </p>      
-                    <div className="card">
+            <div className="category-container" >   
+            <h2 className="category-title">
+                {category}
+            </h2>                                         
                         {
-                            services.map((service) => (
-                              <ServiceCard 
-                                showInfo={showInfo}                              
-                                {...service}/>
+                            modifiedServices.map((service) => (
+                              <div onClick={() => selectService(service)}>
+                                  <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`}>
+                                  <FontAwesomeIcon icon={faAngleRight} pull="right" />
+                                      <span style={{marginRight: '1 rem'}}>
+                                      {service.title}
+                                      </span>
+                                   
+                                    
+                                  </div>
+                            </div>
                             ))
-                        }                   
-                    </div>   
-                    { info &&
-                    <div>                  
-                    {
-                     info.map(({title, text}) => (
-                         <div>
-                             <div className="content" style={{fontSize: '1.25rem', margin: '0', borderBottom: '1px solid black'}} dangerouslySetInnerHTML={{__html: title}}/>
-   
-                              <div className="content" style={{fontSize: '1rem', paddingLeft: '2rem'}} dangerouslySetInnerHTML={{__html: text}}/>
- 
-                         </div>
-                     ))          
-                     }
-                    </div>
-                 
-                    }                                                                         
+                        }                                                                                                         
                </div>                          
     )
 }

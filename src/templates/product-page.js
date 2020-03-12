@@ -2,9 +2,11 @@ import React, { useState } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
-import ServiceList from '../components/ServiceList'
+import CategoryMenu from '../components/CategoryMenu'
+import CategoryMenuTouch from '../components/CategoryMenuTouch'
 import useServicedata from '../components/ServiceData'
 import CategoryCard from '../components/CategoryCard'
+import ServiceCard from '../components/ServiceCard'
 import ServiceCardModal from '../components/ServiceCardModal'
 
 export const ProductPageTemplate = ({
@@ -14,8 +16,15 @@ export const ProductPageTemplate = ({
   description,
 }) => {
 
-  const [currentService, selectService] = useState(null)
+  
   const serviceData = useServicedata();
+  const [currentCategory, selectCategory] = useState(0)
+  const [currentService, selectService] = useState(null)
+
+  const handleSelectCategory = (categoryIndex) => {
+    selectCategory(categoryIndex)
+    selectService(null)
+  }
 
   return(
     <div className="content">
@@ -40,31 +49,44 @@ export const ProductPageTemplate = ({
         </h2>
         </div>
           <div className="container">
-            <div className="only-touch">
-            {currentService && 
-                < ServiceCardModal data={currentService} close={() => selectService(null)}/>
-              } 
-       
-            </div>
-             
-          
             <div className="section" style={{padding:0}}>   
                     
               <div className="columns">
                                         
-                <div className="column is-4">                                    
-                  <ServiceList 
+                <div className="column only-desktop" style={{padding:0, marginBottom: '2rem'}}>                                    
+                  <CategoryMenu 
                     data={serviceData} 
-                    selectService={selectService}/>
+                    selectCategory={handleSelectCategory}
+                    currentCategory={currentCategory}/>
                 </div>
                                       
-                <div className="column only-desktop" style={{borderLeft: '1px solid #ababab'}}>
+                <div className="column" style={{padding:0, marginBottom: '2rem'}}>
+                <div className="only-touch">
                   {currentService && 
-                    <div className="sticky">
-                    <CategoryCard data={currentService}/>
-                    </div>  
-                  }                                         
+                  
+                   <ServiceCardModal data={currentService} close={() => selectService(null)} />
+                  
+                  }
+                  <CategoryMenuTouch  data={serviceData} 
+                    selectCategory={selectCategory}
+                    currentCategory={currentCategory}
+                    />
+                     </div>
+                
+                  <CategoryCard 
+                  data={serviceData[currentCategory]} 
+                  selectService={selectService}
+                  currentService={currentService ? currentService.title : ''}/>
+                 
+                                                         
                 </div>
+               
+                <div className="column is-4 only-desktop" style={{padding:0, marginBottom: '2rem'}}>         
+                {currentService &&         
+                  <ServiceCard data={currentService}/>
+                }
+                </div>
+                 
               </div>     
             </div>
           </div>      
