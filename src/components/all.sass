@@ -4,8 +4,8 @@
 // Kaldi logo brand color: #FD461E
 $neoskin-blue: #4287f5
 $neoskin-blue-invert: #fff
-$neoskin-gold: #EEE8AA
-$neoskin-gold-invert: #c4907c
+$neoskin-gold: #C5B358
+$neoskin-gold-invert: #ededed
 
 $primary: $neoskin-gold
 $primary-invert: $neoskin-gold-invert
@@ -65,7 +65,7 @@ $black: #2b2523
     border-radius: .25rem
     text-decoration: none
     font-weight: 700
-    color: #CC3700
+    color: $primary-invert
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #CC3700
     box-shadow: inset 0 0 0 2px #f40
@@ -138,7 +138,7 @@ $menu-list-link-padding: 1em 0em
     height: 100%
     text-align: center
     border-radius: .25rem
-    border-left: 2px solid $primary
+    border-left: 3px solid $primary
     transition: all .15s ease
   
 .category-card
@@ -150,27 +150,47 @@ $menu-list-link-padding: 1em 0em
     cursor: pointer
     border-bottom: 1px solid #ddd
     transition: all .15s ease
+    transition: border-color .5s ease;
 
     &.is-active
-      border-bottom: 2px solid $primary
+      border-bottom: 3px solid $primary
+      color: $primary
+    
+    &:hover
+      color: $primary
 
 .category-title
-  margin: 0 2rem 0 2rem
+  font-size: 1.5rem !important
+  margin: .5rem 1rem 0 1rem
   padding: .5rem
-  background-color: #eee
-  font-weight: 350 !important
+  background-color: #eee !important
+  text-align: center
+  font-weight: 450 !important
 
 .service-card
     background-color: #fff
     display: block
-    padding: .5rem
     line-height: 1.25
-    border-radius: .5rem
-    border: 2px solid $primary
+    height: 100%
     margin-bottom: .5rem
+    border: 3px solid $primary
+    transition: all .5s ease;
+    animation: fadeinborder .5s;
 
-.service-info
-    border-bottom: 1px solid #ddd;
+@keyframes fadeinborder 
+    from
+      border: 3px solid transparent
+    to 
+      border: 3px solid $primary 
+
+
+.service-info 
+    border: 2px dashed $primary-invert
+    margin: 1rem
+    padding: 1rem
+    border-radius: .5rem
+    font-size: 1.15rem
+    font-weight: 700 !important
 
 .info-card 
     padding: 2rem
@@ -196,20 +216,6 @@ $menu-list-link-padding: 1em 0em
     background-color: #00000000;
   100% 
     background-color: 000000aa;
-  
-.service-text
-  font-size: 1rem
-  font-weight: 600
-  margin: 0 !important
-
-.service-title
-  font-size: 1.25rem
-  font-weight: 450
-  text-align: center
-  margin: 0 0 .5rem 0 !important
-  border-bottom: 1px solid #ddd;
-  background-color: #eee
-  
 
 .variant-text
   font-size: 1rem
@@ -224,11 +230,15 @@ $menu-list-link-padding: 1em 0em
     text-align: left
     border: none
     cursor: pointer
+    transition: border-color .5s ease;
+
+    &:hover
+        color: $primary
     
     
 .category-button.is-active
-    border-bottom: 2px solid $primary !important;
-    
+    border-bottom: 3px solid $primary !important;
+    color: $primary
 
 .servicelist-item
     border-bottom: 1px solid #baa477;

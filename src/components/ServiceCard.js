@@ -4,81 +4,62 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons'
 
 
-const ServiceCard = ({data}) => {
+const ServiceCard = ({data, color}) => {
 
-    const {title, time, price, variant, info, url, alt, offer} = data
+    const {title, info, alts} = data
     
-    const altInfo = () => (
+    const serviceInfo = (service) => (
+        <div>
+        <p className="category-title">
+                {service.title}
+            </p>  
         <div className="service-info">
-                        <p className="service-title">
-                            {alt.title}
-                        </p>                        
-                            <div className="columns" style={{margin: 0, display: 'flex'}}>
-                            <div className="column"></div>
-                        <div className="column">
-                        <p className="service-text">
-                            {alt.time}
-                            </p> 
-                        </div>
-                        <div className="column">
-                           
-                            <p className="service-text">
-                                {alt.price}
-                            </p> 
-                        </div>
-                        <div className="column">
-                            <a className="bd-btn" href={alt.url} target="_blank">BOKA</a>
-                        </div>                                                  
-                        </div>   
-                                                    
-    </div>    
+                 
+            {service.offer && 
+            <div className="container has-text-centered">                        
+                <span style={{margin: '1rem'}}>
+                ERBJUDANDE!
+                </span>                       
+                    <FontAwesomeIcon icon={faStar} color="gold" />
+            </div>
+            }                
+            <div className="columns" style={{margin: 0, display: 'flex'}}>
+            <div className="column">
+            <p className="service-text">
+                {service.time}
+                </p> 
+            </div>
+            <div className="column">
+                
+                <p className="service-text">
+                    {service.price}
+                </p> 
+            </div>
+            <div className="column">
+                <a className="bd-btn" href={service.url} target="_blank">BOKA</a>
+            </div>                                                  
+            </div>   
+            <p className="variant-text">
+                {service.variant}
+            </p>                                                  
+        </div>    
+        </div>
     )
 
-    
-
     return(
-            <div className="service-card">                                                             
-                    <div className="service-info">
-                        <p className="service-title">
-                            {title}
-                        </p>      
-                        {offer && 
-                        <div className="container has-text-centered">
-                            <FontAwesomeIcon icon={faStar} color="gold"/>
-                            <span style={{margin: '1rem'}}>
-                            ERBJUDANDE!
-                            </span>
-                           
-                        <FontAwesomeIcon icon={faStar} color="gold" />
+            <div className="service-card" style={{backgroundColor: color}}>                                                                               
+                        {alts ? 
+                        <div>
+                        <p className="category-title">
+                            {title}                            
+                        </p>
+                        {
+                         alts.map((alt) => serviceInfo(alt))
+                        } 
                         </div>
-                        }
-                                           
-                            <div className="columns" style={{margin: 0, display: 'flex'}}>
-                            <div className="column"></div>
-                        <div className="column">
-                        <p className="service-text">
-                            {time}
-                            </p> 
-                        </div>
-                        <div className="column">
-                           
-                            <p className="service-text">
-                                {price}
-                            </p> 
-                        </div>
-                        <div className="column">
-                            <a className="bd-btn" href={url} target="_blank">BOKA</a>
-                        </div>                                                  
-                        </div>   
-                                          
-                    </div>     
+                         : serviceInfo(data)
+                    }         
                    
-                    {alt &&
-                        altInfo()
-                    }
-                     <p className="variant-text">
-                            {variant}
-                        </p>  
                     <InfoCard data={info} />                           
             </div>                          
     )

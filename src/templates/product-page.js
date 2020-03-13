@@ -8,6 +8,7 @@ import useServicedata from '../components/ServiceData'
 import CategoryCard from '../components/CategoryCard'
 import ServiceCard from '../components/ServiceCard'
 import ServiceCardModal from '../components/ServiceCardModal'
+import colors from '../components/Colors'
 
 export const ProductPageTemplate = ({
   image,
@@ -76,14 +77,15 @@ export const ProductPageTemplate = ({
                   <CategoryCard 
                   data={serviceData[currentCategory]} 
                   selectService={selectService}
-                  currentService={currentService ? currentService.title : ''}/>
+                  currentService={currentService ? currentService.title : ''}
+                  color={colors[currentCategory]}/>
                  
                                                          
                 </div>
                
                 <div className="column is-4 only-desktop" style={{padding:0, marginBottom: '2rem'}}>         
                 {currentService &&         
-                  <ServiceCard data={currentService}/>
+                  <ServiceCard data={currentService} color={colors[currentCategory]}/>
                 }
                 </div>
                  

@@ -10,8 +10,8 @@ const Menu = ({ data, selectCategory, currentCategory }) => {
     return(
         <div class={`dropdown ${expanded ? 'is-active' : ''}`} style={{width: '100%'}}>
             <div class="dropdown-trigger "style={{width: '100%', padding: '0 2rem'}}>
-                <button class="category-button" style={{width: '100%', padding: '1rem', backgroundColor: '#fff'}} aria-haspopup="true" aria-controls="dropdown-menu" onClick={() => toggleMenu(!expanded)}>
-                <span>Välj Kategori</span>              
+                <button class="category-button" style={{width: '100%', padding: '1rem', backgroundColor: '#fff', textAlign: 'center'}} aria-haspopup="true" aria-controls="dropdown-menu" onClick={() => toggleMenu(!expanded)}>
+                <span>Kategorier</span>              
                  <FontAwesomeIcon icon={faAngleDown} pull="right"/>
                 
                 </button>

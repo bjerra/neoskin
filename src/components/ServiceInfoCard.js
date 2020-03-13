@@ -3,7 +3,7 @@ import React, { useState } from 'react'
 const ServiceInfoCard = ({data}) => {
     
     const [expanded, showMore] = useState(false);
-
+    const expandable = data.length > 1;
     const visibleItems = expanded ? data : data.slice(0,1);
     return(   
             <div className="info-card" >                                                           
@@ -19,7 +19,10 @@ const ServiceInfoCard = ({data}) => {
                      ))          
                      }         
                         <div className="has-text-centered">
-                        <div className="button is-outlined" onClick={() => showMore(!expanded)}>{expanded ? 'Mindre' :'Mer Info'}</div>      
+                            {expandable && 
+                            <div className="button is-outlined" onClick={() => showMore(!expanded)}>{expanded ? 'Mindre' :'Mer Info'}</div>   
+                            }
+                           
                             </div>   
                                     
                     </div>                                                                       
