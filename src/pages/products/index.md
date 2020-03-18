@@ -1,8 +1,8 @@
 ---
-templateKey: 'product-page'
+templateKey: product-page
 path: /products
 title: Behandlingar
-image: /img/services.jpg
+image: /img/img_5644b.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -10,3 +10,4 @@ description: >-
   roasting and brewing seriously and we’re glad to pass that knowledge to
   anyone.
 ---
+
