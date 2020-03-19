@@ -48,19 +48,19 @@ const ServiceCard = ({data, color}) => {
 
     return(
             <div className="service-card" style={{backgroundColor: color}}>                                                                               
-                        {alts ? 
+                    {alts ? 
                         <div>
                         <p className="category-title">
                             {title}                            
                         </p>
                         {
-                         alts.map((alt) => serviceInfo(alt))
+                            alts.map((alt) => serviceInfo(alt))
                         } 
                         </div>
-                         : serviceInfo(data)
+                            : serviceInfo(data)
                     }         
-                   
-                    <InfoCard data={info} />                           
+                    <InfoCard data={info} />        
+                                       
             </div>                          
     )
 }

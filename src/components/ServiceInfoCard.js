@@ -5,9 +5,8 @@ const ServiceInfoCard = ({data}) => {
     const [expanded, showMore] = useState(false);
     const expandable = data.length > 1;
     const visibleItems = expanded ? data : data.slice(0,1);
-    return(   
-            <div className="info-card" >                                                           
-                    <div>                  
+    return(        
+            <div className="info-card" >                                                                         
                     {
                      visibleItems.map(({title, text}, index) => (
                          <div>
@@ -23,9 +22,7 @@ const ServiceInfoCard = ({data}) => {
                             <div className="button is-outlined" onClick={() => showMore(!expanded)}>{expanded ? 'Mindre' :'Mer Info'}</div>   
                             }
                            
-                            </div>   
-                                    
-                    </div>                                                                       
+                        </div>                                                                       
                </div>                          
     )
 }

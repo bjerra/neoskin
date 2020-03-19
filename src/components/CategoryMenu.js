@@ -4,11 +4,11 @@ import colors from './Colors'
 const Menu = ({ data, selectCategory, currentCategory }) => {
     
     return(
-                <aside className="menu" style={{paddingLeft: '2rem'}}>   
-                <p class="category-title" style={{backgroundColor: '#eee'}}>
+                <aside className="menu" style={{}}>   
+                <p class="category-title">
                 Kategorier
                 </p>                         
-                <ul className="menu-list" style={{}}> 
+                <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
                     data.map(({category}, index) => {
                         const color = colors[index]

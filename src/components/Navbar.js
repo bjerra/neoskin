@@ -1,8 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo.svg'
-import facebook from '../img/social/facebook.svg'
-import instagram from '../img/social/instagram.svg'
+import logo from '../img/logo.jpg'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -36,19 +34,20 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent"
+        className="navbar is-transparent is-size-4"
         role="navigation"
         aria-label="main-navigation"
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo">
-              <img src={logo} alt="NeoSkin" style={{ width: '88px' }} />
+            <Link to="/" className="navbar-item" title="Logo" style={{height: '80px'}}>
+                <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '100px'}} />        
             </Link>        
             {/* Hamburger menu */}
             <div
               className={`navbar-burger burger ${this.state.navBarActiveClass}`}
               data-target="navMenu"
+              style={{height: '75px', width: '75px'}}
               onClick={() => this.toggleHamburger()}
             >
               <span />
