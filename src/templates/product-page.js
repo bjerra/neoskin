@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useState, useEffect } from 'react'
 import PropTypes from 'prop-types'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
@@ -8,6 +8,7 @@ import useServicedata from '../components/ServiceData'
 import CategoryCard from '../components/CategoryCard'
 import ServiceCard from '../components/ServiceCard'
 import ServiceCardModal from '../components/ServiceCardModal'
+import Filter from '../components/Filter'
 import colors from '../components/Colors'
 
 export const ProductPageTemplate = ({
@@ -16,15 +17,33 @@ export const ProductPageTemplate = ({
   heading,
   description,
 }) => {
-
   
-  const serviceData = useServicedata();
+  let serviceData = useServicedata();
   const [currentCategory, selectCategory] = useState(0)
+  const [currentFilter, setFilter] = useState("")
+  const [data, setData] = useState(serviceData[currentCategory])
   const [currentService, selectService] = useState(null)
 
   const handleSelectCategory = (categoryIndex) => {
-    selectCategory(categoryIndex)
+    selectCategory(categoryIndex)   
     selectService(null)
+    setFilter("")
+    setData(serviceData[currentCategory])
+  }
+
+  const handleSelectFilter = (filter) => {   
+      const filteredData = {category: filter, services: []}
+      filteredData.services = serviceData.reduce((acc, current) => {
+      current.services.forEach(service => {
+        service.info.forEach(info => {
+          if(info.title.toLowerCase().includes('bra') && info.text.toLowerCase().includes(filter.toLowerCase()))
+          acc.push(service)
+        })
+      })
+      return acc;
+    },[])
+    setFilter(filter)
+    setData(filteredData)
   }
 
   return(
@@ -63,19 +82,20 @@ export const ProductPageTemplate = ({
                                       
                 <div className="column" style={{padding:0, marginBottom: '2rem'}}>
                 <div className="only-touch">
+                  <Filter selectFilter={handleSelectFilter} currentFilter={currentFilter} />
                   {currentService && 
                   
                    <ServiceCardModal data={currentService} close={() => selectService(null)} />
                   
                   }
                   <CategoryMenuTouch  data={serviceData} 
-                    selectCategory={selectCategory}
+                    selectCategory={handleSelectCategory}
                     currentCategory={currentCategory}
                     />
                      </div>
                 
                   <CategoryCard 
-                  data={serviceData[currentCategory]} 
+                  data={data} 
                   selectService={selectService}
                   currentService={currentService ? currentService.title : ''}
                   color={colors[currentCategory]}/>

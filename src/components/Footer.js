@@ -1,8 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 
-import logo from '../img/logo.jpg'
-import logoBlack from '../img/logo-black.png'
+import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 
@@ -16,7 +15,7 @@ const Footer = class extends React.Component {
             <div className="columns">
               <div className="column is-3">       
                 <img
-                  src={logoBlack}
+                  src={logo}
                   alt="Neoskin"
                   style={{ width: '16em'}}
                 />

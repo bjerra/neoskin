@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo.jpg'
+import logo from '../img/logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -37,6 +37,7 @@ const Navbar = class extends React.Component {
         className="navbar is-transparent is-size-4"
         role="navigation"
         aria-label="main-navigation"
+        style={{backgroundColor: '#439985'}}
       >
         <div className="container">
           <div className="navbar-brand">
