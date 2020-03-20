@@ -18,6 +18,7 @@ const useServicedata = () => {
             url
             offer
             variant
+            keywords
           }       
           category       
         }

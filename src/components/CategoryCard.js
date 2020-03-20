@@ -4,6 +4,7 @@ import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
 
 
 
+
 const CategoryCard = ({data, selectService, currentService, color}) => {
     const { category, services } = data;
     const isGold = category.toLowerCase().includes('gold')

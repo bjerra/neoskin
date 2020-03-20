@@ -1,31 +1,48 @@
 import React, { useState } from 'react'
 import colors from './Colors'
+import filters from './FilterList'
 
-const Menu = ({ data, selectCategory, currentCategory }) => {
+const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilter }) => {
     
     return(
                 <aside className="menu" style={{}}>   
                 <p class="category-title">
-                Kategorier
+                    Kategorier
                 </p>                         
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
                     data.map(({category}, index) => {
-                        const color = colors[index]
                     return(                                        
                             <li key={category} >
                             <div className={`category-button ${currentCategory === index ? 'is-active' : ''}`}                         
-                                onClick={() => selectCategory(index)}
-                                style={{backgroundColor: color}}>
-                                    
+                                onClick={() => selectCategory(index)}>                                    
                             {category}                        
+ 
+                            </div>                        
+                            </li>            
+                )})
+                }                   
+                </ul>   
+                <p class="category-title">
+                    Områden
+                </p>     
+                <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
+                {
+                    filters.map((filter, index) => {
+                    return(                                        
+                            <li key={filter} >
+                            <div className={`category-button ${currentFilter === filter ? 'is-active' : ''}`}                         
+                                onClick={() => selectFilter(filter)}
+                                >
+                                    
+                            {filter}                        
                                
                            
                             </div>                        
                             </li>            
                 )})
                 }                   
-                </ul>                    
+                </ul>       
         </aside>
     )
 }

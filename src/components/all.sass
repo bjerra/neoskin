@@ -4,7 +4,7 @@
 // Kaldi logo brand color: #FD461E
 $neoskin-blue: #4287f5
 $neoskin-blue-invert: #fff
-$neoskin-green: #439985
+$neoskin-green: #327566
 $neoskin-green-invert: #ededed
 
 $primary: $neoskin-green
@@ -77,6 +77,8 @@ $family-primary: Lora
 .margin-top-0
   margin-top: 0 !important
 
+.navbar
+  background-color: $primary !important
 .navbar-item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
@@ -90,6 +92,7 @@ footer.footer
   padding: 3rem 0rem 3rem
   background-color: $primary
 
+
 //Menu overrides
 $menu-item-color: $primary-invert
 $menu-item-hover-color: $blue !important
@@ -100,8 +103,13 @@ $menu-nested-list-margin: 0em 0em
 $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 0em 0em
 
-$navbar-item-hover-color: $primary
+$navbar-item-color: $primary-invert
+$navbar-item-hover-color: $black
+$navbar-burger-color: $primary-invert
+$navbar-item-hover-background-color: none
 
+.navbar-menu.is-active
+    background-color: $primary
 
 .menu-label
   font-size: 1em !important
@@ -130,6 +138,10 @@ $navbar-item-hover-color: $primary
 .blog-list-item .featured-thumbnail
   flex-basis: 35%;
   margin: 0 1.5em 0 0;
+
+.category-menu
+    display: flex
+    flex-direction: row
 
 .category-container
     background-color: #fff
@@ -165,7 +177,7 @@ $navbar-item-hover-color: $primary
   padding: .5rem !important
   background-color: #eee !important
   text-align: center
-  font-weight: 450 !important
+  font-weight: 700 !important
 
 .service-card
     background-color: #fff
@@ -184,12 +196,12 @@ $navbar-item-hover-color: $primary
 
 
 .service-info 
-    border: 2px dashed $primary-invert
-    margin: 1rem
+    background-color: $primary-invert
+    margin: 0 1rem
     padding: 1rem
-    border-radius: .5rem
     font-size: 1.15rem
     font-weight: 700 !important
+    border-bottom: 1px solid #ccc
 
 .info-card 
     padding: 2rem
@@ -225,10 +237,8 @@ $navbar-item-hover-color: $primary
     display: block;
     width: 100%;
     border-bottom: 1px solid #ddd !important;
-    font-size: 1.25rem
-    padding: .25rem
+    font-size: 1.15rem
     text-align: left
-    border: none
     cursor: pointer
     transition: border-color .5s ease;
 
@@ -247,8 +257,9 @@ $navbar-item-hover-color: $primary
     margin: auto;
     display: block
     padding: .5rem
-    font-size: 18px
-    font-size: 1rem
+    border: 2px solid $primary-invert
+    font-size: 22px
+    font-size: 1.25rem
     line-height: 1.25
     background-color: $primary
     border-radius: .5rem

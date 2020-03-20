@@ -21,30 +21,37 @@ export const ProductPageTemplate = ({
   let serviceData = useServicedata();
   const [currentCategory, selectCategory] = useState(0)
   const [currentFilter, setFilter] = useState("")
-  const [data, setData] = useState(serviceData[currentCategory])
   const [currentService, selectService] = useState(null)
+
+  const data = () => {
+    let data =serviceData[currentCategory];
+    if(currentFilter != "") {
+      data = {category: currentFilter, services: []}
+      data.services = serviceData.reduce((acc, current) => {
+      current.services.forEach(service => {
+          if(service.keywords.toLowerCase().includes(currentFilter.toLowerCase()))
+          acc.push(service)
+      })
+      return acc;
+    },[])
+    } 
+
+   return data
+  }
 
   const handleSelectCategory = (categoryIndex) => {
     selectCategory(categoryIndex)   
     selectService(null)
     setFilter("")
-    setData(serviceData[currentCategory])
+    
   }
 
-  const handleSelectFilter = (filter) => {   
-      const filteredData = {category: filter, services: []}
-      filteredData.services = serviceData.reduce((acc, current) => {
-      current.services.forEach(service => {
-        service.info.forEach(info => {
-          if(info.title.toLowerCase().includes('bra') && info.text.toLowerCase().includes(filter.toLowerCase()))
-          acc.push(service)
-        })
-      })
-      return acc;
-    },[])
-    setFilter(filter)
-    setData(filteredData)
+  const handleSelectFilter = (filter) => {       
+    setFilter(filter) 
+    selectCategory(-1)  
+    selectService(null)
   }
+
 
   return(
     <div className="content">
@@ -77,25 +84,29 @@ export const ProductPageTemplate = ({
                   <CategoryMenu 
                     data={serviceData} 
                     selectCategory={handleSelectCategory}
-                    currentCategory={currentCategory}/>
+                    currentCategory={currentCategory}
+                    selectFilter={handleSelectFilter}
+                    currentFilter={currentFilter}/>
                 </div>
                                       
                 <div className="column" style={{padding:0, marginBottom: '2rem'}}>
                 <div className="only-touch">
-                  <Filter selectFilter={handleSelectFilter} currentFilter={currentFilter} />
                   {currentService && 
-                  
-                   <ServiceCardModal data={currentService} close={() => selectService(null)} />
+                    
+                    <ServiceCardModal data={currentService} close={() => selectService(null)} />
                   
                   }
-                  <CategoryMenuTouch  data={serviceData} 
-                    selectCategory={handleSelectCategory}
-                    currentCategory={currentCategory}
-                    />
-                     </div>
+                  <div className="category-menu">
+                      <Filter selectFilter={handleSelectFilter} currentFilter={currentFilter} />          
+                    <CategoryMenuTouch  data={serviceData} 
+                      selectCategory={handleSelectCategory}
+                      currentCategory={currentCategory}
+                      />
+                  </div>
+                  </div>
                 
                   <CategoryCard 
-                  data={data} 
+                  data={data()} 
                   selectService={selectService}
                   currentService={currentService ? currentService.title : ''}
                   color={colors[currentCategory]}/>

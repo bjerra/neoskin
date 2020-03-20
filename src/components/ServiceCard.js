@@ -10,11 +10,14 @@ const ServiceCard = ({data, color}) => {
     
     const serviceInfo = (service) => (
         <div>
-        <p className="category-title">
-                {service.title}
-            </p>  
+       
         <div className="service-info">
-                 
+            {alts &&
+                <h2 style={{textAlign: 'center', fontSize: '1.5rem', backgroundColor: '#dcdcdc'}}>
+                {service.title}
+            </h2>  
+            }
+        
             {service.offer && 
             <div className="container has-text-centered">                        
                 <span style={{margin: '1rem'}}>
@@ -47,16 +50,12 @@ const ServiceCard = ({data, color}) => {
     )
 
     return(
-            <div className="service-card" style={{backgroundColor: color}}>                                                                               
-                    {alts ? 
-                        <div>
-                        <p className="category-title">
+            <div className="service-card" style={{backgroundColor: color}}>     
+            <h2 className="category-title">
                             {title}                            
-                        </p>
-                        {
+                        </h2>                                                                          
+                    {alts ? 
                             alts.map((alt) => serviceInfo(alt))
-                        } 
-                        </div>
                             : serviceInfo(data)
                     }         
                     <InfoCard data={info} />        

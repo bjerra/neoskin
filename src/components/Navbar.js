@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from 'gatsby'
-import logo from '../img/logo.png'
+import logo from '../img/logo-nav.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -34,15 +34,14 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-transparent is-size-4"
+        className="navbar is-size-4"
         role="navigation"
         aria-label="main-navigation"
-        style={{backgroundColor: '#439985'}}
       >
         <div className="container">
           <div className="navbar-brand">
             <Link to="/" className="navbar-item" title="Logo" style={{height: '80px'}}>
-                <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '100px'}} />        
+                <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '200px'}} />        
             </Link>        
             {/* Hamburger menu */}
             <div
@@ -77,7 +76,7 @@ const Navbar = class extends React.Component {
             </div>
             <div className="navbar-end has-text-centered">      
             <div class="navbar-item">
-                <a class="bd-btn">
+                <a class="bd-btn" href="https://www.bokadirekt.se/places/neoskin-jkpg-33692">
                   <strong>BOKA</strong>
                 </a>      
                 
