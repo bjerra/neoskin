@@ -211,16 +211,16 @@ $navbar-item-hover-background-color: none
 .slide-in
     animation-duration: .2s;
     animation-name: slidein;
-    animation-timing-function: ease
+    animation-timing-function: ease-in
 
 .fade-in
-    animation-duration: .3s;
+    animation-duration: .2s;
     animation-name: fadein;
 
 @keyframes slidein 
-  from 
+  0% 
     margin-left: 100%;   
-  to 
+  100% 
     margin-left: 0%;
    
 @keyframes fadein 
@@ -232,6 +232,7 @@ $navbar-item-hover-background-color: none
 .variant-text
   font-size: 1rem
   font-weight: 300
+  text-align: center
 
 .category-button  
     display: block;
@@ -252,19 +253,23 @@ $navbar-item-hover-background-color: none
 
 .servicelist-item
     border-bottom: 1px solid #baa477;
+.service-text
+  margin-left: 2rem
+  font-weight: 600
+  font-size: 1.25rem
 
 .bd-btn
     margin: auto;
-    display: block
+    display: inline-block
     padding: .5rem
-    border: 2px solid $primary-invert
+    border: 1px solid $primary-invert
     font-size: 22px
     font-size: 1.25rem
     line-height: 1.25
     background-color: $primary
     border-radius: .5rem
     text-decoration: none
-    font-weight: 700
+    font-weight: 650
     color: $primary-invert
     text-align: center
     -webkit-box-shadow: inset 0 0 0 2px #CC3700

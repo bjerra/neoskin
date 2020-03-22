@@ -25,15 +25,14 @@ const ServiceCard = ({data, color}) => {
                 </span>                       
                     <FontAwesomeIcon icon={faStar} color="gold" />
             </div>
-            }                
-            <div className="columns" style={{margin: 0, display: 'flex'}}>
+            }      
+                  
+            <div className="columns" style={{margin: 0, display: 'flex'}}> 
             <div className="column">
             <p className="service-text">
                 {service.time}
                 </p> 
-            </div>
-            <div className="column">
-                
+           
                 <p className="service-text">
                     {service.price}
                 </p> 

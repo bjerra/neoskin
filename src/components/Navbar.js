@@ -34,7 +34,7 @@ const Navbar = class extends React.Component {
   render() {
     return (
       <nav
-        className="navbar is-size-4"
+        className="navbar is-size-5"
         role="navigation"
         aria-label="main-navigation"
       >

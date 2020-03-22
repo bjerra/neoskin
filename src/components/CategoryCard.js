@@ -2,9 +2,6 @@ import React, { useState } from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
 
-
-
-
 const CategoryCard = ({data, selectService, currentService, color}) => {
     const { category, services } = data;
     const isGold = category.toLowerCase().includes('gold')
@@ -43,10 +40,8 @@ const CategoryCard = ({data, selectService, currentService, color}) => {
                                   <FontAwesomeIcon icon={faAngleRight} pull="right" color="#ddd" />
                                       <span style={{marginRight: '1 rem'}}>
                                       {service.title}
-                                      </span>
-                                   
-                                    
-                                  </div>
+                                      </span>        
+                                  </div>                               
                             </div>
                             ))
                         }                                                                                                         
