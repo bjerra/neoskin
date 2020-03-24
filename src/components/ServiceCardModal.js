@@ -2,14 +2,17 @@ import React from 'react'
 import ServiceCard from './ServiceCard'
 
 
-const ServiceCardModal = ({data, close}) => {
+const ServiceCardModal = ({data, close, isOpen}) => {
+
     return(   
-        <div class="modal is-active">
-            <div class="modal-background fade-in" onClick={close}>></div>
-            <div class="modal-content slide-in">
+        <div className={`modal is-active slider ${isOpen ? 'slide-in' : 'slide-out'}`}>
+            <div className="modal-background fade-in" onClick={close}>></div>
+            <div className="modal-content">
+                { data &&
                 <ServiceCard data={data} />
+                }
             </div>
-            <button class="modal-close is-large" aria-label="close" onClick={close}></button>
+            <button className="modal-close is-large" aria-label="close" onClick={close}></button>
         </div>
                                    
     )

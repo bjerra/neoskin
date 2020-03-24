@@ -91,11 +91,7 @@ export const ProductPageTemplate = ({
                                       
                 <div className="column" style={{padding:0, marginBottom: '2rem'}}>
                 <div className="only-touch">
-                  {currentService && 
-                    
-                    <ServiceCardModal data={currentService} close={() => selectService(null)} />
-                  
-                  }
+                    <ServiceCardModal data={currentService} close={() => selectService(null)} isOpen={currentService != null} />
                   <div className="category-menu">
                       <Filter selectFilter={handleSelectFilter} currentFilter={currentFilter} />          
                     <CategoryMenuTouch  data={serviceData} 
