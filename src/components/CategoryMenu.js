@@ -28,7 +28,7 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                 </p>     
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    filters().map((filter, index) => {
+                    filters.map((filter, index) => {
                     return(                                        
                             <li key={filter} >
                             <div className={`category-button ${currentFilter === index ? 'is-active' : ''}`}                         
