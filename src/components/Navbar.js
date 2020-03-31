@@ -40,8 +40,8 @@ const Navbar = class extends React.Component {
       >
         <div className="container">
           <div className="navbar-brand">
-            <Link to="/" className="navbar-item" title="Logo" style={{height: '80px'}}>
-                <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '200px'}} />        
+            <Link to="/" className="navbar-item" title="Logo" >
+                <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '175px'}} />        
             </Link>        
             {/* Hamburger menu */}
             <div
@@ -75,13 +75,9 @@ const Navbar = class extends React.Component {
                     
             </div>
             <div className="navbar-end has-text-centered">      
-            <div class="navbar-item">
-                <a class="bd-btn" href="https://www.bokadirekt.se/places/neoskin-jkpg-33692">
-                  <strong>BOKA</strong>
+                <a class="navbar-item" href="https://www.bokadirekt.se/places/neoskin-jkpg-33692">
+                  <span className="bd-btn">BOKA</span>
                 </a>      
-                
-            </div>
-           
             </div>
           </div>
         </div>

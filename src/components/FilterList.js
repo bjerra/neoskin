@@ -1,4 +1,6 @@
 
-const filters = ['Acne', 'Rosacea', 'Acneärr']
+const filters = () => ['Acne', 'Rosacea', 'Acneärr','Pigment', 'Eksem',
+ 'Anti-ageing', 'Xantelasma', 'Fibrom', 'Skin tags', 'Milier',
+  'Portöming', 'Hängande ögonlock', 'Påsar under ögonen', 'Rynkor', 'Slapp hud', 'Kapillärer', 'Känslig hud', 'Skön stund'].sort()
 
-export default filters;
+  export default filters;

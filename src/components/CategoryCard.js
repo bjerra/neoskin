@@ -33,19 +33,19 @@ const CategoryCard = ({data, selectService, currentService, color}) => {
             <h2 className="category-title">
                 {category}
             </h2>                                         
-                        {
-                            modifiedServices.map((service) => (
-                              <div onClick={() => selectService(service)}>
-                                  <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`} style={{backgroundColor: color}}>
-                                  <FontAwesomeIcon icon={faAngleRight} pull="right" color="#ddd" />
-                                      <span style={{marginRight: '1 rem'}}>
-                                      {service.title}
-                                      </span>        
-                                  </div>                               
-                            </div>
-                            ))
-                        }                                                                                                         
-               </div>                          
+                {
+                    modifiedServices.map((service) => (
+                    <div onClick={() => selectService(service)}>
+                        <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`} style={{backgroundColor: color}}>
+                        <FontAwesomeIcon icon={faAngleRight} pull="right" color="#ddd"/>         
+                            <span style={{marginRight: '1 rem'}}>
+                            {service.title}
+                            </span>        
+                        </div>                               
+                    </div>
+                    ))
+                }                                                                                                         
+            </div>                          
     )
 }
 

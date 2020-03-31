@@ -8,8 +8,8 @@ import useServicedata from '../components/ServiceData'
 import CategoryCard from '../components/CategoryCard'
 import ServiceCard from '../components/ServiceCard'
 import ServiceCardModal from '../components/ServiceCardModal'
-import Filter from '../components/Filter'
 import colors from '../components/Colors'
+import filters from '../components/FilterList'
 
 export const ProductPageTemplate = ({
   image,
@@ -20,35 +20,35 @@ export const ProductPageTemplate = ({
   
   let serviceData = useServicedata();
   const [currentCategory, selectCategory] = useState(0)
-  const [currentFilter, setFilter] = useState("")
+  const [currentFilter, setFilter] = useState(-1)
   const [currentService, selectService] = useState(null)
 
   const data = () => {
-    let data =serviceData[currentCategory];
-    if(currentFilter != "") {
-      data = {category: currentFilter, services: []}
+    if(currentFilter === -1) return serviceData[currentCategory];
+    else {
+      const filter = filters[currentFilter]
+      const data = {category: filter, services: []}
       data.services = serviceData.reduce((acc, current) => {
       current.services.forEach(service => {
-          if(service.keywords.toLowerCase().includes(currentFilter.toLowerCase()))
+          if(service.keywords.toLowerCase().includes(filter.toLowerCase()))
           acc.push(service)
       })
       return acc;
     },[])
+    return data
     } 
-
-   return data
   }
 
   const handleSelectCategory = (categoryIndex) => {
+    setFilter(-1)
     selectCategory(categoryIndex)   
     selectService(null)
-    setFilter("")
+    
     
   }
 
   const handleSelectFilter = (filter) => {       
     setFilter(filter) 
-    selectCategory(-1)  
     selectService(null)
   }
 
@@ -61,12 +61,13 @@ export const ProductPageTemplate = ({
           backgroundImage: `url(${
             !!image.childImageSharp ? image.childImageSharp.fluid.src : image
           })`,
+          backgroundPosition: `center`,
+        backgroundAttachment: `fixed`,
         }}
       >
         <h2
           className="has-text-weight-bold is-size-1"
           style={{
-            boxShadow: '0.5rem 0 0 #00000077, -0.5rem 0 0 #00000077',
             backgroundColor: '#00000077',
             color: '#eee',
             padding: '1rem',
@@ -92,12 +93,12 @@ export const ProductPageTemplate = ({
                 <div className="column" style={{padding:0, marginBottom: '2rem'}}>
                 <div className="only-touch">
                     <ServiceCardModal data={currentService} close={() => selectService(null)} isOpen={currentService != null} />
-                  <div className="category-menu">
-                      <Filter selectFilter={handleSelectFilter} currentFilter={currentFilter} />          
+                  <div className="category-menu">                          
                     <CategoryMenuTouch  data={serviceData} 
                       selectCategory={handleSelectCategory}
                       currentCategory={currentCategory}
-                      />
+                      selectFilter={handleSelectFilter} 
+                      currentFilter={currentFilter}/>
                   </div>
                   </div>
                 

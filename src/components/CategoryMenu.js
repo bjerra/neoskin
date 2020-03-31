@@ -14,7 +14,7 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                     data.map(({category}, index) => {
                     return(                                        
                             <li key={category} >
-                            <div className={`category-button ${currentCategory === index ? 'is-active' : ''}`}                         
+                            <div className={`category-button ${currentFilter === -1 && currentCategory === index ? 'is-active' : ''}`}                         
                                 onClick={() => selectCategory(index)}>                                    
                             {category}                        
  
@@ -28,11 +28,11 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                 </p>     
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    filters.map((filter, index) => {
+                    filters().map((filter, index) => {
                     return(                                        
                             <li key={filter} >
-                            <div className={`category-button ${currentFilter === filter ? 'is-active' : ''}`}                         
-                                onClick={() => selectFilter(filter)}
+                            <div className={`category-button ${currentFilter === index ? 'is-active' : ''}`}                         
+                                onClick={() => selectFilter(index)}
                                 >
                                     
                             {filter}                        

@@ -2,10 +2,10 @@
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$neoskin-blue: #4287f5
+$neoskin-blue: #8bc9b3
 $neoskin-blue-invert: #fff
-$neoskin-green: #327566
-$neoskin-green-invert: #ededed
+$neoskin-green: #baded3
+$neoskin-green-invert: #000
 
 $primary: $neoskin-green
 $primary-invert: $neoskin-green-invert
@@ -104,9 +104,11 @@ $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 0em 0em
 
 $navbar-item-color: $primary-invert
-$navbar-item-hover-color: $black
+$navbar-item-hover-color: $white
 $navbar-burger-color: $primary-invert
 $navbar-item-hover-background-color: none
+
+$modal-background-background-color: #0000005e
 
 .navbar-menu.is-active
     background-color: $primary
@@ -180,9 +182,10 @@ $navbar-item-hover-background-color: none
   font-weight: 700 !important
 
 .service-card
-    background-color: #fff
+    background-color: #fff !important
     display: block
-    line-height: 1.25    
+    line-height: 1.25   
+    border-radius: .5rem 
     margin-bottom: .5rem
     border: 3px solid $primary
     transition: all .5s ease;
@@ -196,7 +199,7 @@ $navbar-item-hover-background-color: none
 
 
 .service-info 
-    background-color: $primary-invert
+    background-color: #ededed
     margin: 0 1rem
     padding: 1rem
     font-size: 1.15rem
@@ -221,6 +224,17 @@ $navbar-item-hover-background-color: none
 .fade-in
     animation-duration: .2s;
     animation-name: fadein;
+
+.scale
+  transform: scaleY(0) !important; 
+  animation: scale-in 0.5s forwards;
+  -webkit-animation: scale-in 0.5s forwards;
+
+@keyframes scale-in 
+  0%
+    transform: scaleY(0); 
+  100% 
+    transform: scaleY(1); 
 
 @keyframes slide-in 
     100% 
@@ -280,7 +294,8 @@ $navbar-item-hover-background-color: none
 
 .bd-btn
     margin: auto;
-    display: inline-block
+    display: block
+    width: fit-content
     padding: .5rem
     border: 1px solid $primary-invert
     font-size: 22px
@@ -296,6 +311,11 @@ $navbar-item-hover-background-color: none
     box-shadow: inset 0 0 0 2px has-background-grey
     -webkit-transition: all .15s ease
     transition: all .15s ease
+
+.bd-btn:hover
+  border: 1px solid $primary-invert
+  background-color: $primary-invert
+  color: $primary
 
 .sticky 
     position: sticky 
