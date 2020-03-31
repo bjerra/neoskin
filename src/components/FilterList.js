@@ -1,6 +1,27 @@
 
-const filters = ['Acne', 'Rosacea', 'Acneärr','Pigment', 'Eksem',
- 'Anti-ageing', 'Xantelasma', 'Fibrom', 'Skin tags', 'Milier',
-  'Portöming', 'Hängande ögonlock', 'Påsar under ögonen', 'Rynkor', 'Slapp hud', 'Kapillärer', 'Känslig hud', 'Skön stund']
+const filters = [   
+    'Acne',
+    'Anti-ageing',
+    'Acneärr',
+    'Eksem',
+    'Fibrom',
+    'Fukt',
+    'Huduppstramning',
+    'Hängande ögonlock',
+    'Kapillärer',
+    'Känslig hud',
+    'Milier',
+    'Ojämn hudton',
+    'Pigmentfläckar',
+    'Portömning',
+    'Påsar under ögonen',
+    'Rosacea',
+    'Rynkor',
+    'Skin tags',
+    'Skön stund',
+    'Slapp hud',
+    'Textur',
+    'Xantelasma',
+]
 
   export default filters;

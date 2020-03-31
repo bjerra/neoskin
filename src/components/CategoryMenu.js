@@ -4,11 +4,24 @@ import filters from './FilterList'
 
 const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilter }) => {
     
+    const [tab, setTab] = useState(0)
+
     return(
-                <aside className="menu" style={{}}>   
-                <p class="category-title">
-                    Kategorier
-                </p>                         
+        <div>
+             <div className="columns" style={{width: '100%', margin: '0 1rem', display:'flex'}}>
+                <button 
+                    className={`button column ${tab === 0 ? 'is-active' : ''}`}                         
+                    onClick={() => setTab(0)}>                                    
+                    Kategorier                            
+                </button>   
+                <button 
+                    className={`button column ${tab === 1 ? 'is-active' : ''}`}                         
+                    onClick={() => setTab(1)}>                                    
+                    Områden                            
+                </button>                     
+            </div>
+            <aside className="menu">      
+            {tab === 0 ? (                              
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
                     data.map(({category}, index) => {
@@ -22,10 +35,8 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                             </li>            
                 )})
                 }                   
-                </ul>   
-                <p class="category-title">
-                    Områden
-                </p>     
+                </ul>    
+            ) : (             
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
                     filters.map((filter, index) => {
@@ -42,8 +53,11 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                             </li>            
                 )})
                 }                   
-                </ul>       
-        </aside>
+                </ul>   
+            ) }   
+            </aside>
+        </div>
+               
     )
 }
 
