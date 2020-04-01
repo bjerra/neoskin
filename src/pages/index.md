@@ -34,11 +34,7 @@ intro:
 
         Du som kund kan således känna dig trygg när du väljer en hudterapeut som
         är medlem i vårt förbund. SHR representerar den svenska sektionen i
-        CIDESCO.  CIDESCO har som främsta uppgift att ta tillvara och utveckla
-        standard och kvalitet inom hudterapeutyrket och närliggande branscher. 
-        CIDESCO sektion Sverige är den tredje största sektionen efter Japan och
-        Kina.
-
+        CIDESCO.  
 
         Vårt emblem är din trygghet – välj en hudterapeut som är medlem i SHR.
     - image: /img/victus-logo.jpg
