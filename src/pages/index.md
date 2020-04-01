@@ -51,9 +51,15 @@ intro:
         oslagbara priser. Läs mer om vad Fraxium kan göra för dig under
         behandlingar. Gämför gärna priserna du ser med dem som jobbar med samma
         teknologi uppe i Stockholm för att uppskatta denna unika möjlighet !
-    - image: /img/jett_logo_color_basic_159x159.png
-      text: |
-        Jett 
+    - image: /img/jett-plasma-logo.jpg
+      text: >+
+        JETT Plasma är en revolutionerande behandlingsmetod inom estetisk
+        dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
+        ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
+        diverse oönskade hudförändringar, motverkar hudens åldrande och bevarar
+        dess ungdomliga struktur. 
+
+
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
