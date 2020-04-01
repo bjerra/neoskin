@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Din hud är min passion !
-image: /img/i3bnnl2tt26kfqsmdsq3cq.jpg
+image: /img/arno-smit-skj7zsyluao-unsplash.jpg
 heading: 'Spirit, Passion & Joy'
 subheading: >-
   Välkommen att läsa min blog som handlar om hudhälsa, företagande och mycket
