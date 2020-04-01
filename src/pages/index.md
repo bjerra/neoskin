@@ -1,21 +1,18 @@
 ---
 templateKey: index-page
-title: Din hud är min passion !
+title: Nya tider för hudterapeuter
 image: /img/arno-smit-skj7zsyluao-unsplash.jpg
-heading: 'Spirit, Passion & Joy'
-subheading: >-
-  Välkommen att läsa min blog som handlar om hudhälsa, företagande och mycket
-  mer.
+heading: NEOSKIN
+subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 mainpitch:
-  title: NEOSKIN
-  description: >-
-    Ett litet företag med enorm potential och drivkraft att hjälpa så många som
-    möjligt att må bättre, utifrån och in. 
+  title: 'SIRIT, PASSION & JOY'
+  description: >
+    Stötta ditt lokala företag!  Men inte på bekostnad av din, eller andras
+    hälsa. 
 description: >-
-  Neoskin drivs utan 31-åriga Anaïs Schönborg, två barns mamma och sambo i ett
-  litet radhus på Rosenlund. Hon har inte bara en stor kunskap och lång
-  erfarenhet, hon har en unik färdighet och livserfarenhet fylld av olika
-  studier och äventyr. 
+  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
+  möjligt med hudhälsa, rutin, kunskap, produkter men även resultatinriktat
+  hudvård och en blogg.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -45,7 +42,7 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: 'TEST '
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
