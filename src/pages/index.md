@@ -57,16 +57,25 @@ intro:
         dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
         ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
         diverse oönskade hudförändringar, motverkar hudens åldrande och bevarar
-        dess ungdomliga struktur. 
+        dess ungdomliga struktur. Läs mer under behandlingar.
 
 
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/tabiskin.jpg
+      text: >+
+        TEBISKIN Cytoceuticals är en serie resultatinriktade hudvårdsprodukter
+        som genom innovativ vetenskaplig forskning skapats med de senaste
+        teknologierna för avancerad hudvård. Produkterna innehåller potenta
+        styrkor av aktiva ingredienser och är designade för att på cellnivå
+        samverka med huden och dess funktioner. Hemvård med TEBISKIN och dess
+        behandlingar ger Dig rätt förutsättningar för en vital och optimal
+        hudhälsa.
+
+
+        TEBISKIN Cytoceuticals fokuserar på orsaker framför symptom för
+        kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt
+        beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika
+        hudkonditioner.
+
   heading: 'TEST '
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
