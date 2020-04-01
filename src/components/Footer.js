@@ -5,6 +5,9 @@ import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
 
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+import { faEnvelope, faPhone, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
+
 
 const Footer = class extends React.Component {
   render() {
@@ -12,7 +15,7 @@ const Footer = class extends React.Component {
       <footer className="footer">     
         <div className="content has-text-centered">
           <div className="container">
-            <div className="columns">
+            <div className="columns is-centered">
               <div className="column is-3">       
                 <img
                   src={logo}
@@ -22,64 +25,68 @@ const Footer = class extends React.Component {
               </div>
               <div className="column is-3">
                 <section className="menu">
-                  <ul className="menu-list">
+                  <ul className="menu-list" style={{margin: '0 1rem'}}>                
                     <li>
-                      <Link to="/" className="navbar-item">
-                        Home
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/about">
-                        About
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/products">
-                        Products
-                      </Link>
-                    </li>                                   
-                    <li>
-                      <Link className="navbar-item" to="/blog">
-                        Latest Stories
-                      </Link>
-                    </li>
-                    <li>
-                      <Link className="navbar-item" to="/contact">
-                        Contact
-                      </Link>
-                    </li>
-                    <li>
-                      <a
-                        className="navbar-item"
-                        href="/admin/"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        Admin
-                      </a>
-                    </li>
+                    <a href="tel:+46722065222" title="+46722065222">
+                    <FontAwesomeIcon icon={faPhone} size="lg" pull="left"/>    
+                    <p className="contact-text">
+                      072-2065222     
+                    </p>
+                          
+                </a>
+            </li>
+             <li>
+             <a href="mailto:anais@neoskin.se" title="anais@neoskin.se">
+             <FontAwesomeIcon icon={faEnvelope} size="lg" pull="left"/>   
+             <p className="contact-text">
+             anais@neoskin.se    
+                    </p>
+             
+                  
+              </a> 
+             </li>
+             <li>
+                    <a rel="nofollow noreferrer external" href="https://www.google.com/maps/search/?api=1&amp;query=57.7815209,14.1746004" target="_blank">
+                    <FontAwesomeIcon icon={faMapMarkerAlt} size="lg" pull="left"/>     
+                    <p className="contact-text">
+                      Smedjegatan <br/> 38 553 20<br/> 
+                      Jönköping City  
+                      </p>
+                    </a>   
+                    </li>    
                   </ul>
                 </section>
               </div>        
               <div className="column is-3 social">
-                <a title="facebook" href="https://www.facebook.com/neoskin.se/">
+                <a href="https://www.facebook.com/neoskin.se/" target="_blank" rel="noopener noreferrer" title="neoskin.se@facebook">
                   <img
                     src={facebook}
                     alt="Facebook"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>              
-                <a title="instagram" href="https://www.instagram.com/neoskin.se/">
+                </a>       
+                <a href="https://instagram.com/neoskin.se" target="_blank" rel="noopener noreferrer" title="neoskin.se@Instagram">
                   <img
-                    src={instagram}
-                    alt="Instagram"
-                    style={{ width: '1em', height: '1em' }}
-                  />
-                </a>               
+                      src={instagram}
+                      alt="Instagram"
+                      style={{ width: '1em', height: '1em' }}
+                    />
+                </a>       
+                         
               </div>
-              <div className="column is-3"></div>
+              <div className="column is-3"> <a                        
+                        href="/admin/"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                         <p className="contact-text">
+                         Admin
+                          </p>
+                        
+                      </a></div>
             </div>
           </div>
+                     
         </div>
       </footer>
     )

@@ -1,9 +1,8 @@
 import React from 'react'
 import ServiceCard from './ServiceCard'
 
-
 const ServiceCardModal = ({data, close, isOpen}) => {
-
+    
     return(   
         <div className={`modal is-active slider ${isOpen ? 'slide-in' : 'slide-out'}`}>
             <div className="modal-background fade-in" onClick={close}>></div>

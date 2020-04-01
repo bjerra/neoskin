@@ -4,7 +4,7 @@
 // Kaldi logo brand color: #FD461E
 $neoskin-blue: #8bc9b3
 $neoskin-blue-invert: #fff
-$neoskin-green: #baded3
+$neoskin-green: #b6deb5
 $neoskin-green-invert: #000
 
 $primary: $neoskin-green
@@ -153,8 +153,8 @@ $modal-background-background-color: #0000005e
     text-align: center
     border-radius: .25rem
     border-left: 3px solid $primary
-    transition: all .15s ease
-  
+    transition: all .15s ease  
+
 .category-card
     background-color: #fff
     font-size: 1.25rem
@@ -225,10 +225,11 @@ $modal-background-background-color: #0000005e
     animation-duration: .2s;
     animation-name: fadein;
 
-.scale
+.scale-y
   transform: scaleY(0) !important; 
   animation: scale-in 0.5s forwards;
   -webkit-animation: scale-in 0.5s forwards;
+
 
 @keyframes scale-in 
   0%
@@ -239,6 +240,10 @@ $modal-background-background-color: #0000005e
 @keyframes slide-in 
     100% 
       transform: translateX(0%); 
+
+@keyframes slide-down
+    100% 
+      transform: translateY(0%); 
 
 @-webkit-keyframes slide-in 
     100% 
@@ -292,34 +297,52 @@ $modal-background-background-color: #0000005e
   font-weight: 600
   font-size: 1.25rem
 
-.bd-btn
-    margin: auto;
-    display: block
-    width: fit-content
-    padding: .5rem
-    border: 1px solid $primary-invert
-    font-size: 22px
-    font-size: 1.25rem
-    line-height: 1.25
-    background-color: $primary
-    border-radius: .5rem
-    text-decoration: none
-    font-weight: 650
-    color: $primary-invert
-    text-align: center
-    -webkit-box-shadow: inset 0 0 0 2px #CC3700
-    box-shadow: inset 0 0 0 2px has-background-grey
-    -webkit-transition: all .15s ease
-    transition: all .15s ease
+.bd-btn   
+  transform: scale(1)
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2rem
+  width: 50%;
 
-.bd-btn:hover
-  border: 1px solid $primary-invert
-  background-color: $primary-invert
-  color: $primary
+.tabs
+    align-items: stretch;
+    display: flex; 
+    font-size: 1.15rem !important;
+    justify-content: space-between;
+    overflow: hidden;
+    overflow-x: auto;
+    white-space: nowrap;
+
+.tabs ul 
+    align-items: center;
+    margin: 0 !important
+    border-bottom-color: $primary;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 0;
+    justify-content: flex-start;
+
+.tabs li
+  display: block
+
+.tabs li.is-active a
+  color: $primary 
+
+.bd-btn:hover  
+    transform: scale(1.1)
+
+.contact-text
+  font-size: 1.25rem
 
 .sticky 
-    position: sticky 
-    top: 30px 
+  position: sticky 
+  top: 30px 
+
+.footer li
+  padding-bottom: 1rem
 
 .only-desktop
     display: none
@@ -351,6 +374,9 @@ $modal-background-background-color: #0000005e
   .service-text
     margin-left: 1.5rem
     font-size: 1.15rem
+  .footer li
+    margin: auto;    
+    width: 50%;
 
 +desktop
   .only-touch

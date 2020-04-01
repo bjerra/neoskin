@@ -30,7 +30,7 @@ const CategoryCard = ({data, selectService, currentService, color}) => {
 
     return(   
             <div className="category-container" >   
-            <h2 className="category-title">
+            <h2 className="category-title ">
                 {category}
             </h2>                                         
                 {
@@ -41,7 +41,7 @@ const CategoryCard = ({data, selectService, currentService, color}) => {
                             <span style={{marginRight: '1 rem'}}>
                             {service.title}
                             </span>        
-                        </div>                               
+                        </div>                                                    
                     </div>
                     ))
                 }                                                                                                         

@@ -2,6 +2,7 @@ import React from 'react'
 import InfoCard from './ServiceInfoCard'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons'
+import boka from '../img/boka.png'
 
 
 const ServiceCard = ({data, color}) => {
@@ -38,7 +39,11 @@ const ServiceCard = ({data, color}) => {
                 </p> 
             </div>
             <div className="column">
-                <a className="bd-btn" href={service.url} target="_blank">BOKA</a>
+                <a href={service.url} target="_blank" rel="noopener noreferrer">    
+                    <figure class="image is-128x128">
+                        <img src={boka} alt={service.url}/>       
+                    </figure>                                     
+                </a>
             </div>                                                  
             </div>   
             <p className="variant-text">

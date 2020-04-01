@@ -1,6 +1,7 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/logo-nav.png'
+import bokadirekt from '../img/bokadirekt.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -61,22 +62,22 @@ const Navbar = class extends React.Component {
           >
             <div className="navbar-start has-text-centered">       
               <Link className="navbar-item" to="/about">
-                About
+                Om
               </Link>                      
               <Link className="navbar-item" to="/blog">
                 Blog
               </Link>
               <Link className="navbar-item" to="/contact">
-                Contact
+                Kontakt
               </Link>    
               <Link className="navbar-item" to="/products">
-                 Products
+                 Behandlingar
                 </Link>   
                     
             </div>
             <div className="navbar-end has-text-centered">      
-                <a class="navbar-item" href="https://www.bokadirekt.se/places/neoskin-jkpg-33692">
-                  <span className="bd-btn">BOKA</span>
+                <a class="navbar-item" href="https://www.bokadirekt.se/places/neoskin-jkpg-33692" target="_blank" rel="noopener noreferrer">
+                  <img src={bokadirekt} alt="BokaDirekt.se" style={{ maxHeight: '100%', width: '175px'}} />        
                 </a>      
             </div>
           </div>

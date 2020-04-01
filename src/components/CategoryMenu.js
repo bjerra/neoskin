@@ -8,17 +8,21 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
 
     return(
         <div>
-             <div className="columns" style={{width: '100%', margin: '0 1rem', display:'flex'}}>
-                <button 
-                    className={`button column ${tab === 0 ? 'is-active' : ''}`}                         
-                    onClick={() => setTab(0)}>                                    
-                    Kategorier                            
-                </button>   
-                <button 
-                    className={`button column ${tab === 1 ? 'is-active' : ''}`}                         
-                    onClick={() => setTab(1)}>                                    
-                    Områden                            
-                </button>                     
+            <div className="tabs">
+             <ul>
+                <li className={`${tab === 0 ? 'is-active' : ''}`}>     
+                    <a                                                
+                        onClick={() => setTab(0)}>                                    
+                        Behandlingstyp                           
+                    </a>  
+                    </li>
+                    <li className={`${tab === 1 ? 'is-active' : ''}`}>
+                        <a                                       
+                        onClick={() => setTab(1)}>                                    
+                        Behandlingsområde                           
+                        </a> 
+                    </li>
+                </ul>
             </div>
             <aside className="menu">      
             {tab === 0 ? (                              

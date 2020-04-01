@@ -14,8 +14,6 @@ import filters from '../components/FilterList'
 export const ProductPageTemplate = ({
   image,
   title,
-  heading,
-  description,
 }) => {
   
   let serviceData = useServicedata();
@@ -40,18 +38,16 @@ export const ProductPageTemplate = ({
   }
 
   const handleSelectCategory = (categoryIndex) => {
+    selectCategory(-1)   
     setFilter(-1)
     selectCategory(categoryIndex)   
     selectService(null)
-    
-    
   }
 
   const handleSelectFilter = (filter) => {       
     setFilter(filter) 
     selectService(null)
   }
-
 
   return(
     <div className="content">
@@ -81,7 +77,7 @@ export const ProductPageTemplate = ({
                     
               <div className="columns">
                                         
-                <div className="column only-desktop" style={{padding:0, marginBottom: '2rem'}}>                                    
+                <div className="column is-3 only-desktop" style={{padding:0, marginBottom: '2rem'}}>                                    
                   <CategoryMenu 
                     data={serviceData} 
                     selectCategory={handleSelectCategory}
@@ -90,9 +86,10 @@ export const ProductPageTemplate = ({
                     currentFilter={currentFilter}/>
                 </div>
                                       
-                <div className="column" style={{padding:0, marginBottom: '2rem'}}>
+                <div className="column is-5 " style={{padding:0, marginBottom: '2rem'}}>
                 <div className="only-touch">
-                    <ServiceCardModal data={currentService} close={() => selectService(null)} isOpen={currentService != null} />
+                  <ServiceCardModal data={currentService} close={() => selectService(null)} isOpen={currentService != null} />
+              
                   <div className="category-menu">                          
                     <CategoryMenuTouch  data={serviceData} 
                       selectCategory={handleSelectCategory}
@@ -100,15 +97,13 @@ export const ProductPageTemplate = ({
                       selectFilter={handleSelectFilter} 
                       currentFilter={currentFilter}/>
                   </div>
-                  </div>
-                
-                  <CategoryCard 
-                  data={data()} 
-                  selectService={selectService}
-                  currentService={currentService ? currentService.title : ''}
-                  color={colors[currentCategory]}/>
-                 
-                                                         
+                  </div> 
+                      <CategoryCard 
+                      data={data()} 
+                      selectService={selectService}
+                      currentService={currentService ? currentService.title : ''}
+                      color={colors[currentCategory]}/>
+                                  
                 </div>
                
                 <div className="column is-4 only-desktop" style={{padding:0, marginBottom: '2rem'}}>         
@@ -127,8 +122,6 @@ export const ProductPageTemplate = ({
 ProductPageTemplate.propTypes = {
   image: PropTypes.oneOfType([PropTypes.object, PropTypes.string]),
   title: PropTypes.string,
-  heading: PropTypes.string,
-  description: PropTypes.string,
 }
 
 const ProductPage = ({ data }) => {
@@ -138,9 +131,7 @@ const ProductPage = ({ data }) => {
     <Layout>
       <ProductPageTemplate
         image={frontmatter.image}
-        title={frontmatter.title}
-        heading={frontmatter.heading}
-        description={frontmatter.description}             
+        title={frontmatter.title}           
       />
     </Layout>
   )
@@ -168,8 +159,6 @@ export const productPageQuery = graphql`
             }
           }
         }
-        heading
-        description
       }
     }
   }
