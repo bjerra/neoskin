@@ -43,17 +43,17 @@ intro:
         Vårt emblem är din trygghet – välj en hudterapeut som är medlem i SHR.
     - image: /img/victus-logo.jpg
       text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+        Victus Medical Group  är en av landets främsta leverantörer av
+        högteknologisk estetisk apparatur för kliniker och salonger. De har
+        arbetat med hälsa, friskvård, välmående och skönhet i över ett
+        decennium. Neoskin kan, tack vare lägre hyror jämfört med större städer
+        behandla acneärr, åldrande hud, stora porer eller ojämn hudton till helt
+        oslagbara priser. Läs mer om vad Fraxium kan göra för dig under
+        behandlingar. Gämför gärna priserna du ser med dem som jobbar med samma
+        teknologi uppe i Stockholm för att uppskatta denna unika möjlighet !
+    - image: /img/jett_logo_color_basic_159x159.png
+      text: |
+        Jett 
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
