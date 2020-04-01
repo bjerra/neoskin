@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Nystart trots covid-19 kris och pandemi
-date: 2020-03-30T16:40:02.327Z
+date: 2020-03-29T16:40:02.327Z
 description: >-
   Det finns många sätt att hantera oro och stress. Bra sätt och mindre bra sätt,
   till och med dåliga sätt. Hur jag själv har valt att inte gräva ner huvudet i
