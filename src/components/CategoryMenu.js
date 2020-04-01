@@ -7,7 +7,7 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
     const [tab, setTab] = useState(0)
 
     return(
-        <div>
+        <div className="category-menu">
             <div className="tabs">
              <ul>
                 <li className={`${tab === 0 ? 'is-active' : ''}`}>     
@@ -24,7 +24,7 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                     </li>
                 </ul>
             </div>
-            <aside className="menu category-menu">      
+            <aside className="menu">      
             {tab === 0 ? (                              
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
