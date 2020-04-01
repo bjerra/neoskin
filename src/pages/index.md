@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: Din hud är min passion !
-image: /img/selphie.jpg
+image: /img/dxxdyw5rroudmeahmoxxpw.jpg
 heading: 'Spirit, Passion & Joy'
 subheading: >-
   Välkommen att läsa min blog som handlar om hudhälsa, företagande och mycket
