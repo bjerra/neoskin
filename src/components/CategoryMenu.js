@@ -24,7 +24,7 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                     </li>
                 </ul>
             </div>
-            <aside className="menu">      
+            <aside className="menu category-menu">      
             {tab === 0 ? (                              
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {

@@ -40,9 +40,7 @@ const ServiceCard = ({data, color}) => {
             </div>
             <div className="column">
                 <a href={service.url} target="_blank" rel="noopener noreferrer">    
-                    <figure class="image is-128x128">
-                        <img src={boka} alt={service.url}/>       
-                    </figure>                                     
+                    <img className="bd-btn" src={boka} alt={service.url}/>                                      
                 </a>
             </div>                                                  
             </div>   
