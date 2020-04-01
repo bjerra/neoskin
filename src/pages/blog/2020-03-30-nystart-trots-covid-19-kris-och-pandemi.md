@@ -9,7 +9,7 @@ description: >-
 featuredpost: true
 featuredimage: /img/a57f5222-f597-4c13-a970-4cc98dd23547.jpeg
 tags:
-  - '#jettplasma Jett Plasma #hudvård Hudvård'
+  - Jönköping
 ---
 Här sitter jag nu, måndag kväll i Jönköping...
 
