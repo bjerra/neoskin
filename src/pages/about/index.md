@@ -2,11 +2,11 @@
 templateKey: about-page
 path: /about
 title: Om mig
-image: /img/arno-smit-skj7zsyluao-unsplash.jpg
+image: /img/a57f5222-f597-4c13-a970-4cc98dd23547.jpeg
 ---
 ### Personen bakom Neoskin
 
-![](/img/selphie.jpg)
+![]()
 
 Jag heter Anaïs Schönborg och är en Auktoriserad hudterapeut sedan 2013.  Min yrkesutbildning är ifrån Bryssel, det var två år på fulltid och inkluderade 900 tim praktik. År 2013 fortföljde jag min utbildning med ytterligare ett års studier för att uppnå min Masters degree inom hudvård / hudhälsa på “Le Centre Européen de l´ Esthétique”
 
