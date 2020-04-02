@@ -2,7 +2,7 @@
 templateKey: product-page
 path: /products
 title: Behandlingar
-image: /img/img_5644b.jpg
+image: /img/4feba399-e4b1-4796-bae1-df65ddaafbe9.jpg
 heading: Great coffee with a conscience
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
