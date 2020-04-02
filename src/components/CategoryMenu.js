@@ -13,13 +13,13 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
                 <li className={`${tab === 0 ? 'is-active' : ''}`}>     
                     <a                                                
                         onClick={() => setTab(0)}>                                    
-                        Behandlingstyp                           
+                        Kategori                           
                     </a>  
                     </li>
                     <li className={`${tab === 1 ? 'is-active' : ''}`}>
                         <a                                       
                         onClick={() => setTab(1)}>                                    
-                        Behandlingsområde                           
+                        Område                           
                         </a> 
                     </li>
                 </ul>

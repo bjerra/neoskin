@@ -48,8 +48,8 @@ const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilt
     return( 
         
         <div className="columns" style={{width: '100%', margin: '0 1rem', display:'flex'}}>
-            {dropdown({items: filters, label: 'Behandlingsområde', onSelect: selectFilter})}
-            {dropdown({items: categories, label: ' Behandlingstyp', onSelect: selectCategory})} 
+            {dropdown({items: filters, label: 'Område', onSelect: selectFilter})}
+            {dropdown({items: categories, label: 'Kategori', onSelect: selectCategory})} 
         </div>
           
     )

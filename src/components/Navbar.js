@@ -40,11 +40,9 @@ const Navbar = class extends React.Component {
         aria-label="main-navigation"
       >      
         <div className="container" style={{height: '100%'}}>
-          <div className="navbar-logo">
-            <Link to="/" className="navbar-item" title="Logo" >
+            <Link to="/" className="navbar-logo" title="Logo" >
                 <img src={logo} alt="NeoSkin" style={{ maxHeight: '100%', width: '175px'}} />        
             </Link>         
-          </div>
 
           <div
             className="navbar-main"

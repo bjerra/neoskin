@@ -1,14 +1,23 @@
 const {AWS_ID, AWS_KEY} = process.env;
+
 module.exports = {
 
   siteMetadata: {
-    title: 'Neoskin',
+    title: 'Neoskin Jönköping',
     description:
-      '',
+      'Tjänster inom skönhet och hudvård i centrala Jönköping',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    {
+      resolve: 'gatsby-plugin-web-font-loader',
+      options: {
+        google: {
+          families: ['Sofia', 'Assistant']
+        }
+      }
+    },
     {
       resolve: 'gatsby-source-dynamodb',
       options: {
