@@ -5,7 +5,7 @@ import filters from './FilterList'
 
 const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilter }) => {
     
-    const [tab, setTab] = useState(0)
+    const [tab, setTab] = useState(-1)
 
     return(
         <div className="category-menu">
