@@ -36,20 +36,14 @@ export const IndexPageTemplate = ({
         }}
       >
         <h1
-          className="has-text-weight-bold is-size-3-mobile is-size-2-tablet is-size-1-widescreen"
-          style={{
-            backgroundColor: '#00000077',
-            color: '#eee',
-            padding: '1rem',
-          }}
+          className="page-title"      
         >
           {title}
         </h1>    
       </div>
     </div>
     <section className="section section--gradient">
-      <div className="container">
-        <div className="section">
+      <div className="container">      
           <div className="columns">
             <div className="column is-10 is-offset-1">
               <div className="content">
@@ -90,7 +84,6 @@ export const IndexPageTemplate = ({
                 </div>
               </div>
             </div>
-          </div>
         </div>
       </div>
     </section>

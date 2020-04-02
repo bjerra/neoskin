@@ -14,13 +14,7 @@ export default class BlogIndexPage extends React.Component {
           }}
         >
          <h1
-          className="has-text-weight-bold is-size-1"
-          style={{
-            boxShadow: '0.5rem 0 0 #00000077, -0.5rem 0 0 #00000077',
-            backgroundColor: '#00000077',
-            color: '#eee',
-            padding: '1rem',
-          }}
+          className="page-title"
         >
             Latest Stories
           </h1>

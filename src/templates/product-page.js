@@ -62,12 +62,7 @@ export const ProductPageTemplate = ({
         }}
       >
         <h2
-          className="has-text-weight-bold is-size-1"
-          style={{
-            backgroundColor: '#00000077',
-            color: '#eee',
-            padding: '1rem',
-          }}
+          className="page-title"
         >
           {title}
         </h2>

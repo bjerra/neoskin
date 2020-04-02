@@ -14,7 +14,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Sofia', 'Assistant']
+          families: ['Sofia', 'Assistant', 'Satisfy']
         }
       }
     },
