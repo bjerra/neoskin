@@ -23,4 +23,4 @@ Driven som jag är hade jag helt rätt profil att ta över affären, jag hade re
 
 Efter min långa analys av verksamheten kom jag fram till den perfekta lösningen: jag skulle ta in en partner för att dela på riskerna och ta över verksamheten tillsammans med en kollega. Det konstiga var att ägaren stoppade försäljningen när jag utryckte min vilja om att ta in en till delägare i förhandlingen.  Idag kan jag inte annat än att känna en enorm tacksamhet för att det aldrig blev någon affär, det känns som att jag kom undan någonting som inte riktigt stämde. 
 
-Hade det blivit en affär hade vi tagit över salongen nu i april, eller första maj... med Covid-19 pandemin och tillhörande kris hade kostnaderna involverade i affären och uppsägningar av hyresgäster med stor sannolikhet satt oss i konkurs snabbare än det hade gått att säga " Corona".
+Hade det blivit en affär hade vi tagit över salongen nu i april, eller första maj... Nu med Covid-19 pandemin och tillhörande kris hade kostnader och uppsägningar med stor sannolikhet satt oss i konkurs, snabbare än det hade gått att säga : " Corona".
