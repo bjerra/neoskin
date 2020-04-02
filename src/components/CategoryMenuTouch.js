@@ -46,6 +46,7 @@ const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilt
 
     const categories = data.reduce((acc, current) => ([...acc, current.category]),[])
     return( 
+        
         <div className="columns" style={{width: '100%', margin: '0 1rem', display:'flex'}}>
             {dropdown({items: filters, label: 'Behandlingsområde', onSelect: selectFilter})}
             {dropdown({items: categories, label: ' Behandlingstyp', onSelect: selectCategory})} 

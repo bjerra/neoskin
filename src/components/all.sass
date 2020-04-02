@@ -1,19 +1,24 @@
 @import "~bulma/sass/utilities/initial-variables"
+@import url(http://fonts.googleapis.com/css?family=Sofia|Assistant:400italic,700italic,400,700);
+
+
+$roboto-slab: 'Sofia', serif;   
+$open-sans: 'Assistant', sans-serif;
 
 // Config vars
 // Kaldi logo brand color: #FD461E
-$neoskin-blue: #8bc9b3
-$neoskin-blue-invert: #fff
-$neoskin-green: #111
-$neoskin-green-invert: #000
+$neoskin-beige: #fbf5ed
+$neoskin-beige-invert: #e2d8c6
+$neoskin-pink: #fff4f4
+$neoskin-pink-invert: #9c6e77
 
-$primary: $neoskin-green
-$primary-invert: $neoskin-green-invert
-$info: $neoskin-green-invert
-$info-invert: $neoskin-blue-invert
+$primary: $neoskin-pink
+$primary-invert: $neoskin-pink-invert
+$info: $neoskin-beige
+$info-invert: $neoskin-beige-invert
 $body-color: #333
 $black: #2b2523
-$family-primary: Lora
+$family-primary: $open-sans
 
 .navbar .navbar-menu
   box-shadow:none !important
@@ -102,7 +107,7 @@ $menu-nested-list-margin: 0em 0em
 $menu-nested-list-padding-left: .5em
 $menu-list-link-padding: 0em 0em
 
-$navbar-item-color: $primary-invert
+$navbar-item-color: $black
 $navbar-item-hover-color: #bbb
 $navbar-burger-color: $primary-invert
 $navbar-item-hover-background-color: none
@@ -139,6 +144,8 @@ $modal-background-background-color: #0000005e
 
 .category-menu  
     border-radius: .25rem
+    border: 2px solid $info-invert
+    background-color: $info
     
 
 .category-container
@@ -146,7 +153,6 @@ $modal-background-background-color: #0000005e
     display: block
     padding: 0 1rem
     height: 100%
-    text-align: center
     transition: all .15s ease  
 
 .category-card
@@ -156,24 +162,24 @@ $modal-background-background-color: #0000005e
     padding: 1rem  
     border-radius: .25rem
     cursor: pointer
-    border-bottom: 1px solid #ddd
+    border-bottom: 1px solid $info-invert
     transition: all .15s ease
     transition: border-color .5s ease;
 
     &.is-active
-      border-bottom: 3px solid $primary
-      color: $primary
+      border-bottom: 3px solid $primary-invert
+      color: $primary-invert
     
     &:hover
-      color: $primary
+      color: $primary-invert
 
 .category-title
   font-size: 1.5rem !important
-  margin: 1rem 1rem 0 1rem !important
-  padding: .5rem !important
-  background-color: #eee !important
+  padding: 1rem !important
+  background-color: $info !important
   text-align: center
-  font-weight: 700 !important
+  font-family: $roboto-slab
+  font-weight: 500 !important
 
 .service-card
     background-color: #fff !important
@@ -181,7 +187,7 @@ $modal-background-background-color: #0000005e
     line-height: 1.25   
     border-radius: .5rem 
     margin-bottom: .5rem
-    border: 3px solid $primary
+    border: 3px solid $info-invert
     transition: all .5s ease;
     animation: fadeinborder .5s;
 
@@ -189,16 +195,17 @@ $modal-background-background-color: #0000005e
     from
       border: 3px solid transparent
     to 
-      border: 3px solid $primary 
+      border: 3px solid $primary-invert 
 
 
 .service-info 
-    background-color: #ededed
+    background-color: $primary
+    border: 1px solid $primary-invert
+    border-radius: .5rem
     margin: 0 1rem
     padding: 1rem
     font-size: 1.15rem
     font-weight: 700 !important
-    border-bottom: 1px solid #ccc
 
 .info-card 
     padding: 2rem
@@ -236,11 +243,14 @@ $modal-background-background-color: #0000005e
   position: absolute
   left: .5rem
   top: 0
+  cursor: pointer
 
 .navbar-bd
+  width: 7rem
   position: absolute
   right: 1rem
-  transform: translateY(50%)
+  top: .5rem
+  
 
 .navbar-main
   align-items: center;
@@ -307,12 +317,12 @@ $modal-background-background-color: #0000005e
     transition: border-color .5s ease;
 
     &:hover
-        color: $primary
+        color: $primary-invert
     
     
 .category-button.is-active
-    border-bottom: 3px solid $primary !important;
-    color: $primary
+    border-bottom: 3px solid $primary-invert !important;
+    color: $primary-invert
 
 .servicelist-item
     border-bottom: 1px solid #baa477;
@@ -332,18 +342,14 @@ $modal-background-background-color: #0000005e
     align-items: stretch;
     display: flex; 
     font-size: 1.15rem !important;
-    justify-content: space-between;
-    overflow: hidden;
-    overflow-x: auto;
+    justify-content: stretch;
+    overflow: hidden !important;
     white-space: nowrap;
     margin: 0 !important
 
 .tabs ul 
     align-items: center;
     margin: 0 !important
-    border-bottom-color: $primary;
-    border-bottom-style: solid;
-    border-bottom-width: 1px;
     display: flex;
     flex-grow: 1;
     flex-shrink: 0;
@@ -351,15 +357,16 @@ $modal-background-background-color: #0000005e
 
 .tabs li
   flex: auto
-  display: block
-  background: #ddd
-
+  background-color: $info-invert
+  display: block 
+  
+  
+.tabs a
+    color: #00000088 !important
 .tabs li.is-active a
-  color: $primary 
-  background: #eee
-
-aside
-   background-color: #eee !important
+  color: $black !important
+  background-color: $info
+  border-bottom-color: $primary-invert !important
 
 .bd-btn:hover  
     transform: scale(1.1)
@@ -373,7 +380,14 @@ aside
 
 .footer li
   padding-bottom: 1rem
- 
+
+.footer li a
+  display: flex
+  align-items: center
+  text-align: left
+
+.footer li a p
+  padding-left: 1rem
 
 .only-desktop
     display: none
@@ -399,7 +413,7 @@ aside
   .navbar-container
     height: 100px
   .navbar-bd
-    width: 8rem
+    width: 5rem
   .navbar-main
     justify-content: space-around
   

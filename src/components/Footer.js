@@ -16,7 +16,8 @@ const Footer = class extends React.Component {
         <div className="content has-text-centered">
           <div className="container">
             <div className="columns is-centered">
-              <div className="column is-3">       
+              
+              <div className="column is-3">             
                 <img
                   src={logo}
                   alt="Neoskin"
@@ -28,7 +29,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list" style={{margin: '0 1rem'}}>                
                     <li>
                     <a href="tel:+46722065222" title="+46722065222">
-                    <FontAwesomeIcon icon={faPhone} size="lg" pull="left" color="#eee"/>    
+                    <FontAwesomeIcon icon={faPhone} size="lg" color="#eee"/>    
                     <p className="contact-text">
                       072-2065222     
                     </p>
@@ -37,7 +38,7 @@ const Footer = class extends React.Component {
             </li>
              <li>
              <a href="mailto:anais@neoskin.se" title="anais@neoskin.se">
-             <FontAwesomeIcon icon={faEnvelope} size="lg" pull="left" color="#eee"/>   
+             <FontAwesomeIcon icon={faEnvelope} size="lg" color="#eee"/>   
              <p className="contact-text">
              anais@neoskin.se    
                     </p>
@@ -47,7 +48,7 @@ const Footer = class extends React.Component {
              </li>
              <li>
                     <a rel="nofollow noreferrer external" href="https://www.google.com/maps/search/?api=1&amp;query=57.7815209,14.1746004" target="_blank">
-                    <FontAwesomeIcon icon={faMapMarkerAlt} size="lg" pull="left" color="#eee"/>     
+                    <FontAwesomeIcon icon={faMapMarkerAlt} size="lg" color="#eee"/>     
                     <p className="contact-text">
                       Smedjegatan <br/> 38 553 20<br/> 
                       Jönköping City  
