@@ -14,7 +14,7 @@ const ServiceCard = ({data, color}) => {
        
         <div className="service-info">
             {alts &&
-                <h2 style={{textAlign: 'center', fontSize: '1.5rem', backgroundColor: '#dcdcdc'}}>
+                <h2 style={{textAlign: 'center', fontSize: '1.5rem', backgroundColor: '#00000011'}}>
                 {service.title}
             </h2>  
             }

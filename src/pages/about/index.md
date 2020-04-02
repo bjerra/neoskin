@@ -2,6 +2,7 @@
 templateKey: about-page
 path: /about
 title: Om mig
+image: /img/arno-smit-skj7zsyluao-unsplash.jpg
 ---
 ### Personen bakom Neoskin
 
