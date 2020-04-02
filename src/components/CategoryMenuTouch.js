@@ -5,53 +5,69 @@ import filters from './FilterList'
 
 const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilter }) => {
     
-    const [expanded, toggleMenu] = useState("")
+    const [tab, setTab] = useState(0)
 
-    const dropdown = ({items, label, onSelect}) => (
-        <div className="column" style={{padding: '0'}}>
-<       div className={`dropdown ${expanded === label ? 'is-active' : ''}`} style={{width: '100%'}}>
-            <div className="dropdown-trigger "style={{width: '100%'}}>
-                <button class="category-button" 
-                    style={{width: '100%', padding: '.5rem', backgroundColor: '#fff', textAlign: 'center'}} 
-                    aria-haspopup="true" 
-                    aria-controls="dropdown-menu" 
-                    onClick={() => toggleMenu(expanded === label ? '' : label)}>
-                <span className="subtitle">{label}</span>              
-                 <FontAwesomeIcon icon={faAngleDown} pull="right" color="#ddd"/>
-                
-                </button>
+    return(
+        <div className="category-menu">
+            <div className="tabs">
+             <ul>
+                <li className={`${tab === 0 ? 'is-active' : ''}`}>     
+                    <a onClick={() => setTab(tab === 0 ? -1 : 0)}>                                    
+                        Kategori                           
+                    </a>  
+                    </li>
+                    <li className={`${tab === 1 ? 'is-active' : ''}`}>
+                        <a onClick={() => setTab(tab === 1 ? -1 : 1)}>                                    
+                        Område                           
+                        </a> 
+                    </li>
+                </ul>
             </div>
-            <div className="dropdown-menu" id="dropdown-menu" role="menu" style={{width: '100%'}}>
-                     <div className="dropdown-content">
-                     { 
-                         items.map((item, index) => {
-                         return(   
-                             <div key={item} className="dropdown-item" style={{padding: '.5rem'}}>
-                                 <div className="category-button"                         
-                                 onClick={() => {
-                                     toggleMenu("")
-                                     onSelect(index)}
-                                 }>
-                                 {item}
-                                 </div>  
-                             </div>
-                         )})
-                     }
-                     
-                 </div>             
-            </div>
-        </div> 
+            <aside className="menu">      
+            {tab === 0  &&                 
+                <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
+                {
+                    data.map(({category}, index) => {
+                    return(                                        
+                            <li key={category} >
+                            <div className={`category-button ${currentFilter === -1 && currentCategory === index ? 'is-active' : ''}`}                         
+                                onClick={() => {
+                                    selectCategory(index)
+                                    setTab(-1)
+                                }}>                                    
+                            {category}                        
+ 
+                            </div>                        
+                            </li>            
+                )})
+                }                   
+                </ul>                         
+            }
+             {tab === 1  &&          
+                <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
+                {
+                    filters.map((filter, index) => {
+                    return(                                        
+                            <li key={filter} >
+                            <div className={`category-button ${currentFilter === index ? 'is-active' : ''}`}                         
+                                onClick={() => {
+                                    selectFilter(index)
+                                    setTab(-1)
+                                }}
+                                >
+                                    
+                            {filter}                        
+                               
+                           
+                            </div>                        
+                            </li>            
+                )})
+                }                   
+                </ul>   
+            }   
+            </aside>
         </div>
-    )
-
-    const categories = data.reduce((acc, current) => ([...acc, current.category]),[])
-    return( 
-        
-        <div className="columns" style={{width: '100%', margin: '0 1rem', display:'flex'}}>
-            {dropdown({items: filters, label: 'Område', onSelect: selectFilter})}
-            {dropdown({items: categories, label: 'Kategori', onSelect: selectCategory})} 
-        </div>
-          
+               
     )
 }
 

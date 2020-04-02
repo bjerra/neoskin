@@ -85,7 +85,7 @@ export const ProductPageTemplate = ({
                 <div className="only-touch">
                   <ServiceCardModal data={currentService} close={() => selectService(null)} isOpen={currentService != null} />
               
-                  <div className="category-menu">                          
+                  <div>                          
                     <CategoryMenuTouch  data={serviceData} 
                       selectCategory={handleSelectCategory}
                       currentCategory={currentCategory}
