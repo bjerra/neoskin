@@ -1,11 +1,13 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: Om mig
 ---
-### Rubrik
-Jag heter Anaïs Schönborg och är en Auktoriserad hudterapeut sedan 2013. 
-Min yrkesutbildning är ifrån Bryssel, det var två år på fulltid och inkluderade 900 tim praktik. År 2013 fortföljde jag min utbildning med ytterligare ett års studier för att uppnå min Masters degree inom hudvård / hudhälsa på “Le Centre Européen de l´ Esthétique”
+### Personen bakom Neoskin
+
+![](/img/selphie.jpg)
+
+Jag heter Anaïs Schönborg och är en Auktoriserad hudterapeut sedan 2013.  Min yrkesutbildning är ifrån Bryssel, det var två år på fulltid och inkluderade 900 tim praktik. År 2013 fortföljde jag min utbildning med ytterligare ett års studier för att uppnå min Masters degree inom hudvård / hudhälsa på “Le Centre Européen de l´ Esthétique”
 
 Efter en första anställning på min praktikplats öppnade jag min första salong “ Anaïs Aesthetica Consulting” i Bryssel år 2015.
 
@@ -23,9 +25,9 @@ Nicolina som också är en auktoriserad hudterapeut i grunden har specialiserat 
 
 Varmt välkommen till oss i centrala Jönköping!
 
+### Utbildning och erfarenhet
 
-### Rubrik
-2020 - Utbildning I Esse pro-biotic och Yumi Lashes
+2020 - Utbildning i Yumi Lashes
 
 2020 - COVID-19 utbrott i Europa: fördjupningskurs i hygien och egenkontroll för optimal kundsäkerhet.
 
@@ -46,7 +48,7 @@ Varmt välkommen till oss i centrala Jönköping!
 2016 - Naturo-Esthétique Kurgivare: Laboratoires Phyt´s - i Bryssel
 
 2015 - Öppnar egen salong: Anaïs Aesthetica Consulting -  i Bryssel.
- 
+
 2015 - AICI godkänd Advanced Image consultant på London Image Institute. - i London
 
 2014 - AICI godkänd Image Consultant på London Image Institute. - i London
@@ -58,7 +60,7 @@ Varmt välkommen till oss i centrala Jönköping!
 2011-2013 - Tvåårig hudterapeututbildning på då CEDEB som inkluderade 900h praktik på SPASIBA ( nu Dip Nature). - i Bryssel.
 
 2010-2011 - Communication på Vesalius College of Brussels. En erfarenhet som fortfarande visar sig vara av stor nytta än idag.
- 
+
 2010 - Tolk och översättare på ISTI. - i Bryssel. Det var delvis mer lukrativt men hade också en roligare karriärmöjlighet än tidigare val.
 
 2008-2010 - Bildlärare på ISPG. - i Bryssel. Jag har alltid känt mig mycket pedagogisk samt gillat att hjälpa andra människor att bli och känna sig bättre. Bild och Estetik är och har alltid varit en del av mig. Redan som barn påpekade mina lärare att jag hade ett mycket starkt estetiskt sinne. 
@@ -66,4 +68,3 @@ Varmt välkommen till oss i centrala Jönköping!
 2008 - Turism på ECSEDI-ISALT. - i Bryssel. Det första jag provade på efter studenten då jag ville utnyttja mina språk och har alltid varit intresserad av att resa och upptäcka världen.
 
 2008 - European Baccalaureate på Ecole Européenne de Bruxelles II
-
