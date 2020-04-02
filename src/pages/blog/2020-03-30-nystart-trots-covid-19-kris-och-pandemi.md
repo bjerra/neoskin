@@ -3,9 +3,8 @@ templateKey: blog-post
 title: Nystarten Del 1 - Ensam eller inget...
 date: 2020-03-29T16:40:02.327Z
 description: >-
-  Det finns många sätt att hantera oro och stress. Bra sätt och mindre bra sätt,
-  till och med dåliga sätt. Hur jag själv har valt att inte gräva ner huvudet i
-  sanden men ändå hålla en positiv inställning till livet.
+  “Kom ihåg att det ibland är en riktig lyckträff att inte få det du vill ha.” -
+  Dalai Lama
 featuredpost: true
 featuredimage: /img/5-jegxecrt6kljgjr0jztg.jpg
 tags:
