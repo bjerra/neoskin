@@ -1,23 +1,14 @@
 ---
-templateKey: index-page
-title: Nya tider för hudterapeuter
-image: /img/arno-smit-skj7zsyluao-unsplash.jpg
 heading: NEOSKIN
 subheading: Välkommen till en hemsida som tänker framtid och möjligheter
+templateKey: index-page
+title: Nya tider för hudterapeuter
+image: /img/web-cherries.jpg
 mainpitch:
   title: 'SPIRIT, PASSION & JOY'
   description: >
     Stötta ditt lokala företag!  Men inte på bekostnad av din, eller andras
     hälsa. 
-description: >-
-  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
-  möjligt med resultatinriktat hudvård, hudhälsa, konsultationer för
-  skräddarsydd kunskap och vägledning men också med ett varmt och tryggt
-  omhändetagande av varje kund.  Med tanke på den globala krisen idag, måste små
-  företag tänka om deras verksamhet för att passa in i ett samhälle där det
-  råder: oro, sjukdom och stor osäkerhet om framtidens utlopp. Här utvecklas
-  därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
-  på bloggen.
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
@@ -94,5 +85,14 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
+description: >-
+  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
+  möjligt med resultatinriktat hudvård, hudhälsa, konsultationer för
+  skräddarsydd kunskap och vägledning men också med ett varmt och tryggt
+  omhändetagande av varje kund.  Med tanke på den globala krisen idag, måste små
+  företag tänka om deras verksamhet för att passa in i ett samhälle där det
+  råder: oro, sjukdom och stor osäkerhet om framtidens utlopp. Här utvecklas
+  därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
+  på bloggen.
 ---
 
