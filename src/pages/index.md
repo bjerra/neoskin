@@ -5,7 +5,7 @@ templateKey: index-page
 title: Nya tider för hudterapeuter
 image: /img/web-cherries.jpg
 mainpitch:
-  title: 'SPIRIT, PASSION & JOY'
+  title: 'PASSION, SPIRIT & JOY'
   description: >
     Stötta ditt lokala företag!  Men inte på bekostnad av din, eller andras
     hälsa. 
