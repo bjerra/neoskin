@@ -1,4 +1,4 @@
-const {AWS_ID, AWS_KEY} = process.env;
+const {AWS_ID, AWS_KEY, GA_ID} = process.env;
 
 module.exports = {
 
@@ -14,7 +14,7 @@ module.exports = {
       resolve: `gatsby-plugin-google-analytics-gdpr`,
       options: {
         // The property ID; the tracking code won't be generated without it.
-        trackingId: "UA-148237270-1", 
+        trackingId: GA_ID, 
         // Optional parameter (default false) - Enable analytics in development mode.
         enableDevelopment: false, // default false
         // Optional parameter (default true) - Some countries (such as Germany) require you to use the _anonymizeIP function for Google Analytics. Otherwise you are not allowed to use it.
@@ -35,8 +35,8 @@ module.exports = {
       resolve: 'gatsby-source-dynamodb',
       options: {
         typeName: 'Dynamo',
-        accessKeyId: "AKIAT6OGSPLTRZY4S4F6", 
-        secretAccessKey: "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",
+        accessKeyId: AWS_ID, 
+        secretAccessKey: AWS_KEY,
         region: 'eu-north-1',
         params: {
           TableName : "Anais",
