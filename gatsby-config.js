@@ -11,6 +11,19 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     {
+      resolve: `gatsby-plugin-google-analytics-gdpr`,
+      options: {
+        // The property ID; the tracking code won't be generated without it.
+        trackingId: "UA-148237270-1", 
+        // Optional parameter (default false) - Enable analytics in development mode.
+        enableDevelopment: false, // default false
+        // Optional parameter (default true) - Some countries (such as Germany) require you to use the _anonymizeIP function for Google Analytics. Otherwise you are not allowed to use it.
+        anonymizeIP: true,
+        // Optional parameter (default false) - Starts google analytics with cookies enabled. In some countries (such as Germany) this is not allowed.
+        autoStartWithCookiesEnabled: false,      
+      },
+    },
+    {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
@@ -22,8 +35,8 @@ module.exports = {
       resolve: 'gatsby-source-dynamodb',
       options: {
         typeName: 'Dynamo',
-        accessKeyId: AWS_ID, 
-        secretAccessKey: AWS_KEY,
+        accessKeyId: "AKIAT6OGSPLTRZY4S4F6", 
+        secretAccessKey: "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",
         region: 'eu-north-1',
         params: {
           TableName : "Anais",
