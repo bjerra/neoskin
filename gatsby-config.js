@@ -5,7 +5,7 @@ module.exports = {
   siteMetadata: {
     title: 'Neoskin Jönköping',
     description:
-      'Tjänster inom skönhet och hudvård i centrala Jönköping',
+      'Skönhetssalong med Tjänster inom skönhet och hudvård i centrala Jönköping',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
