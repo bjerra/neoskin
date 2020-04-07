@@ -10,7 +10,7 @@ export default class BlogIndexPage extends React.Component {
         <div
           className="full-width-image-container margin-top-0"
           style={{
-            backgroundImage: `url('/img/blog-index.jpg')`,
+            backgroundImage: `url('/img/blog-index.webp')`,
           }}
         >
          <h1
@@ -19,7 +19,7 @@ export default class BlogIndexPage extends React.Component {
             Latest Stories
           </h1>
         </div>
-        <section className="section">
+        <section className="section" style={{padding: '0 0.5rem'}}>
           <div className="container">
             <div className="content">
               <BlogRoll />

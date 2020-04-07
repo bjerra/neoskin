@@ -1,3 +1,7 @@
+require("dotenv").config({
+  path: `.env.${process.env.NODE_ENV}`,
+})
+
 const {AWS_ID, AWS_KEY, GA_ID} = process.env;
 
 module.exports = {

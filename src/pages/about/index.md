@@ -2,7 +2,7 @@
 templateKey: about-page
 path: /about
 title: Om mig
-image: /img/a57f5222-f597-4c13-a970-4cc98dd23547.jpeg
+image: /img/about.webp
 ---
 ### Personen bakom Neoskin
 
