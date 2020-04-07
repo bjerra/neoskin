@@ -1,6 +1,4 @@
-import React, { useState } from 'react'
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-import { faAngleRight } from '@fortawesome/free-solid-svg-icons'
+import React from 'react'
 
 const CategoryCard = ({data, selectService, currentService, color}) => {
     const { category, services } = data;
@@ -36,8 +34,7 @@ const CategoryCard = ({data, selectService, currentService, color}) => {
                 {
                     modifiedServices.map((service) => (
                     <div onClick={() => selectService(service)}>
-                        <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`} style={{backgroundColor: color}}>
-                        <FontAwesomeIcon icon={faAngleRight} pull="right" color="#ddd"/>         
+                        <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`} style={{backgroundColor: color}}>                  
                             <span style={{marginRight: '1 rem'}}>
                             {service.title}
                             </span>        
