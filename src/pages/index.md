@@ -3,7 +3,7 @@ heading: NEOSKIN
 subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 templateKey: index-page
 title: Nya tider för hudterapeuter
-image: /img/web-cherries.jpg
+image: /img/web-cherries.webp
 mainpitch:
   title: 'PASSION, SPIRIT & JOY'
   description: >
