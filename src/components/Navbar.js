@@ -2,6 +2,7 @@ import React from 'react'
 import { Link } from 'gatsby'
 import logo from '../img/logo-nav.png'
 import bokadirekt from '../img/bokadirekt.png'
+import beautybar from '../img/beautybar_logo.png'
 
 const Navbar = class extends React.Component {
   constructor(props) {
@@ -57,9 +58,12 @@ const Navbar = class extends React.Component {
                  Behandlingar
                 </Link>   
          </div>
-         <div className="navbar-bd">      
+         <div className="navbar-bd">    
+                <a href="https://www.beauty-bar.se/partner/neoskin/?ref=39" target="_blank" rel="noopener noreferrer">
+                  <img src={beautybar} alt="beauty-bar.se" />        
+                </a>   
                 <a href="https://www.bokadirekt.se/places/neoskin-jkpg-33692" target="_blank" rel="noopener noreferrer">
-                  <img src={bokadirekt} alt="BokaDirekt.se" style={{ maxHeight: '100%', width: '175px'}} />        
+                  <img src={bokadirekt} alt="BokaDirekt.se" />        
                 </a>      
             </div>
           </div>

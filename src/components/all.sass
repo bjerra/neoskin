@@ -260,12 +260,17 @@ $modal-background-background-color: #0000005e
   z-index: 15
 
 .navbar-bd
-  width: 5rem
+  display: flex
+  width: 12rem
   position: absolute
+  top: 1rem
   right: 1rem
-  top: 1.25rem
-  
+  justify-content: space-between
+  align-items: center
 
+.navbar-bd img
+  width: 75px
+  
 .navbar-main
   align-items: center;
   display: flex; 
@@ -430,7 +435,9 @@ $modal-background-background-color: #0000005e
   .navbar-container
     height: 100px
   .navbar-bd
-    width: 4rem
+    width: 8rem
+  .navbar-bd img
+    width: 50px
   .navbar-main
     justify-content: space-around
     border-top: 1px solid #fbfbfb

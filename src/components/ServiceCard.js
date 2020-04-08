@@ -2,7 +2,7 @@ import React from 'react'
 import InfoCard from './ServiceInfoCard'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons'
-import boka from '../img/boka.png'
+import boka from '../img/bokadirekt.png'
 
 
 const ServiceCard = ({data, color}) => {
