@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Hudlära - Andra delen : uppbyggnad'
+title: 'Hudlära - Del 2.1 : UPPBYGGNAD *överhuden'
 date: 2020-04-08T11:34:01.289Z
 description: >
   Vare sig man är hudterapeut eller inte, är det intressant om inte viktigt, att
