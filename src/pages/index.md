@@ -2,7 +2,8 @@
 heading: NEOSKIN
 subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 templateKey: index-page
-title: Välkommen till Neoskin - din hudsalong med expertis i Jönköping
+title: Välkommen till Neoskin
+subtitle: din hudsalong med expertis i Jönköping
 image: /img/web-cherries.jpg
 mainpitch:
   title: 'PASSION, SPIRIT & JOY'
