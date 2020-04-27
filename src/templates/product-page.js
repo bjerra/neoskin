@@ -59,11 +59,11 @@ export const ProductPageTemplate = ({
           })`
         }}
       >
-        <h2
+        <h1
           className="page-title"
         >
           {title}
-        </h2>
+        </h1>
         </div>
           <div className="container">
             <div className="section" style={{padding:0}}>   

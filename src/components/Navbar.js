@@ -48,15 +48,18 @@ const Navbar = class extends React.Component {
           <div
             className="navbar-main"
           >          
-              <Link className="navbar-item" to="/about">
+              <Link className="navbar-item" to="/om">
                 Om
               </Link>                      
               <Link className="navbar-item" to="/blog">
-                Blog
+                Blogg
               </Link>          
-              <Link className="navbar-item" to="/products">
+              <Link className="navbar-item" to="/behandlingar">
                  Behandlingar
-                </Link>   
+              </Link>   
+              <Link className="navbar-item" to="/kontakt">
+                Kontakt
+              </Link>   
          </div>
          <div className="navbar-bd">    
                 <a href="https://www.beauty-bar.se/partner/neoskin/?ref=39" target="_blank" rel="noopener noreferrer">

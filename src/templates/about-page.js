@@ -17,11 +17,11 @@ export const AboutPageTemplate = ({ title, image, content, contentComponent }) =
           })`
         }}
       >
-        <h2
+        <h1
           className="page-title"
         >
           {title}
-        </h2>
+        </h1>
         </div>
         <section className="section section--gradient">
       <div className="container">
