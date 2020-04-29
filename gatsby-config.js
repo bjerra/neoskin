@@ -7,9 +7,9 @@ const {AWS_ID, AWS_KEY, GA_ID} = process.env;
 module.exports = {
 
   siteMetadata: {
-    title: 'Neoskin Jönköping',
+    title: 'Neoskin - Hudsalong i Jönköping',
     description:
-      'Skönhetssalong med Tjänster inom skönhet och hudvård i centrala Jönköping',
+      'En skönhetssalong som erbjuder resultatinriktad hudvård med skräddarsydda behandlingar och expertis inom estetisk dermatologi. Boka behandling enkelt online. Handla produkter i vår webbshop. Läs en välskriven blogg med fakta, tips och råd om integumentsystemet',
   },
   plugins: [
     'gatsby-plugin-react-helmet',
