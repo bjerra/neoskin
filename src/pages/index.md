@@ -1,15 +1,17 @@
 ---
-heading: NEOSKIN
-subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 templateKey: index-page
 title: Välkommen till Neoskin
-subtitle: din hudsalong med expertis i Jönköping
+subtitle: Hudvård & Skönhet
 image: /img/web-cherries.jpg
+heading: NEOSKIN
+subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 mainpitch:
-  title: 'PASSION, SPIRIT & JOY'
-  description: >
-    Stötta ditt lokala företag!  Men inte på bekostnad av din, eller andras
-    hälsa. 
+  title: Välkommen till din auktoriserade hudterapeut i Jönköping city
+  description: >-
+    Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
+    ingrepp eller laser. Ett helhetskoncept som vill nå optimal hudvård och
+    hudhälsa i ljus och ro. Du kan enkelt boka online eller handla Clinicare och
+    Palina  i våran webbshop. 
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
@@ -96,4 +98,3 @@ description: >-
   därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
   på bloggen.
 ---
-
