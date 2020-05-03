@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: 'Hudlära - Del 2.1 : UPPBYGGNAD *överhuden'
+title: 'Hudlära - Del 2.1 : UPPBYGGNAD *Epidermis'
 date: 2020-04-08T11:34:01.289Z
 description: >
   Vare sig man är hudterapeut eller inte, är det intressant om inte viktigt, att
@@ -9,7 +9,7 @@ description: >
   hoppas att du får en intressant läsupplevelse. Målet är minst en, men gärna
   några " ahAaA- upplevelser ".
 featuredpost: true
-featuredimage: /img/huden.jpg
+featuredimage: /img/epidermis.jpg
 tags:
   - Integumentsystemet
 ---
