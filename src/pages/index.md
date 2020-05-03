@@ -2,7 +2,7 @@
 templateKey: index-page
 title: Välkommen till Neoskin
 subtitle: Hudvård & Skönhet
-image: /img/web-cherries.jpg
+image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: NEOSKIN
 subheading: Välkommen till en hemsida som tänker framtid och möjligheter
 mainpitch:
