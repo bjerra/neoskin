@@ -83,7 +83,7 @@ exports.createPages = ({ actions, graphql }) => {
           path: `/behandlingar/${service.slug}`,
           component: path.resolve("./src/templates/service-modal.js"),
           context: {
-            id: service.id,
+            serviceId: service.id,
           },
         })
     })
