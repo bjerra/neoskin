@@ -28,6 +28,36 @@ module.exports = {
       },
     },
     {
+      resolve: `gatsby-plugin-modal-routing`,
+      options: {
+        modalProps: {
+          style: {
+            overlay: {
+              position: `fixed`,
+              top: 0,
+              left: 0,
+              right: 0,
+              bottom: 0,
+              backgroundColor: `rgba(0, 0, 0, 0.75)`,
+            },
+            content: {
+              position: `absolute`,
+              border: `none`,
+              background: `none`,
+              padding: 0,
+              top: 0,
+              bottom: 0,
+              right: 0,
+              left: 0,
+              overflow: `auto`,
+              WebkitOverflowScrolling: `touch`,
+            },
+          },
+          contentLabel: `Modal`
+        }
+      }
+    },
+    {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
@@ -35,19 +65,7 @@ module.exports = {
         }
       }
     },
-    {
-      resolve: 'gatsby-source-dynamodb',
-      options: {
-        typeName: 'Dynamo',
-        accessKeyId: AWS_ID, 
-        secretAccessKey: AWS_KEY,
-        region: 'eu-north-1',
-        params: {
-          TableName : "Anais",
-          // OTHER PARAMS HERE
-        }
-      }
-    },
+    `gatsby-transformer-json`,
     {
       // keep as first gatsby-source-filesystem plugin for gatsby image support
       resolve: 'gatsby-source-filesystem',
@@ -68,6 +86,13 @@ module.exports = {
       options: {
         path: `${__dirname}/src/img`,
         name: 'images',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/data`,
+        name: 'data',
       },
     },
     'gatsby-plugin-sharp',

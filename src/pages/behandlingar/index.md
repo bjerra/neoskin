@@ -1,5 +1,5 @@
 ---
-templateKey: product-page
+templateKey: service-page
 path: /behandlingar
 title: Behandlingar
 image: /img/services.jpg

@@ -1,8 +1,12 @@
 import React, { useState } from 'react'
-import filters from './FilterList'
+import { useCategoryData } from './CategoryData'
+import { useKeywordData } from './KeywordData'
 
-const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilter }) => {
+const Menu = ({ setData }) => {
     
+    const categoryData = useCategoryData()
+    const keywordData = useKeywordData()
+
     const [tab, setTab] = useState(-1)
 
     return(
@@ -25,15 +29,15 @@ const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilt
             {tab === 0  &&                 
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    data.map(({category}, index) => {
+                    categoryData.map(({title, services}, index) => {
                     return(                                        
-                            <li key={category} >
-                            <div className={`category-button ${currentFilter === -1 && currentCategory === index ? 'is-active' : ''}`}                         
+                            <li key={index} >
+                            <div className={`category-button`}                         
                                 onClick={() => {
-                                    selectCategory(index)
+                                    setData({title, services})
                                     setTab(-1)
                                 }}>                                    
-                            {category}                        
+                            {title}                        
  
                             </div>                        
                             </li>            
@@ -44,17 +48,17 @@ const Menu = ({ data, selectCategory, currentCategory, currentFilter, selectFilt
              {tab === 1  &&          
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    filters.map((filter, index) => {
+                    keywordData.map(({title, services}, index) => {
                     return(                                        
-                            <li key={filter} >
-                            <div className={`category-button ${currentFilter === index ? 'is-active' : ''}`}                         
+                            <li key={index} >
+                            <div className={`category-button`}                         
                                 onClick={() => {
-                                    selectFilter(index)
+                                    setData({title, services})
                                     setTab(-1)
                                 }}
                                 >
                                     
-                            {filter}                        
+                            {title}                        
                                
                            
                             </div>                        

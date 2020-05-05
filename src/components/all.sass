@@ -169,6 +169,7 @@ $modal-background-background-color: #0000005e
     display: block
     padding: 0 1rem
     height: 100%
+    background-color: $info !important
     transition: all .15s ease  
 
 .category-card
@@ -177,35 +178,50 @@ $modal-background-background-color: #0000005e
     display: block
     padding: 1rem  
     border-radius: .25rem
-    cursor: pointer
     border-bottom: 1px solid $info-invert
-    transition: all .15s ease
-    transition: border-color .5s ease;
-
-    &.is-active
-      border-bottom: 3px solid $primary-invert
-      color: $primary-invert
-    
     &:hover
-      color: $primary-invert
+      background-color: #fefefe
 
 .category-title
   font-size: 1.5rem !important
   padding: 1rem !important
-  background-color: $info !important
   text-align: center
   font-weight: 350 !important
   font-family: $Liu
 
+.service-title
+  font-size: 1.2rem !important
+  padding: .25rem
+  background-color: $primary
+  text-align: center
+  font-weight: 300 !important
+  font-family: $Liu
+
 .service-card
+    background-color: #fff !important
+    padding: .5rem
+    line-height: 1.25   
+    border-radius: .5rem 
+    margin-bottom: .5rem
+    margin-left: .5rem
+    margin-right: .5rem
+    border: 1px solid $info-invert
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    text-align: center
+
+.service-card a
+  color: $primary-invert
+  font-size: 1.25rem
+
+.service-modal
     background-color: #fff !important
     display: block
     line-height: 1.25   
     border-radius: .5rem 
-    margin-bottom: .5rem
+    margin: auto
+    margin-top: 5rem
     border: 3px solid $info-invert
-    transition: all .5s ease;
-    animation: fadeinborder .5s;
+    max-width: 90%
 
 @keyframes fadeinborder 
     from
@@ -214,18 +230,13 @@ $modal-background-background-color: #0000005e
       border: 3px solid $info-invert 
 
 
-.service-info 
-    background-color: $primary
-    border: 1px solid $primary-invert
+.service-details 
     border-radius: .5rem
+    border-bottom: 1px solid #eee
     margin: 0 1rem
-    padding: 1rem
     font-size: 1.15rem
     font-weight: 700 !important
 
-.info-card 
-    padding: 2rem
- 
 .slider
   transform: translateX(100%) !important;
   -webkit-transform: translateX(100%) !important;
@@ -249,7 +260,6 @@ $modal-background-background-color: #0000005e
 
 .navbar-container
   position: relative;
-  z-index: 30;
   align-items: stretch;
   display: flex;
   height: 60px
@@ -260,7 +270,6 @@ $modal-background-background-color: #0000005e
   left: .5rem
   top: .5rem
   cursor: pointer
-  z-index: 15
 
 .navbar-bd
   display: flex
@@ -270,7 +279,6 @@ $modal-background-background-color: #0000005e
   right: 1rem
   justify-content: space-between
   align-items: center
-  z-index: 50
 
 .navbar-bd img
   width: 75px
@@ -360,7 +368,6 @@ $modal-background-background-color: #0000005e
   display: block;
   margin-left: auto;
   margin-right: auto;
-  margin-top: 2.5rem
   width: 50%;
 
 .tabs
@@ -482,8 +489,8 @@ $modal-background-background-color: #0000005e
     display: none !important
   .only-desktop
     display: block !important
-  .service-card
-    height: 100%
+  .service-modal
+    max-width: 50%
   
 
     

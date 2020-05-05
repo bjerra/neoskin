@@ -1,48 +1,39 @@
 import React from 'react'
+import { Link } from 'gatsby'
+import { useServiceData } from './ServiceData'
+import ServiceDetails from './ServiceDetails'
 
-const CategoryCard = ({data, selectService, currentService, color}) => {
-    const { category, services } = data;
-    const isGold = category.toLowerCase().includes('gold')
+const CategoryCard = ({data}) => {
+    const { title, services } = data;
 
-    let modifiedServices = isGold ? [] : [...services];
-    if(isGold){
-        services.forEach(service => {     
-            const splitTitle = service.title.split(',') 
-            let isAlt = false;
-            modifiedServices.forEach(s => {               
-                if(s.title.includes(splitTitle[0])){
-                    const sTitle = s.title.split(',') 
-                    s.title = sTitle[0]
-                    s.alts = [
-                        { title: splitTitle[1], url: service.url,time: service.time, price: service.price },
-                        { title: sTitle[1], url: s.url,time: s.time, price: s.price }
-                        ]
-                    isAlt = true
-                    
-                } 
-            })
-            if(!isAlt)
-                modifiedServices.push({...service})           
-        })
-    }
-
+    const filteredServices = useServiceData().reduce((acc, current) => {
+            if(services.includes(current.id))
+              acc.push(current)
+        return acc;
+      },[])
+    
     return(   
+       
             <div className="category-container" >   
             <h2 className="category-title ">
-                {category}
+                {title}
             </h2>                                         
                 {
-                    modifiedServices.map((service) => (
-                    <div onClick={() => selectService(service)}>
-                        <div className={`category-card ${currentService === service.title ? 'is-active' : ''}`} style={{backgroundColor: color}}>                  
-                            <span style={{marginRight: '1 rem'}}>
-                            {service.title}
-                            </span>        
-                        </div>                                                    
-                    </div>
-                    ))
+                filteredServices.map((service) => (                       
+                    <div className="service-card">                 
+                            <h3 className="service-title">
+                                {service.title}                            
+                            </h3>   
+                            <ServiceDetails service={service}/>  
+                        <Link to={`/behandlingar/${service.slug}`} state={{
+                            modal: true
+                        }}> Mer Info
+                        </Link>       
+                    </div>       
+                ))
                 }                                                                                                         
-            </div>                          
+            </div> 
+                                    
     )
 }
 

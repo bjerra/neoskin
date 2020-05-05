@@ -24,6 +24,12 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      dataJson {
+        services {     
+          slug   
+          id    
+        }
+      }
     }
   `).then(result => {
     if (result.errors) {
@@ -32,7 +38,7 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
-
+    const services = result.data.dataJson.services
     posts.forEach(edge => {
       const id = edge.node.id
       createPage({
@@ -71,6 +77,16 @@ exports.createPages = ({ actions, graphql }) => {
         },
       })
     })
+
+    services.forEach(service => {
+        createPage({
+          path: `/behandlingar/${service.slug}`,
+          component: path.resolve("./src/templates/service-modal.js"),
+          context: {
+            id: service.id,
+          },
+        })
+    })
   })
 }
 
@@ -87,3 +103,4 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     })
   }
 }
+

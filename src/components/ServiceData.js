@@ -1,32 +1,26 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
-const useServicedata = () => {
-  const { dynamo } = useStaticQuery(
+export const useServiceData = () => {
+  const { dataJson } = useStaticQuery(
     graphql`
-    query SERVICES_QUERY {
-      dynamo {
-        services {
+    query SERVICES_QUERY {      
+        dataJson {
           services {
-            info {
-              title
-              text
-            }
             price
-            staff
+            slug
             time
             title
             url
-            offer
             variant
-            keywords
-          }       
-          category       
+            id
+            info {
+              text
+              title
+            }
+          }     
         }
-      }
-      }
+      }     
     `
   )
-  return dynamo.services
+  return dataJson.services
 }
-
-export default useServicedata

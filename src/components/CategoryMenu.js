@@ -1,10 +1,14 @@
 import React, { useState } from 'react'
-import colors from './Colors'
-import filters from './FilterList'
+import { useCategoryData } from './CategoryData'
+import { useKeywordData } from './KeywordData'
 
-const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilter }) => {
+const Menu = ({ setData }) => {
     
+    const categoryData = useCategoryData()
+    const keywordData = useKeywordData()
+
     const [tab, setTab] = useState(0)
+    const [currentItem, setitem] = useState("");
 
     return(
         <div className="category-menu">
@@ -28,12 +32,15 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
             {tab === 0 ? (                              
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    data.map(({category}, index) => {
+                    categoryData.map(({title, services}, index) => {
                     return(                                        
-                            <li key={category} >
-                            <div className={`category-button ${currentFilter === -1 && currentCategory === index ? 'is-active' : ''}`}                         
-                                onClick={() => selectCategory(index)}>                                    
-                            {category}                        
+                            <li key={index} >
+                            <div className={`category-button ${currentItem === title ? 'is-active' : ''}`}                         
+                                onClick={() => {
+                                    setData({title, services})
+                                    setitem(title)
+                                }}>                                    
+                            {title}                        
  
                             </div>                        
                             </li>            
@@ -43,16 +50,17 @@ const Menu = ({ data, selectCategory, currentCategory, selectFilter, currentFilt
             ) : (             
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
-                    filters.map((filter, index) => {
+                    keywordData.map(({title, services}, index) => {
                     return(                                        
-                            <li key={filter} >
-                            <div className={`category-button ${currentFilter === index ? 'is-active' : ''}`}                         
-                                onClick={() => selectFilter(index)}
+                            <li key={index} >
+                            <div className={`category-button ${currentItem === title ? 'is-active' : ''}`}                         
+                                onClick={() => {
+                                    setData({title, services})
+                                    setitem(title)
+                                }}
                                 >
-                                    
-                            {filter}                        
-                               
-                           
+                                  
+                            {title}                                       
                             </div>                        
                             </li>            
                 )})
