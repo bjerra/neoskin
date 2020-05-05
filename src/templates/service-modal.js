@@ -24,7 +24,7 @@ const ServiceModal = ({pageContext}) => {
                         {title}                            
                     </h1>                 
                     <div className="info-card" >                                                                         
-                        {
+                        {info &&
                         info.map(({title, text}, index) => (
                             <div>
                                 <h2 className="content" style={{fontSize: '1.25rem', margin: '0', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
@@ -46,7 +46,7 @@ const ServiceModal = ({pageContext}) => {
                 {title}                            
             </h2>                 
             <div className="info-card" >                                                                         
-                {
+                {info &&
                  info.map(({title, text}, index) => (
                      <div>
                          <div className="content" style={{fontSize: '1.25rem', margin: '0', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
