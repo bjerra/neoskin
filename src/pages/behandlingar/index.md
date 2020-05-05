@@ -2,9 +2,7 @@
 templateKey: service-page
 path: /behandlingar
 title: Behandlingar
-image: /img/services.jpg
-heading: 
-description: >-
-  
+image: /img/img_5644b.jpg
+heading: 'Resultatinriktad hudvård '
+description: 'Laser, Jett Plasma, Ultraljudsrengöring, Enerpeel, LED-mask'
 ---
-
