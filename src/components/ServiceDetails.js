@@ -3,13 +3,13 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faStar } from '@fortawesome/free-solid-svg-icons'
 import boka from '../img/bokadirekt.png'
 
-    const ServiceCard = ({service, isOffer}) => {
+    const ServiceCard = ({service}) => {
     
-    const {price, time, url, variant} = service
+    const {price, time, url, variant, offer} = service
 
     return(
             <div className="service-details">                                                                                             
-                    {isOffer && 
+                    {offer && 
                     <div className="container has-text-centered">                        
                         <span style={{margin: '1rem'}}>
                         ERBJUDANDE!
@@ -17,7 +17,7 @@ import boka from '../img/bokadirekt.png'
                             <FontAwesomeIcon icon={faStar} color="gold" />
                     </div>
                     }                              
-                    <div className="columns" style={{margin: 0, display: 'flex'}}> 
+                    <div className="columns" style={{display: 'flex',justifyContent: 'center', alignItems: 'center' }}> 
                     <div className="column">
                         <p className="service-text">
                             {time}

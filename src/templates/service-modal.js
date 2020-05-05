@@ -1,16 +1,12 @@
 import React from 'react'
 import { Link } from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
-import { navigate } from 'gatsby'
-import { useServiceData } from '../components/ServiceData'
+import { navigate, graphql } from 'gatsby'
 import ServiceDetails from '../components/ServiceDetails'
 
-const ServiceModal = ({pageContext}) => { 
+const ServiceModal = ({data}) => { 
 
-    const serviceId = pageContext.serviceId;
-    const service = useServiceData().find(service =>  service.id === serviceId)
-   
-    const {info, title, ...details} = service
+    const {info, title, ...details} = data.serviceDataJson
 
     return(
   <ModalRoutingContext.Consumer>
@@ -35,7 +31,9 @@ const ServiceModal = ({pageContext}) => {
                         ))          
                         }                                                                                                         
                 </div>               
-               <ServiceDetails service={details}/>                                                    
+                <div style={{margin: '2rem'}}>
+                    <ServiceDetails service={details}/>  
+                </div>                                           
             </div>   
                 
          </div>
@@ -57,7 +55,10 @@ const ServiceModal = ({pageContext}) => {
                  ))          
                  }                                                                                                         
            </div>  
-           <ServiceDetails service={details}/>   
+           <div style={{margin: '2rem'}}>
+            <ServiceDetails service={details}/>  
+           </div>
+           
            </div>         
         )
 
@@ -67,3 +68,22 @@ const ServiceModal = ({pageContext}) => {
 )}
 
 export default ServiceModal
+
+export const query = graphql`
+  query($serviceId: String!) {
+    serviceDataJson(id: {eq: $serviceId}) {
+        variant
+        url
+        title
+        time
+        slug
+        price
+        offer
+        id
+        info {
+          text
+          title
+        }
+      }
+  }
+`

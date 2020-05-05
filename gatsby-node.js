@@ -24,10 +24,12 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
-      dataJson {
-        services {     
-          slug   
-          id    
+      allServiceDataJson {
+        edges {
+          node {
+            id    
+            slug
+          }
         }
       }
     }
@@ -38,7 +40,7 @@ exports.createPages = ({ actions, graphql }) => {
     }
 
     const posts = result.data.allMarkdownRemark.edges
-    const services = result.data.dataJson.services
+    const services = result.data.allServiceDataJson.edges
     posts.forEach(edge => {
       const id = edge.node.id
       createPage({
@@ -78,7 +80,8 @@ exports.createPages = ({ actions, graphql }) => {
       })
     })
 
-    services.forEach(service => {
+    services.forEach(edge => {
+      const service = edge.node
         createPage({
           path: `/behandlingar/${service.slug}`,
           component: path.resolve("./src/templates/service-modal.js"),

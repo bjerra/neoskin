@@ -1,17 +1,17 @@
 import { graphql, useStaticQuery } from 'gatsby'
 
 export const useKeywordData = () => {
-  const { dataJson } = useStaticQuery(
+  const { allKeywordDataJson } = useStaticQuery(
     graphql`
     query KEYWORDS_QUERY {      
-        dataJson {       
-          keywords {
+      allKeywordDataJson {
+        nodes {
             title
             services
-          }  
         }
+      }
       }     
     `
   )
-  return dataJson.keywords
+  return allKeywordDataJson.nodes
 }

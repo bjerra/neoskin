@@ -5,9 +5,9 @@ import ServiceDetails from './ServiceDetails'
 
 const CategoryCard = ({data}) => {
     const { title, services } = data;
-
+    console.log(useServiceData())
     const filteredServices = useServiceData().reduce((acc, current) => {
-            if(services.includes(current.id))
+            if(services.includes(parseInt(current.id)))
               acc.push(current)
         return acc;
       },[])

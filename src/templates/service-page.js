@@ -34,7 +34,7 @@ export const ServicePageTemplate = ({
       </h1>
       </div>
         <div className="container">
-          <div className="section" style={{paddingTop:0}}>   
+          <div className="section" style={{padding:0}}>   
             <div className="columns">
                                       
               <div className="column is-3 only-desktop">                                    
@@ -42,7 +42,7 @@ export const ServicePageTemplate = ({
                   setData={setData}/>
               </div>
                                     
-              <div className="column is-6 ">
+              <div className="column is-6 " style={{padding:0, marginBottom: '2rem'}}>
               <div className="only-touch">
                 <div>                          
                   <CategoryMenuTouch setData={setData} />
@@ -52,7 +52,7 @@ export const ServicePageTemplate = ({
                     data={data} 
                     />                      
               </div>
-              <div className="column is-3">         
+              <div className="column is-3" style={{padding:0}}>         
              
               </div>
                
