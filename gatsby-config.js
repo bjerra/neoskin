@@ -61,7 +61,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Sofia', 'Assistant', 'Josefin Sans']
+          families: ['Spartan', 'Montserrat', 'Josefin Sans']
         }
       }
     },
