@@ -1,6 +1,4 @@
 import React from 'react'
-import { Link } from 'gatsby'
-
 import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
@@ -47,7 +45,7 @@ const Footer = class extends React.Component {
               </a> 
              </li>
              <li>
-                    <a rel="nofollow noreferrer external" href="https://www.google.com/maps/search/?api=1&amp;query=57.7815209,14.1746004" target="_blank">
+                    <a rel="nofollow noopener noreferrer external" href="https://www.google.com/maps/search/?api=1&amp;query=57.7815209,14.1746004" target="_blank">
                     <FontAwesomeIcon icon={faMapMarkerAlt} size="lg" color="#eee"/>     
                     <p className="contact-text">
                       Smedjegatan <br/> 38 553 20<br/> 

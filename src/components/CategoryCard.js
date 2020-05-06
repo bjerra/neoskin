@@ -5,7 +5,6 @@ import ServiceDetails from './ServiceDetails'
 
 const CategoryCard = ({data}) => {
     const { title, services } = data;
-    console.log(useServiceData())
     const filteredServices = useServiceData().reduce((acc, current) => {
             if(services.includes(parseInt(current.id)))
               acc.push(current)
@@ -20,7 +19,7 @@ const CategoryCard = ({data}) => {
             </h2>                                         
                 {
                 filteredServices.map((service) => (                       
-                    <div className="service-card">                 
+                    <div className="service-card" key={service.id}>                 
                             <h3 className="service-title">
                                 {service.title}                            
                             </h3>   

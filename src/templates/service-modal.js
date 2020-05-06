@@ -45,8 +45,8 @@ const ServiceModal = ({data}) => {
             </h2>                 
             <div className="info-card" >                                                                         
                 {info &&
-                 info.map(({title, text}, index) => (
-                     <div>
+                 info.map(({title, text}) => (
+                     <div key={title}>
                          <div className="content" style={{fontSize: '1.25rem', margin: '0', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
 
                           <div className="content" style={{fontSize: '1rem', paddingLeft: '2rem'}} dangerouslySetInnerHTML={{__html: text}}/>
