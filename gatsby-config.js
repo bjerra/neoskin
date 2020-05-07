@@ -10,10 +10,13 @@ module.exports = {
     title: 'Neoskin - Hudsalong i Jönköping',
     description:
       'En skönhetssalong som erbjuder resultatinriktad hudvård med skräddarsydda behandlingar och expertis inom estetisk dermatologi. Boka behandling enkelt online. Handla produkter i vår webbshop. Läs en välskriven blogg med fakta, tips och råd om integumentsystemet',
-  },
+      siteUrl: `https://www.neoskin.se`
+  
+    },
   plugins: [
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
+    `gatsby-plugin-sitemap`,
     {
       resolve: `gatsby-plugin-google-analytics-gdpr`,
       options: {
