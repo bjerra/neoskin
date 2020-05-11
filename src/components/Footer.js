@@ -84,6 +84,7 @@ const Footer = class extends React.Component {
                         
                       </a></div>
             </div>
+            <a href="#" class="ch2-open-settings-btn">Kakor</a>
           </div>
                      
         </div>
