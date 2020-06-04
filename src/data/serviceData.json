@@ -2,7 +2,7 @@
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/erbjudande-sommarfin-f%C3%B6r-ansikte-dekolletage-och-h%C3%A4nder-1051117",
   "price": "795 kr",
-  "time": "60 minuter",
+  "time": "45 minuter",
   "title": "Erbjudande Sommarfin för ansikte, dekolletage och händer",
   "slug": "erbjudande-sommarfin-for-ansikte-dekolletage-och-hander",
   "id": 1,
@@ -103,39 +103,12 @@
   "offer": true
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/sommarfin-f%C3%B6r-ansikte-dekolletage-och-h%C3%A4nder-1051118",
-  "price": "995 kr",
-  "time": "60 minuter",
-  "title": "Sommarfin för ansikte, dekolletage och händer",
-  "slug": "sommarfin-for-ansikte-dekolletage-och-hander",
-  "id": 6,
-  "info": [
-   {
-    "title": "Erbjudande i juni",
-    "text": "795 kr"
-   },
-   {
-    "title": "BRA FÖR",
-    "text": "- Torr hud.\r\n\r\n- Solbränd hud.\r\n\r\n- Känslig hud.\r\n\r\n- Eksem.\r\n\r\n- Rosacea : lägg till LED-Mask terapi för 300 kr\r\n\r\n- Fukt\r\n\r\n- Skön stund"
-   },
-   {
-    "title": "VAD DU BEHÖVER VETA",
-    "text": "Denna behandling har jag tänkt ut för sommaren då vi är många som behöver lite extra vårdnad efter solens uttorkande effekt.\r\n\r\nPå grund av detta och rådande omständigheter är det även många som har problem med torra händer då vi tvättar händerna längre och oftare.\r\n\r\nBehandlingen är noga uttänkt och anpassad för huden som behöver repareras efter en solig dag på t.ex vätterstranden.\r\n\r\nFungerar även utmärkt i förebyggande syfte för att förstärka hudens försvar och barriär."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "-Skonsam dubbelrengöring av ansikte och dekolletage\r\n-Anpassad peeling för ansikte och dekolletage men även för händerna.\r\n-Behandlingskräm i ansikte, hals och dekolletage som appliceras i en mycket behaglig och avkopplande massage.\r\n-Anpassad fuktmask och handmassage med ovanstående behandlingskräm.\r\n\r\nEfter behandlingen blir din hud som ny igen och du har fått dig en riktigt lyxig och skön stund! Du får även alltid en sammanfattning av mina observationer följt av lite goda tips &amp; råd om hemmavård och rutiner för optimal hudhälsa och förlängt resultat."
-   }
-  ],
-  "variant": " "
- },
- {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/neosk%C3%AFn-quick-fix--353395",
   "price": "450 kr",
   "time": "20 minuter",
   "title": "Neoskïn Quick-fix ",
   "slug": "neoskin-quick-fix",
-  "id": 7,
+  "id": 6,
   "info": [
    {
     "title": "BRA FÖR",
@@ -158,7 +131,7 @@
   "time": "45 minuter",
   "title": "Neoskïn Deep Clean",
   "slug": "neoskin-deep-clean",
-  "id": 8,
+  "id": 7,
   "info": [
    {
     "title": "BRA FÖR",
@@ -185,7 +158,7 @@
   "time": "60 minuter",
   "title": "Neoskïn Klassisk ",
   "slug": "neoskin-klassisk",
-  "id": 9,
+  "id": 8,
   "info": [
    {
     "title": "BRA FÖR",
@@ -208,7 +181,7 @@
   "time": "80 minuter",
   "title": "Neoskïn Lyx",
   "slug": "neoskin-lyx",
-  "id": 10,
+  "id": 9,
   "info": [
    {
     "title": "BRA FÖR",
@@ -231,7 +204,7 @@
   "time": "30 minuter",
   "title": "LED-mask terapi",
   "slug": "led-mask-terapi",
-  "id": 11,
+  "id": 10,
   "info": [
    {
     "title": "BRA FÖR",
@@ -258,7 +231,7 @@
   "time": "10 minuter",
   "title": "LED-mask tillägg i annan behandling 20 min",
   "slug": "led-mask-tillagg-i-annan-behandling-20-min",
-  "id": 12,
+  "id": 11,
   "info": [
    {
     "title": "BRA FÖR",
@@ -285,7 +258,7 @@
   "time": "30 minuter",
   "title": "Yumi brows - the original browlift",
   "slug": "yumi-brows-the-original-browlift",
-  "id": 13,
+  "id": 12,
   "info": [
    {
     "title": "BRA FÖR",
@@ -308,7 +281,7 @@
   "time": "60 minuter",
   "title": "Yumi Lashes - Keratinlyft ≠ Lashlift",
   "slug": "yumi-lashes-keratinlyft-lashlift",
-  "id": 14,
+  "id": 13,
   "info": [
    {
     "title": "BRA FÖR",
@@ -331,7 +304,7 @@
   "time": "75 minuter",
   "title": "Yumi total makeover",
   "slug": "yumi-total-makeover",
-  "id": 15,
+  "id": 14,
   "info": [
    {
     "title": "ERBJUDANDE",
@@ -353,12 +326,87 @@
   "variant": " "
  },
  {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/brynplock-vax-1052022",
+  "price": "225 kr",
+  "time": "15 minuter",
+  "title": "Brynplock / vax",
+  "slug": "brynplock-vax",
+  "id": 15,
+  "info": [
+   {
+    "title": " ",
+    "text": "<span>Formning av bryn med pincett, vax och sax vid behov.  50:- rabatt i samband med ansiktsbehandling</span>"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/frans-och-brynf%C3%A4rg-inkl-formning-1052039",
+  "price": "425 kr",
+  "time": "30 minuter",
+  "title": "Frans- och brynfärg inkl formning",
+  "slug": "frans-och-brynfarg-inkl-formning",
+  "id": 16,
+  "info": [
+   {
+    "title": " ",
+    "text": "Formning av bryn enligt önskemål med pincett, vax och sax vid behov. Vi färgar dina fransar och bryn efter önskemål och ser till att vi uppnår bästa möjliga resultat anpassat för just dig. \r\n\r\n50:- rabatt i samband med ansiktsbehandling\r\n"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fransf%C3%A4rg-1052024",
+  "price": "325 kr",
+  "time": "30 minuter",
+  "title": "Fransfärg",
+  "slug": "fransfarg",
+  "id": 17,
+  "info": [
+   {
+    "title": " ",
+    "text": "<span>50:- rabatt i samband med ansiktsbehandling</span>"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fransf%C3%A4rg-inkl-formning-av-bryn-1052038",
+  "price": "350 kr",
+  "time": "30 minuter",
+  "title": "Fransfärg inkl formning av bryn",
+  "slug": "fransfarg-inkl-formning-av-bryn",
+  "id": 18,
+  "info": [
+   {
+    "title": " ",
+    "text": "<span>Formning av bryn enligt önskemål med pincett, vax och sax vid behov. Vi färgar även dina  fransar och ser till att vi</span><br><span>uppnår bästa möjliga resultat anpassat för just dig.     50:- rabatt i samband med ansiktsbehandling </span>"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/f%C3%A4rgning-och-formning-av-bryn-1052023",
+  "price": "295 kr",
+  "time": "15 minuter",
+  "title": "Färgning och formning av bryn",
+  "slug": "fargning-och-formning-av-bryn",
+  "id": 19,
+  "info": [
+   {
+    "title": " ",
+    "text": "<span>Formning av bryn med pincett, vax och sax vid behov. Vi färgar dina bryn enligt önskemål för att uppnå bästa</span><br><span>möjliga resultat anpassat för just dig.   50:- rabatt i samband med ansiktsbehandling</span>"
+   }
+  ],
+  "variant": " "
+ },
+ {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/30-min-ansiktsbehandling-hudh%C3%A4lsa-inkl-ampull-359503",
   "price": "600 kr",
   "time": "30 minuter",
   "title": "30 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "30-min-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 16,
+  "id": 20,
   "info": [
    {
     "title": " ",
@@ -373,7 +421,7 @@
   "time": "45 minuter",
   "title": "45 min Ansiktsbehandling Hudhälsa Teenage",
   "slug": "45-min-ansiktsbehandling-hudhalsa-teenage",
-  "id": 17,
+  "id": 21,
   "info": [
    {
     "title": " ",
@@ -388,7 +436,7 @@
   "time": "60 minuter",
   "title": "60 min Ansiktsbehandling Hudhälsa",
   "slug": "60-min-ansiktsbehandling-hudhalsa",
-  "id": 18,
+  "id": 22,
   "info": [
    {
     "title": " ",
@@ -403,7 +451,7 @@
   "time": "60 minuter",
   "title": "60 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "60-min-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 19,
+  "id": 23,
   "info": [
    {
     "title": " ",
@@ -418,7 +466,7 @@
   "time": "90 minuter",
   "title": "90 min Ansiktsbehandling Hudhälsa",
   "slug": "90-min-ansiktsbehandling-hudhalsa",
-  "id": 20,
+  "id": 24,
   "info": [
    {
     "title": " ",
@@ -433,7 +481,7 @@
   "time": "90 minuter",
   "title": "90 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "90-min-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 21,
+  "id": 25,
   "info": [
    {
     "title": " ",
@@ -448,7 +496,7 @@
   "time": "30 minuter",
   "title": "Lift & Tight Plasmaflöde ögon eller mun",
   "slug": "lift-tight-plasmaflode-ogon-eller-mun",
-  "id": 22,
+  "id": 26,
   "info": [
    {
     "title": "BRA FÖR",
@@ -471,7 +519,7 @@
   "time": "60 minuter",
   "title": "Lift & Tight Plasmaflöde Full Face",
   "slug": "lift-tight-plasmaflode-full-face",
-  "id": 23,
+  "id": 27,
   "info": [
    {
     "title": "BRA FÖR",
@@ -494,7 +542,7 @@
   "time": "15 minuter",
   "title": "Fraxium hög intensitet 1 zon (tinningar) ",
   "slug": "fraxium-hog-intensitet-1-zon-tinningar",
-  "id": 24,
+  "id": 28,
   "info": [
    {
     "title": "BRA FÖR",
@@ -521,7 +569,7 @@
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 2 zoner (kindben) ",
   "slug": "fraxium-hog-intensitet-2-zoner-kindben",
-  "id": 25,
+  "id": 29,
   "info": [
    {
     "title": "BRA FÖR",
@@ -548,7 +596,7 @@
   "time": "60 minuter",
   "title": "Fraxium hög intensitet 3 zoner (helt ansikte) ",
   "slug": "fraxium-hog-intensitet-3-zoner-helt-ansikte",
-  "id": 26,
+  "id": 30,
   "info": [
    {
     "title": "BRA FÖR",
@@ -575,7 +623,7 @@
   "time": "30 minuter",
   "title": "Fraxium mildare behandling för hela ansiktet ",
   "slug": "fraxium-mildare-behandling-for-hela-ansiktet",
-  "id": 27,
+  "id": 31,
   "info": [
    {
     "title": "BRA FÖR",
@@ -602,7 +650,7 @@
   "time": "45 minuter",
   "title": "Fraxium mildare behandling för hela ansiktet och hyaluronmask",
   "slug": "fraxium-mildare-behandling-for-hela-ansiktet-och-hyaluronmask",
-  "id": 28,
+  "id": 32,
   "info": [
    {
     "title": "BRA FÖR",
@@ -629,7 +677,7 @@
   "time": "60 minuter",
   "title": "Rynkreducering av överläpp",
   "slug": "rynkreducering-av-overlapp",
-  "id": 29,
+  "id": 33,
   "info": [
    {
     "title": "BRA FÖR",
@@ -656,7 +704,7 @@
   "time": "60 minuter",
   "title": "Icke-kirurgiskt ögonlockslyft, endast med bedövning",
   "slug": "icke-kirurgiskt-ogonlockslyft-endast-med-bedovning",
-  "id": 30,
+  "id": 34,
   "info": [
    {
     "title": "ORD PRIS",
@@ -687,7 +735,7 @@
   "time": "30 minuter",
   "title": "Borttagning av 1-2 små fibrom vid eller nära ögat, endast med bedövning",
   "slug": "borttagning-av-1-2-sma-fibrom-vid-eller-nara-ogat-endast-med-bedovning",
-  "id": 31,
+  "id": 35,
   "info": [
    {
     "title": "BRA FÖR",
@@ -714,7 +762,7 @@
   "time": "20 minuter",
   "title": "Borttagning av 3-5 mindre fibrom / skin tags / pigmentfläckar, ej bedövning",
   "slug": "borttagning-av-3-5-mindre-fibrom-skin-tags-pigmentflackar-ej-bedovning",
-  "id": 32,
+  "id": 36,
   "info": [
    {
     "title": "BRA FÖR",
@@ -741,7 +789,7 @@
   "time": "50 minuter",
   "title": "Borttagning av 3-5 mindre fibrom / skin tags / pigmentfläckar, med bedövning",
   "slug": "borttagning-av-3-5-mindre-fibrom-skin-tags-pigmentflackar-med-bedovning",
-  "id": 33,
+  "id": 37,
   "info": [
    {
     "title": "BRA FÖR",
@@ -768,7 +816,7 @@
   "time": "20 minuter",
   "title": "Borttagning av ett större fibrom eller pigmenfläck, ej bedövning",
   "slug": "borttagning-av-ett-storre-fibrom-eller-pigmenflack-ej-bedovning",
-  "id": 34,
+  "id": 38,
   "info": [
    {
     "title": "BRA FÖR",
@@ -795,7 +843,7 @@
   "time": "50 minuter",
   "title": "Borttagning av ett större fibrom eller pigmenfläck, med bedövning",
   "slug": "borttagning-av-ett-storre-fibrom-eller-pigmenflack-med-bedovning",
-  "id": 35,
+  "id": 39,
   "info": [
    {
     "title": "BRA FÖR",
@@ -822,7 +870,7 @@
   "time": "30 minuter",
   "title": "Borttagning av mer än 5 mindre fibrom / skin tags / pigmenfläckar, ej bedövning",
   "slug": "borttagning-av-mer-an-5-mindre-fibrom-skin-tags-pigmenflackar-ej-bedovning",
-  "id": 36,
+  "id": 40,
   "info": [
    {
     "title": "BRA FÖR",
@@ -849,7 +897,7 @@
   "time": "60 minuter",
   "title": "Borttagning av mer än 5 mindre fibrom / skin tags / pigmenfläckar, med bedövning",
   "slug": "borttagning-av-mer-an-5-mindre-fibrom-skin-tags-pigmenflackar-med-bedovning",
-  "id": 37,
+  "id": 41,
   "info": [
    {
     "title": "BRA FÖR",
@@ -876,7 +924,7 @@
   "time": "30 minuter",
   "title": "Enerpeel SA Acne peel 30 min",
   "slug": "enerpeel-sa-acne-peel-30-min",
-  "id": 38,
+  "id": 42,
   "info": [
    {
     "title": "BRA FÖR",
@@ -903,7 +951,7 @@
   "time": "45 minuter",
   "title": "Enerpeel MA + cryoterapi Ice peel 45 min",
   "slug": "enerpeel-ma-cryoterapi-ice-peel-45-min",
-  "id": 39,
+  "id": 43,
   "info": [
    {
     "title": "BRA FÖR",
@@ -930,7 +978,7 @@
   "time": "75 minuter",
   "title": "Kosmetisk akupunktur 75 min",
   "slug": "kosmetisk-akupunktur-75-min",
-  "id": 40,
+  "id": 44,
   "info": [
    {
     "title": "BRA FÖR",
@@ -957,7 +1005,7 @@
   "time": "45 minuter",
   "title": "NADA öronakupunktur",
   "slug": "nada-oronakupunktur",
-  "id": 41,
+  "id": 45,
   "info": [
    {
     "title": "BRA MOT",
@@ -984,7 +1032,7 @@
   "time": "30 minuter",
   "title": "MicroGold 30 min",
   "slug": "microgold-30-min",
-  "id": 42,
+  "id": 46,
   "info": [
    {
     "title": "BRA MOT",
@@ -1007,7 +1055,7 @@
   "time": "60 minuter",
   "title": "MicroGold deluxe 60 min",
   "slug": "microgold-deluxe-60-min",
-  "id": 43,
+  "id": 47,
   "info": [
    {
     "title": "BRA MOT",
@@ -1030,6 +1078,33 @@
   "time": "15 minuter",
   "title": "Kostnadsfri konsultation ",
   "slug": "kostnadsfri-konsultation",
-  "id": 44
+  "id": 48
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/sommarfin-f%C3%B6r-ansikte-dekolletage-och-h%C3%A4nder-1051118",
+  "price": "995 kr",
+  "time": "45 minuter",
+  "title": "Sommarfin för ansikte, dekolletage och händer",
+  "slug": "sommarfin-for-ansikte-dekolletage-och-hander",
+  "id": 49,
+  "info": [
+   {
+    "title": "Erbjudande i juni",
+    "text": "795 kr"
+   },
+   {
+    "title": "BRA FÖR",
+    "text": "- Torr hud.\r\n\r\n- Solbränd hud.\r\n\r\n- Känslig hud.\r\n\r\n- Eksem.\r\n\r\n- Rosacea : lägg till LED-Mask terapi för 300 kr\r\n\r\n- Fukt\r\n\r\n- Skön stund"
+   },
+   {
+    "title": "VAD DU BEHÖVER VETA",
+    "text": "Denna behandling har jag tänkt ut för sommaren då vi är många som behöver lite extra vårdnad efter solens uttorkande effekt.\r\n\r\nPå grund av detta och rådande omständigheter är det även många som har problem med torra händer då vi tvättar händerna längre och oftare.\r\n\r\nBehandlingen är noga uttänkt och anpassad för huden som behöver repareras efter en solig dag på t.ex vätterstranden.\r\n\r\nFungerar även utmärkt i förebyggande syfte för att förstärka hudens försvar och barriär."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "-Skonsam dubbelrengöring av ansikte och dekolletage\r\n-Anpassad peeling för ansikte och dekolletage men även för händerna.\r\n-Behandlingskräm i ansikte, hals och dekolletage som appliceras i en mycket behaglig och avkopplande massage.\r\n-Anpassad fuktmask och handmassage med ovanstående behandlingskräm.\r\n\r\nEfter behandlingen blir din hud som ny igen och du har fått dig en riktigt lyxig och skön stund! Du får även alltid en sammanfattning av mina observationer följt av lite goda tips &amp; råd om hemmavård och rutiner för optimal hudhälsa och förlängt resultat."
+   }
+  ],
+  "variant": " "
  }
 ]
