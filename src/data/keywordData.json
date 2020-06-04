@@ -1,137 +1,135 @@
 [
  {
+  "title": "Fukt",
+  "services": [
+   1,
+   6,
+   9,
+   10,
+   22,
+   23,
+   28,
+   38
+  ]
+ },
+ {
   "title": "Skön stund",
   "services": [
-   3,
+   1,
+   2,
+   6,
+   15,
    40,
    41
   ]
  },
  {
-  "title": "Hängande ögonlock",
-  "services": [
-   4,
-   21
-  ]
- },
- {
-  "title": "Påsar under ögonen",
-  "services": [
-   4,
-   5,
-   21,
-   29
-  ]
- },
- {
-  "title": "Slapp hud",
-  "services": [
-   5,
-   6,
-   21,
-   29,
-   30,
-   33
-  ]
- },
- {
-  "title": "Huduppstramning",
-  "services": [
-   5,
-   6,
-   20,
-   29,
-   30
-  ]
- },
- {
   "title": "Känslig hud",
   "services": [
-   10
+   7
   ]
  },
  {
   "title": "Eksem",
   "services": [
-   12
+   9
   ]
  },
  {
-  "title": "Fukt",
-  "services": [
-   12,
-   13,
-   29,
-   30,
-   35,
-   36
-  ]
- },
- {
-  "title": "Rynkor",
-  "services": [
-   20,
-   21,
-   33
-  ]
- },
- {
-  "title": "Fibrom",
+  "title": "Slapp hud",
   "services": [
    22,
    23,
-   24,
-   25,
    26,
-   27,
-   28
+   30
   ]
  },
  {
-  "title": "Skin tags",
+  "title": "Huduppstramning",
   "services": [
+   22,
    23,
-   24,
-   27,
-   28
+   29
   ]
  },
  {
-  "title": "Pigmentfläckar",
+  "title": "Påsar under ögonen",
   "services": [
-   23,
-   24,
-   25,
-   26,
-   27,
-   28
-  ]
- },
- {
-  "title": "Xantelasma",
-  "services": [
-   27,
-   28
+   22,
+   30
   ]
  },
  {
   "title": "Acneärr",
   "services": [
+   24,
+   25,
+   26
+  ]
+ },
+ {
+  "title": "Rynkor",
+  "services": [
+   26,
+   29,
+   30
+  ]
+ },
+ {
+  "title": "Hängande ögonlock",
+  "services": [
+   30
+  ]
+ },
+ {
+  "title": "Fibrom",
+  "services": [
    31,
    32,
-   33
+   33,
+   34,
+   35,
+   36,
+   37
+  ]
+ },
+ {
+  "title": "Skin tags",
+  "services": [
+   32,
+   33,
+   36,
+   37
+  ]
+ },
+ {
+  "title": "Pigmentfläckar",
+  "services": [
+   32,
+   33,
+   34,
+   35,
+   36,
+   37
+  ]
+ },
+ {
+  "title": "Xantelasma",
+  "services": [
+   36,
+   37
   ]
  },
  {
   "title": "Acne",
   "services": [
-   36
+   38
   ]
  },
  {
   "title": "Rosacea",
   "services": [
-   37
+   39
   ]
  }
 ]
