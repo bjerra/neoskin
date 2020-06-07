@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: 'Hudlära - Del 2.1 : UPPBYGGNAD *Epidermis'
-date: 2020-04-08T11:34:01.289Z
+date: 2020-05-20T11:34:01.289Z
 description: >
   Vare sig man är hudterapeut eller inte, är det intressant om inte viktigt, att
   bära med sig lite basmedicin i kunskapsbagaget. Det tycker i alla fall jag som
