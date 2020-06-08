@@ -9,9 +9,9 @@ mainpitch:
   title: Välkommen till din auktoriserade hudterapeut i Jönköping city
   description: >-
     Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
-    ingrepp eller laser. Ett helhetskoncept som vill nå optimal hudvård och
-    hudhälsa i ljus och ro. Du kan enkelt boka online eller handla Clinicare och
-    Palina  i våran webbshop. 
+    ingrepp så som icke-kirurgiska ögonlockslyft eller laser. Ett helhetskoncept
+    som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka
+    online eller handla Clinicare och Palina  i våran webbshop. 
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
