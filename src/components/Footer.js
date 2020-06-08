@@ -2,7 +2,7 @@ import React from 'react'
 import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-
+import EmailList from '../components/EmailList'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faPhone, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
 
@@ -10,9 +10,14 @@ import { faEnvelope, faPhone, faMapMarkerAlt } from '@fortawesome/free-solid-svg
 const Footer = class extends React.Component {
   render() {
     return (
-      <footer className="footer">     
+      <footer className="footer">    
+      
         <div className="content has-text-centered">
+          
           <div className="container">
+
+          <EmailList /> 
+
             <div className="columns is-centered">
               
               <div className="column is-3">             
@@ -84,7 +89,7 @@ const Footer = class extends React.Component {
                         
                       </a></div>
             </div>
-            <a href="#" class="ch2-open-settings-btn">Kakor</a>
+            <a href="#" className="ch2-open-settings-btn">Kakor</a>
           </div>
                      
         </div>

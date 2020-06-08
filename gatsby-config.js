@@ -2,7 +2,7 @@ require("dotenv").config({
   path: `.env.${process.env.NODE_ENV}`,
 })
 
-const {AWS_ID, AWS_KEY, GA_ID} = process.env;
+const {GA_ID, MAILCHIMP_ENDPOINT} = process.env;
 
 module.exports = {
 
@@ -17,6 +17,12 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sass',
     `gatsby-plugin-sitemap`,
+    {
+      resolve: 'gatsby-plugin-mailchimp',
+      options: {
+        endpoint: MAILCHIMP_ENDPOINT,
+      },
+    },
     {
       resolve: `gatsby-plugin-google-analytics-gdpr`,
       options: {
@@ -80,7 +86,7 @@ module.exports = {
       resolve: 'gatsby-plugin-web-font-loader',
       options: {
         google: {
-          families: ['Spartan', 'Montserrat', 'Josefin Sans']
+          families: ['Open Sans Condensed', 'Montserrat', 'Josefin Sans']
         }
       }
     },

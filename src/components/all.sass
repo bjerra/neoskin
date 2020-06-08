@@ -1,8 +1,7 @@
 @import "~bulma/sass/utilities/initial-variables"
 
-$Spartan: 'Spartan', serif;   
+$titleFont: 'Open Sans Condensed', serif;   
 $Montserrat: 'Montserrat', sans-serif;
-$Liu: 'Josefin Sans', sans-serif;
 
 // Config vars
 // Kaldi logo brand color: #FD461E
@@ -23,20 +22,48 @@ $family-primary: $Montserrat
 .navbar .navbar-menu
   box-shadow:none !important
 
+h1
+  font-family: $titleFont
+
+h2
+  font-family: $titleFont
+h3
+  font-family: $titleFont
+
 .page-title
   font-size: 4rem !important
-  font-weight: 400 !important
+  font-weight: 300 !important
   color: #000 !important
   background-color: #f3e1d9bf
   border-radius: 5px
   padding: 1rem
-  font-family: $Spartan
   text-align: center
   margin: 0rem 2rem
 
 h2.page-title
     font-size: 2.5rem !important
     margin: 1rem 4rem
+
+#email-list
+  margin-bottom: 3rem
+  button
+      font-family: $titleFont
+      color: $primary-invert
+      background-color: $info
+      font-size: 1.45rem
+      cursor: pointer
+  input
+      font-size: 1.45rem
+      font-family: $titleFont
+  h2
+      color: $info
+
+
+.error
+    color: red
+
+.success
+    color: $primary
 
 .content .taglist
   list-style: none
@@ -189,7 +216,7 @@ $modal-background-background-color: #0000005e
   padding: 1rem !important
   text-align: center
   font-weight: 350 !important
-  font-family: $Spartan
+  font-family: $titleFont
 
 .service-title
   font-size: 1.2rem !important
@@ -197,7 +224,7 @@ $modal-background-background-color: #0000005e
   background-color: $primary
   text-align: center
   font-weight: 300 !important
-  font-family: $Spartan
+  font-family: $titleFont
 
 .service-card
     background-color: #fff !important
@@ -303,7 +330,7 @@ $modal-background-background-color: #0000005e
   right: 20%
   bottom: 0
   font-size: 1.5rem
-  font-family: $Montserrat
+  font-family: $titleFont
 
 
 
