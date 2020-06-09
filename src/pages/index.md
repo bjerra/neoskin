@@ -88,13 +88,4 @@ main:
   image3:
     alt: Coffee beans
     image: /img/products-grid1.jpg
-description: >-
-  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
-  möjligt med resultatinriktat hudvård, hudhälsa, konsultationer för
-  skräddarsydd kunskap och vägledning men också med ett varmt och tryggt
-  omhändetagande av varje kund.  Med tanke på den globala krisen idag, måste små
-  företag tänka om deras verksamhet för att passa in i ett samhälle där det
-  råder: oro, sjukdom och stor osäkerhet om framtidens utlopp. Här utvecklas
-  därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
-  på bloggen.
 ---
