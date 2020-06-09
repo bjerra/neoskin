@@ -14,7 +14,7 @@ mainpitch:
      Du har kanske fått uppleva olika typer av störningar  mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj?
 
     Vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat.  Vi har
-    nu lyckats spåra tillbaka till dem olika felen och åtgärdat dessa! 
+    nu lyckats spåra tillbaka till de olika felen och åtgärdat dessa! 
 
     Med vänlig hälsning, Anaïs - Neoskin
 intro:
