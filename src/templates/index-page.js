@@ -66,8 +66,8 @@ export const IndexPageTemplate = ({
                   <div className="column is-12">
                     <h3 className="has-text-weight-semibold is-size-2">
                       {heading}
-                    </h3>
-                    <p>{subheading}</p>
+                    </h3>   
+                    <p>{subheading}</p>              
                     <p>{description}</p>
                   </div>
                 </div>
@@ -153,7 +153,8 @@ export const pageQuery = graphql`
             }
           }
         }
-        heading        
+        heading   
+        subheading     
         mainpitch {
           title
           description
@@ -170,9 +171,6 @@ export const pageQuery = graphql`
             }
             text
           }
-          heading
-          subheading
-          description
         }
       }
     }
