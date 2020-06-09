@@ -4,7 +4,7 @@ title: Välkommen till Neoskin
 subtitle: Hudvård & Skönhet
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: NEOSKIN
-subheading: 
+subheading: Välkommen till Neoskin Jkpg
 mainpitch:
   title: Välkommen till din auktoriserade hudterapeut i Jönköping city
   description: >-
@@ -13,14 +13,12 @@ mainpitch:
     som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka
     online eller handla Clinicare och Palina  i våran webbshop. 
 description: >-
-  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
-  möjligt med resultatinriktat hudvård, hudhälsa, konsultationer för
-  skräddarsydd kunskap och vägledning men också med ett varmt och tryggt
-  omhändetagande av varje kund.  Med tanke på den globala krisen idag, måste små
-  företag tänka om deras verksamhet för att passa in i ett samhälle där det
-  råder: oro, sjukdom och stor osäkerhet om framtidens utlopp. Här utvecklas
-  därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
-  på bloggen.
+    Du har kanske fått uppleva olika typer av störningar 
+    mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj, 
+    vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat. 
+    Vi har nu lyckats spåra tillbaka till dem olika felen och åtgärdat dessa! 
+    
+    Med vänlig hälsning, Anaïs
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
