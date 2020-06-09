@@ -4,7 +4,7 @@ title: Välkommen till Neoskin
 subtitle: Hudvård & Skönhet
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: NEOSKIN
-subheading: Välkommen till en hemsida som tänker framtid och möjligheter
+subheading: 
 mainpitch:
   title: Välkommen till din auktoriserade hudterapeut i Jönköping city
   description: >-
@@ -12,6 +12,15 @@ mainpitch:
     ingrepp så som icke-kirurgiska ögonlockslyft eller laser. Ett helhetskoncept
     som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka
     online eller handla Clinicare och Palina  i våran webbshop. 
+description: >-
+  Ett litet företag med enorm potential och drivkraft att hjälpa så många som
+  möjligt med resultatinriktat hudvård, hudhälsa, konsultationer för
+  skräddarsydd kunskap och vägledning men också med ett varmt och tryggt
+  omhändetagande av varje kund.  Med tanke på den globala krisen idag, måste små
+  företag tänka om deras verksamhet för att passa in i ett samhälle där det
+  råder: oro, sjukdom och stor osäkerhet om framtidens utlopp. Här utvecklas
+  därför verksamheten online med hjälp av olika strategier och verktyg. Läs mer
+  på bloggen.
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
@@ -65,24 +74,4 @@ intro:
         kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt
         beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika
         hudkonditioner.
-
-  heading: 'TEST '
-  description: |
-    test
-main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
-  image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
 ---
