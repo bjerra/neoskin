@@ -1,24 +1,22 @@
 ---
 templateKey: index-page
-title: Välkommen till Neoskin
+title: Välkommen till Neoskin Jkpg
 subtitle: Hudvård & Skönhet
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: Välkommen till Neoskin Jkpg
 subheading: >-
-  Du har kanske fått uppleva olika typer av störningar  mellan den 5-8 Juni
-  kommande ifrån hemsidan, mejlen eller våran sista kampanj?
-description: >-
-  Vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat.  Vi har nu
-  lyckats spåra tillbaka till dem olika felen och åtgärdat dessa! 
-
-  Med vänlig hälsning, Anaïs - Neoskin
+  Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
+  ingrepp så som icke-kirurgiska ögonlockslyft eller laser.
+description: ' Ett helhetskoncept som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka online eller handla Clinicare och Palina  i våran webbshop.'
 mainpitch:
-  title: Välkommen till din auktoriserade hudterapeut i Jönköping city
-  description: >-
-    Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
-    ingrepp så som icke-kirurgiska ögonlockslyft eller laser. Ett helhetskoncept
-    som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka
-    online eller handla Clinicare och Palina  i våran webbshop. 
+  title: Åtgärdat störningar!
+  description: >2-
+     Du har kanske fått uppleva olika typer av störningar  mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj?
+
+    Vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat.  Vi har
+    nu lyckats spåra tillbaka till dem olika felen och åtgärdat dessa! 
+
+    Med vänlig hälsning, Anaïs - Neoskin
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
