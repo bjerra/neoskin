@@ -1,24 +1,22 @@
 ---
 templateKey: index-page
-title: Välkommen till Neoskin
+title: Välkommen till Neoskin Jkpg
 subtitle: Hudvård & Skönhet
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
-heading: NEOSKIN
-subheading: Välkommen till Neoskin Jkpg
+heading: Välkommen till Neoskin Jkpg
+subheading: >-
+  Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
+  ingrepp så som icke-kirurgiska ögonlockslyft eller laser.
+description: ' Ett helhetskoncept som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka online eller handla Clinicare och Palina  i våran webbshop.'
 mainpitch:
-  title: Välkommen till din auktoriserade hudterapeut i Jönköping city
-  description: >-
-    Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
-    ingrepp så som icke-kirurgiska ögonlockslyft eller laser. Ett helhetskoncept
-    som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka
-    online eller handla Clinicare och Palina  i våran webbshop. 
-description: >-
-    Du har kanske fått uppleva olika typer av störningar 
-    mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj, 
-    vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat. 
-    Vi har nu lyckats spåra tillbaka till dem olika felen och åtgärdat dessa! 
-    
-    Med vänlig hälsning, Anaïs
+  title: Åtgärdat störningar!
+  description: >2-
+     Du har kanske fått uppleva olika typer av störningar  mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj?
+
+    Vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat.  Vi har
+    nu lyckats spåra tillbaka till de olika felen och åtgärdat dessa! 
+
+    Med vänlig hälsning, Anaïs - Neoskin
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
@@ -58,7 +56,7 @@ intro:
 
 
     - image: /img/tabiskin.jpg
-      text: >+
+      text: >
         TEBISKIN Cytoceuticals är en serie resultatinriktade hudvårdsprodukter
         som genom innovativ vetenskaplig forskning skapats med de senaste
         teknologierna för avancerad hudvård. Produkterna innehåller potenta
@@ -72,4 +70,5 @@ intro:
         kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt
         beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika
         hudkonditioner.
+  description: x
 ---
