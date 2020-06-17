@@ -300,7 +300,7 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/yumi-total-makeover-1010769",
-  "price": "1 395 kr",
+  "price": "1 550 kr",
   "time": "75 minuter",
   "title": "Yumi total makeover",
   "slug": "yumi-total-makeover",
@@ -947,7 +947,7 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/enerpeel-ma-cryoterapi-ice-peel-45-min-355373",
-  "price": "1 295 kr",
+  "price": "1 195 kr",
   "time": "45 minuter",
   "title": "Enerpeel MA + cryoterapi Ice peel 45 min",
   "slug": "enerpeel-ma-cryoterapi-ice-peel-45-min",
@@ -1079,32 +1079,5 @@
   "title": "Kostnadsfri konsultation ",
   "slug": "kostnadsfri-konsultation",
   "id": 48
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/sommarfin-f%C3%B6r-ansikte-dekolletage-och-h%C3%A4nder-1051118",
-  "price": "995 kr",
-  "time": "45 minuter",
-  "title": "Sommarfin för ansikte, dekolletage och händer",
-  "slug": "sommarfin-for-ansikte-dekolletage-och-hander",
-  "id": 49,
-  "info": [
-   {
-    "title": "Erbjudande i juni",
-    "text": "795 kr"
-   },
-   {
-    "title": "BRA FÖR",
-    "text": "- Torr hud.\r\n\r\n- Solbränd hud.\r\n\r\n- Känslig hud.\r\n\r\n- Eksem.\r\n\r\n- Rosacea : lägg till LED-Mask terapi för 300 kr\r\n\r\n- Fukt\r\n\r\n- Skön stund"
-   },
-   {
-    "title": "VAD DU BEHÖVER VETA",
-    "text": "Denna behandling har jag tänkt ut för sommaren då vi är många som behöver lite extra vårdnad efter solens uttorkande effekt.\r\n\r\nPå grund av detta och rådande omständigheter är det även många som har problem med torra händer då vi tvättar händerna längre och oftare.\r\n\r\nBehandlingen är noga uttänkt och anpassad för huden som behöver repareras efter en solig dag på t.ex vätterstranden.\r\n\r\nFungerar även utmärkt i förebyggande syfte för att förstärka hudens försvar och barriär."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "-Skonsam dubbelrengöring av ansikte och dekolletage\r\n-Anpassad peeling för ansikte och dekolletage men även för händerna.\r\n-Behandlingskräm i ansikte, hals och dekolletage som appliceras i en mycket behaglig och avkopplande massage.\r\n-Anpassad fuktmask och handmassage med ovanstående behandlingskräm.\r\n\r\nEfter behandlingen blir din hud som ny igen och du har fått dig en riktigt lyxig och skön stund! Du får även alltid en sammanfattning av mina observationer följt av lite goda tips &amp; råd om hemmavård och rutiner för optimal hudhälsa och förlängt resultat."
-   }
-  ],
-  "variant": " "
  }
 ]
