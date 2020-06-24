@@ -18,7 +18,7 @@ const Footer = class extends React.Component {
 
           <EmailList /> 
 
-            <div className="columns is-centered">
+            <div className="columns is-centered" style={{marginRight: 0, marginLeft: 0}}>
               
               <div className="column is-3">             
                 <img

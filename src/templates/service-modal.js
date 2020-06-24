@@ -3,19 +3,25 @@ import { Link } from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 import { navigate, graphql } from 'gatsby'
 import ServiceDetails from '../components/ServiceDetails'
+import SEO from '../components/SEO'
 
 const ServiceModal = ({data}) => { 
 
     const {info, title, ...details} = data.serviceDataJson
+    let description = ""
+    info.forEach(element => {
+        description += element.text
+    });
 
     return(
   <ModalRoutingContext.Consumer>
+    
     {({ modal, closeTo }) => (
         modal ? (
         <div className="" style={{position: 'absolute', left: 0, right: 0, top: 0, bottom: 0}} onClick={() => navigate('/behandlingar')}>
-
+        <SEO title={title} description={description}/>
                 <div className="service-modal"> 
-                <button class="modal-close is-large" aria-label="close" onClick={() => navigate('/behandlingar')}></button>    
+                <button className="modal-close is-large" aria-label="close" onClick={() => navigate('/behandlingar')}></button>    
                     <h1 className="category-title">
                         {title}                            
                     </h1>                 
@@ -39,7 +45,8 @@ const ServiceModal = ({data}) => {
          </div>
 
         ) : (           
-            <div className="container">    
+            <div className="container">  
+            <SEO title={title} description={info[0].text}/>  
             <h2 className="category-title">
                 {title}                            
             </h2>                 
