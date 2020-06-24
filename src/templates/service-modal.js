@@ -9,10 +9,13 @@ const ServiceModal = ({data}) => {
 
     const {info, title, ...details} = data.serviceDataJson
     let description = ""
-    info.forEach(element => {
-        description += element.text
-    });
-
+    if(info.isArray()){
+        info.forEach(element => {
+            description += element.text
+        });
+    } else {
+        description += info
+    }
     return(
   <ModalRoutingContext.Consumer>
     
