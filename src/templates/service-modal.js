@@ -47,7 +47,7 @@ const ServiceModal = ({data}) => {
 
         ) : (           
             <div className="container">  
-            <SEO title={title} description={info[0].text}/>  
+            <SEO title={title} description={description}/>  
             <h2 className="category-title">
                 {title}                            
             </h2>                 
