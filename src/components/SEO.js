@@ -41,6 +41,7 @@ const SEO = ({ title, description }) => {
           property="og:image"
           content={`${withPrefix('/')}img/og-image.jpg`}
         />
+        <meta property="og:site_name" content={title} />
       </Helmet>     
   )
 }

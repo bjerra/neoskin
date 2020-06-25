@@ -1,9 +1,9 @@
 import React from 'react'
 import { Link } from 'gatsby'
+import { Helmet } from 'react-helmet'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 import { navigate, graphql } from 'gatsby'
 import ServiceDetails from '../components/ServiceDetails'
-import SEO from '../components/SEO'
 
 const ServiceModal = ({data}) => { 
 
@@ -19,10 +19,19 @@ const ServiceModal = ({data}) => {
     
     {({ modal, closeTo }) => (
         modal ? (
-        <div className="" style={{position: 'absolute', left: 0, right: 0, top: 0, bottom: 0}} onClick={() => navigate('/behandlingar')}>
-        <SEO title={title} description={description}/>
-                <div className="service-modal"> 
-                <button className="modal-close is-large" aria-label="close" onClick={() => navigate('/behandlingar')}></button>    
+            <React.Fragment>
+            <div className="service-modal" onClick={() => navigate('/behandlingar')}>
+                 <Helmet titleTemplate={`%s | Behandlingar`}>
+                        <title>{title}</title>
+                        <meta
+                        name="description"
+                        content={description}
+                        />
+                    </Helmet>
+        
+                <div className="modal-main"> 
+                   
+                    <button className="modal-close is-large" aria-label="close" onClick={() => navigate('/behandlingar')}></button>    
                     <h1 className="category-title">
                         {title}                            
                     </h1>                 
@@ -30,24 +39,30 @@ const ServiceModal = ({data}) => {
                         {info &&
                         info.map(({title, text}, index) => (
                             <div>
-                                <h2 className="content" style={{fontSize: '1.25rem', margin: '0', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
+                                <h2 className="content" style={{fontSize: '1.25rem', margin: '1rem', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
     
                                 <div className="content" style={{fontSize: '1rem', paddingLeft: '2rem'}} dangerouslySetInnerHTML={{__html: text}}/>
     
                             </div>
                         ))          
                         }                                                                                                         
-                </div>               
-                <div style={{margin: '2rem'}}>
-                    <ServiceDetails service={details}/>  
-                </div>                                           
-            </div>   
-                
-         </div>
-
+                    </div>               
+                    <div style={{margin: '2rem'}}>
+                        <ServiceDetails service={details}/>  
+                    </div>                                           
+                </div>   
+            </div>
+            </React.Fragment>
         ) : (           
             <div className="container">  
-            <SEO title={title} description={description}/>  
+            <Helmet titleTemplate={`%s | ${title}`}>
+                        <title>{title}</title>
+                        <meta
+                        name="description"
+                        content={description}
+                        />
+                    </Helmet>
+        
             <h2 className="category-title">
                 {title}                            
             </h2>                 
@@ -92,6 +107,6 @@ export const query = graphql`
           text
           title
         }
-      }
+      }   
   }
 `

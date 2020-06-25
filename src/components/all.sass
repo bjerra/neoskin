@@ -30,7 +30,6 @@ h2
 h3
   font-family: $titleFont
 
-
 .page-title
   font-size: 4rem !important
   font-weight: 300 !important
@@ -254,21 +253,52 @@ $modal-background-background-color: #0000005e
   font-size: 1.25rem
 
 .service-modal
+    display: flex
+    background-color: rgba(0, 0, 0, 0.65)
+    position: relative
+    height: 100vh
+    opacity: 1
+    -webkit-animation: fadeIn .3s
+    animation: fadeIn .3s;
+
+@keyframes slideIn 
+  0% 
+    transform: translateY(100%);
+  100% 
+    transform: translateY(0);
+  
+@keyframes fadeIn 
+  0% 
+    opacity: 0
+  100% 
+    opacity: 1
+
+
+.modal-main
     background-color: #fff !important
-    display: block
     line-height: 1.25   
     border-radius: .5rem 
-    margin: auto
-    margin-top: 5rem
     border: 3px solid $info-invert
+    display: flex
+    align-items: center
+    justify-items: center
     max-width: 90%
+    width: 100%
+    margin: auto
+    margin-top: 4rem
+    margin-bottom: 4rem
+    flex-direction: column;
+    overflow: scroll
+    -webkit-animation: slideIn .3s
+    animation: slideIn .3s;
 
-.service-modal h1
+.modal-main h1
     font-size: 1.5rem !important
     padding: .5rem
     background-color: $primary
     text-align: center
     font-weight: 400 !important
+
 
 
 @keyframes fadeinborder 
@@ -533,10 +563,11 @@ $modal-background-background-color: #0000005e
     display: none !important
   .only-desktop
     display: block !important
-  .service-modal
-    max-width: 50%
   .bd-btn   
     width: 90px;
+  .modal-main
+    max-width: 50%
+
   
 
     

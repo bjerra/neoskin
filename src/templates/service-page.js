@@ -35,7 +35,7 @@ export const ServicePageTemplate = ({
       </div>
         <div className="container">
           <div className="section" style={{padding:0}}>   
-            <div className="columns">
+            <div className="columns" style={{marginLeft: 0, marginRight: 0}}>
                                       
               <div className="column is-3 only-desktop">                                    
                 <CategoryMenu 
@@ -55,9 +55,8 @@ export const ServicePageTemplate = ({
               <div className="column is-3" style={{padding:0}}>         
              
               </div>
-               
+              </div>
             </div>     
-          </div>
         </div>      
   </div>
   )
