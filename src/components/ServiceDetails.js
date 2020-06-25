@@ -11,13 +11,13 @@ import boka from '../img/bokadirekt.png'
             <div className="service-details">                                                                                             
                     {offer && 
                     <div className="container has-text-centered">                        
-                        <span style={{margin: '1rem'}}>
+                        <span style={{margin: '1rem', fontSize: '1rem'}}>
                         ERBJUDANDE!
                         </span>                       
                             <FontAwesomeIcon icon={faStar} color="gold" />
                     </div>
                     }                              
-                    <div className="columns" style={{display: 'flex',justifyContent: 'center', alignItems: 'center' }}> 
+                    <div className="columns" style={{display: 'flex',justifyContent: 'center', alignItems: 'center', marginBottom: '-.75rem', marginTop: '-1rem' }}> 
                     <div className="column">
                         <p className="service-text">
                             {time}
