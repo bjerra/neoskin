@@ -45,6 +45,7 @@ h2.page-title
     margin: 1rem 4rem
 
 #email-list
+  display: inline-block;
   border: 1px solid white;
   margin: 0 .5rem 3rem .5rem;
   padding: .5rem;
@@ -260,12 +261,15 @@ $modal-background-background-color: #0000005e
     opacity: 1
     -webkit-animation: fadeIn .3s
     animation: fadeIn .3s;
+    transform: translateY(0);
 
 @keyframes slideIn 
   0% 
     transform: translateY(100%);
+    animation-timing-function:ease-in
   100% 
     transform: translateY(0);
+    animation-timing-function:ease-in
   
 @keyframes fadeIn 
   0% 
