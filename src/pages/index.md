@@ -4,19 +4,20 @@ title: Välkommen till Neoskin Jkpg
 subtitle: Hudvård & Skönhet
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: Välkommen till Neoskin Jkpg
-subheading: >-
-  Skräddarsydda behandlingar med kostnadsfria konsultationer för avancerade
-  ingrepp så som icke-kirurgiska ögonlockslyft eller laser.
-description: ' Ett helhetskoncept som vill nå optimal hudvård i en trygg och lugn miljö. Du kan enkelt boka online eller handla Clinicare och Palina  i våran webbshop.'
+subheading: Skräddarsydda behandlingar med kostnadsfria konsultationer för
+  avancerade ingrepp så som icke-kirurgiska ögonlockslyft eller laser.
+description: " Ett helhetskoncept som vill nå optimal hudvård i en trygg och
+  lugn miljö. Du kan enkelt boka online eller handla Clinicare och Palina  i
+  våran webbshop."
 mainpitch:
-  title: Åtgärdat störningar!
-  description: >2-
-     Du har kanske fått uppleva olika typer av störningar  mellan den 5-8 Juni kommande ifrån hemsidan, mejlen eller våran sista kampanj?
+  title: NYHETER
+  description: >-
+    Du har väl inte missat att du nu kan göra äkta Keratinlyft i Jönköping? -jo,
+    det är sant. Yumi lashes finns exklusivt hos mig, passa på att boka våra
+    härliga erbjudanden!
 
-    Vi vill be så hemskt mycket om ursäkt för allt det kan ha orsakat.  Vi har
-    nu lyckats spåra tillbaka till de olika felen och åtgärdat dessa! 
 
-    Med vänlig hälsning, Anaïs - Neoskin
+    PRX-T33! Sommarens hetaste nyhet borde du läsa mer om... kika under behandlingar ;-). Behandlingen passar alla hudtyper och årstider. 
 intro:
   blurbs:
     - image: /img/fullsizeoutput_e2e.jpeg
@@ -25,15 +26,10 @@ intro:
         din egna säkerhet bör du alltid välja en riktig hudterapeut som är
         medlem i Sveriges Hudterapeuters Riksorganisation (SHR).
 
-        En auktoriserad hudterapeut har genomgått en gedigen utbildning och du
-        som kund omfattas dessutom av en behandlingsskadeförsäkring som träder i
-        kraft om du skulle drabbas av en skada, under behandlingen eller till
-        följd av behandlingen.
+        En auktoriserad hudterapeut har genomgått en gedigen utbildning och du som kund omfattas dessutom av en behandlingsskadeförsäkring som träder i kraft om du skulle drabbas av en skada, under behandlingen eller till följd av behandlingen.
 
 
-        Du som kund kan således känna dig trygg när du väljer en hudterapeut som
-        är medlem i vårt förbund. SHR representerar den svenska sektionen i
-        CIDESCO.  
+        Du som kund kan således känna dig trygg när du väljer en hudterapeut som är medlem i vårt förbund. SHR representerar den svenska sektionen i CIDESCO.  
 
         Vårt emblem är din trygghet – välj en hudterapeut som är medlem i SHR.
     - image: /img/victus-logo.jpg
@@ -66,9 +62,6 @@ intro:
         hudhälsa.
 
 
-        TEBISKIN Cytoceuticals fokuserar på orsaker framför symptom för
-        kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt
-        beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika
-        hudkonditioner.
+        TEBISKIN Cytoceuticals fokuserar på orsaker framför symptom för kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika hudkonditioner.
   description: x
 ---
