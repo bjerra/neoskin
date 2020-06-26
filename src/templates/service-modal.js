@@ -19,7 +19,6 @@ const ServiceModal = ({data}) => {
     
     {({ modal, closeTo }) => (
         modal ? (
-            <React.Fragment>
             <div className="service-modal" onClick={() => navigate('/behandlingar')}>
                  <Helmet titleTemplate={`%s | Behandlingar`}>
                         <title>{title}</title>
@@ -38,7 +37,7 @@ const ServiceModal = ({data}) => {
                     <div className="info-card" >                                                                         
                         {info &&
                         info.map(({title, text}, index) => (
-                            <div>
+                            <div key={index}>
                                 <h2 className="content" style={{fontSize: '1.25rem', margin: '1rem', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
     
                                 <div className="content" style={{fontSize: '1rem', paddingLeft: '2rem'}} dangerouslySetInnerHTML={{__html: text}}/>
@@ -52,7 +51,6 @@ const ServiceModal = ({data}) => {
                     </div>                                           
                 </div>   
             </div>
-            </React.Fragment>
         ) : (           
             <div className="container">  
             <Helmet titleTemplate={`%s | ${title}`}>

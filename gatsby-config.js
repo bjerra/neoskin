@@ -78,7 +78,7 @@ module.exports = {
               WebkitOverflowScrolling: `touch`,
             },
           },
-          contentLabel: `Modal`
+          contentLabel: `Modal`      
         }
       }
     },

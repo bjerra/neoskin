@@ -45,7 +45,6 @@ h2.page-title
     margin: 1rem 4rem
 
 #email-list
-  display: inline-block;
   border: 1px solid white;
   margin: 0 .5rem 3rem .5rem;
   padding: .5rem;
@@ -67,7 +66,7 @@ h2.page-title
       font-family: $titleFont
   h2
       color: white
-      font-size: 1.25rem !important
+      font-size: 1.5rem !important
 
 
 .error
@@ -261,15 +260,12 @@ $modal-background-background-color: #0000005e
     opacity: 1
     -webkit-animation: fadeIn .3s
     animation: fadeIn .3s;
-    transform: translateY(0);
 
 @keyframes slideIn 
   0% 
     transform: translateY(100%);
-    animation-timing-function:ease-in
   100% 
     transform: translateY(0);
-    animation-timing-function:ease-in
   
 @keyframes fadeIn 
   0% 
@@ -315,6 +311,8 @@ $modal-background-background-color: #0000005e
 .service-details 
     border-radius: .5rem
     border-bottom: 1px solid #eee
+    font-size: 1.15rem
+    font-weight: 700 !important
 
 .slider
   transform: translateX(100%) !important;
@@ -440,18 +438,11 @@ $modal-background-background-color: #0000005e
 .servicelist-item
     border-bottom: 1px solid #baa477;
 .service-text
-  font-weight: 400
-  font-size: 1.15rem
+  font-weight: 600
+  font-size: 1.25rem
 
 .bd-btn   
-    background: #fff4f463;
-    object-fit: contain;
-    border-radius: 50%;
-    box-shadow: 0px 0px 2px 1px #9c6e775c;
-    width: 60px;
-    height: 60px;
-    &:hover
-        background: #fff4f499;
+  width: 75px;
 
 .tabs
     align-items: stretch;
@@ -572,6 +563,8 @@ $modal-background-background-color: #0000005e
     display: none !important
   .only-desktop
     display: block !important
+  .bd-btn   
+    width: 90px;
   .modal-main
     max-width: 50%
 
