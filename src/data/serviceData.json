@@ -1,7 +1,7 @@
 [
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/prx-t33--1077984",
-  "price": "1 995 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/erbjudande-prx-t33-lansering-juni-juli-1077982",
+  "price": "1 500 kr",
   "time": "30 minuter",
   "title": "PRX-T33",
   "slug": "prx-t33",
@@ -24,7 +24,8 @@
     "text": "Vi tar bort smink om du är sminkad och applicerar P solution.\r\n\r\nDu ligger ner bekvämt och slappnar av, behandlingen kan kännas stickande, lite svidande för de mest känsliga, andra upplever inga obekvämligheter över huvudtaget.\r\n\r\nVi masserar in PRX-T33 med en mycket speciell massage, område per område i 1-5 stycken lager.\r\n\r\nVi neutraliserar och applicerar eftervårdskräm. Klart!"
    }
   ],
-  "variant": " "
+  "variant": " ",
+  "offer": true
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/erbjudande-prx-t33-lansering-juni-juli-1077982",
@@ -130,7 +131,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/erbjudande-60-min-exuviance-ansiktsbehandling--353393",
   "price": "720 kr",
   "time": "60 minuter",
-  "title": "Erbjudande 60 min Exuviance Ansiktsbehandling",
+  "title": "Erbjudande 60 min Exuviance Ansiktsbehandling ",
   "slug": "erbjudande-60-min-exuviance-ansiktsbehandling",
   "id": 6,
   "info": [
@@ -162,7 +163,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/neosk%C3%AFn-quick-fix--353395",
   "price": "450 kr",
   "time": "20 minuter",
-  "title": "Neoskïn Quick-fix",
+  "title": "Neoskïn Quick-fix ",
   "slug": "neoskin-quick-fix",
   "id": 8,
   "info": [
@@ -212,7 +213,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/neosk%C3%AFn-klassisk--363190",
   "price": "995 kr",
   "time": "60 minuter",
-  "title": "Neoskïn Klassisk",
+  "title": "Neoskïn Klassisk ",
   "slug": "neoskin-klassisk",
   "id": 10,
   "info": [
@@ -355,8 +356,8 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/yumi-total-makeover-1010769",
-  "price": "1 550 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/erbjudande-yumi-total-makeover-1051093",
+  "price": "1 000 kr",
   "time": "75 minuter",
   "title": "Yumi total makeover",
   "slug": "yumi-total-makeover",
@@ -379,7 +380,8 @@
     "text": "I total makeover ingår både Yumi Lashes och Yumi brows. Detta är en riktig makeover då hela ögonregionen får sig ett lyft, färg och brynen formas till en helhet som ger en helt ny blick !\r\n\r\nKänner du dig trött på morgonen? Ser du trött och sliten ut ? Med Yumi total makeover vinner du tid och självförtroende varje morgon, utan att behöva tänka på smink."
    }
   ],
-  "variant": " "
+  "variant": " ",
+  "offer": true
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/brynplock-vax-1052022",
@@ -460,7 +462,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/30-min-ansiktsbehandling-hudh%C3%A4lsa-inkl-ampull-359503",
   "price": "600 kr",
   "time": "30 minuter",
-  "title": "30 min Ansiktsbehandling Hudhälsa inkl. Ampull",
+  "title": "30 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "30-min-ansiktsbehandling-hudhalsa-inkl-ampull",
   "id": 22,
   "info": [
@@ -505,7 +507,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/60-min-ansiktsbehandling-hudh%C3%A4lsa-inkl-ampull-359505",
   "price": "1 100 kr",
   "time": "60 minuter",
-  "title": "60 min Ansiktsbehandling Hudhälsa inkl. Ampull",
+  "title": "60 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "60-min-ansiktsbehandling-hudhalsa-inkl-ampull",
   "id": 25,
   "info": [
@@ -535,7 +537,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/90-min-ansiktsbehandling-hudh%C3%A4lsa-inkl-ampull-359507",
   "price": "1 400 kr",
   "time": "90 minuter",
-  "title": "90 min Ansiktsbehandling Hudhälsa inkl. Ampull",
+  "title": "90 min Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "90-min-ansiktsbehandling-hudhalsa-inkl-ampull",
   "id": 27,
   "info": [
@@ -596,7 +598,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fraxium-h%C3%B6g-intensitet-1-zon-tinningar--355365",
   "price": "995 kr",
   "time": "15 minuter",
-  "title": "Fraxium hög intensitet 1 zon (tinningar)",
+  "title": "Fraxium hög intensitet 1 zon (tinningar) ",
   "slug": "fraxium-hog-intensitet-1-zon-tinningar",
   "id": 30,
   "info": [
@@ -623,7 +625,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fraxium-h%C3%B6g-intensitet-2-zoner-kindben--355367",
   "price": "1 795 kr",
   "time": "30 minuter",
-  "title": "Fraxium hög intensitet 2 zoner (kindben)",
+  "title": "Fraxium hög intensitet 2 zoner (kindben) ",
   "slug": "fraxium-hog-intensitet-2-zoner-kindben",
   "id": 31,
   "info": [
@@ -650,7 +652,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fraxium-h%C3%B6g-intensitet-3-zoner-helt-ansikte--355369",
   "price": "2 395 kr",
   "time": "60 minuter",
-  "title": "Fraxium hög intensitet 3 zoner (helt ansikte)",
+  "title": "Fraxium hög intensitet 3 zoner (helt ansikte) ",
   "slug": "fraxium-hog-intensitet-3-zoner-helt-ansikte",
   "id": 32,
   "info": [
@@ -677,7 +679,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/fraxium-mildare-behandling-f%C3%B6r-hela-ansiktet--355364",
   "price": "1 495 kr",
   "time": "30 minuter",
-  "title": "Fraxium mildare behandling för hela ansiktet",
+  "title": "Fraxium mildare behandling för hela ansiktet ",
   "slug": "fraxium-mildare-behandling-for-hela-ansiktet",
   "id": 33,
   "info": [
@@ -1132,7 +1134,7 @@
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-jkpg-33692/kostnadsfri-konsultation--359499",
   "price": "Kostnadsfri",
   "time": "15 minuter",
-  "title": "Kostnadsfri konsultation",
+  "title": "Kostnadsfri konsultation ",
   "slug": "kostnadsfri-konsultation",
   "id": 50
  }
