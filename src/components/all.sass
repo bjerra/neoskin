@@ -262,6 +262,7 @@ $modal-background-background-color: #0000005e
     -webkit-animation: fadeIn .3s
     animation: fadeIn .3s;
     transform: translateY(0);
+    overflow: hidden
 
 @keyframes slideIn 
   0% 
@@ -289,19 +290,21 @@ $modal-background-background-color: #0000005e
     max-width: 90%
     width: 100%
     margin: auto
+    color: black
     margin-top: 4rem
     margin-bottom: 4rem
     flex-direction: column;
     overflow: scroll
     -webkit-animation: slideIn .3s
     animation: slideIn .3s;
-
-.modal-main h1
-    font-size: 1.5rem !important
-    padding: .5rem
-    background-color: $primary
-    text-align: center
-    font-weight: 400 !important
+    h1
+      font-size: 1.5rem !important
+      padding: .5rem
+      background-color: $primary
+      text-align: center
+      font-weight: 400 !important
+      width: 90%
+      margin-top: 1rem
 
 
 
@@ -313,8 +316,11 @@ $modal-background-background-color: #0000005e
 
 
 .service-details 
+    padding: 2rem
     border-radius: .5rem
     border-bottom: 1px solid #eee
+    width: 100%;
+    text-align: center;
 
 .slider
   transform: translateX(100%) !important;

@@ -1,6 +1,6 @@
 import React from 'react'
-import { Link } from 'gatsby'
 import { Helmet } from 'react-helmet'
+import { Link } from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 import { navigate, graphql } from 'gatsby'
 import ServiceDetails from '../components/ServiceDetails'
@@ -14,12 +14,19 @@ const ServiceModal = ({data}) => {
             description += element.text
         });
     } 
+    
+    const closeModal = () => {
+        navigate('/behandlingar')
+    }
+
     return(
   <ModalRoutingContext.Consumer>
     
     {({ modal, closeTo }) => (
         modal ? (
-            <div className="service-modal" onClick={() => navigate('/behandlingar')}>
+            <Link className="service-modal" to="/behandlingar" state={{
+                noScroll: true
+              }}>
                  <Helmet titleTemplate={`%s | Behandlingar`}>
                         <title>{title}</title>
                         <meta
@@ -30,14 +37,14 @@ const ServiceModal = ({data}) => {
         
                 <div className="modal-main"> 
                    
-                    <button className="modal-close is-large" aria-label="close" onClick={() => navigate('/behandlingar')}></button>    
+                    <button className="modal-close is-large" aria-label="close" ></button>    
                     <h1 className="category-title">
                         {title}                            
                     </h1>                 
                     <div className="info-card" >                                                                         
                         {info &&
-                        info.map(({title, text}, index) => (
-                            <div key={index}>
+                        info.map(({title, text}) => (
+                            <div key={title}>
                                 <h2 className="content" style={{fontSize: '1.25rem', margin: '1rem', borderBottom: '1px solid black', textAlign: 'center'}} dangerouslySetInnerHTML={{__html: title}}/>
     
                                 <div className="content" style={{fontSize: '1rem', paddingLeft: '2rem'}} dangerouslySetInnerHTML={{__html: text}}/>
@@ -46,11 +53,9 @@ const ServiceModal = ({data}) => {
                         ))          
                         }                                                                                                         
                     </div>               
-                    <div style={{margin: '2rem'}}>
-                        <ServiceDetails service={details}/>  
-                    </div>                                           
+                        <ServiceDetails service={details}/>                                         
                 </div>   
-            </div>
+            </Link>
         ) : (           
             <div className="container">  
             <Helmet titleTemplate={`%s | ${title}`}>
@@ -76,9 +81,7 @@ const ServiceModal = ({data}) => {
                  ))          
                  }                                                                                                         
            </div>  
-           <div style={{margin: '2rem'}}>
             <ServiceDetails service={details}/>  
-           </div>
            
            </div>         
         )
