@@ -26,7 +26,7 @@ const CategoryCard = ({data}) => {
                             <ServiceDetails service={service}/>  
                         <Link to={`/behandlingar/${service.slug}`} state={{
                             modal: true
-                        }}> Mer Info
+                        }}> mer info
                         </Link>       
                     </div>       
                 ))
