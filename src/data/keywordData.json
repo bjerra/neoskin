@@ -1,135 +1,141 @@
 [
  {
-  "title": "Rynkor",
-  "services": [
-   1,
-   2,
-   32,
-   35,
-   36
-  ]
- },
- {
   "title": "Fukt",
   "services": [
-   3,
+   1,
    10,
-   11,
-   28,
-   29,
-   34,
-   44
+   15,
+   17,
+   18,
+   19,
+   22,
+   23,
+   38
   ]
  },
  {
   "title": "Skön stund",
   "services": [
-   3,
-   4,
-   16,
-   46,
-   47
+   1,
+   2,
+   9,
+   10,
+   13,
+   19,
+   24,
+   25
   ]
  },
  {
-  "title": "Känslig hud",
+  "title": "Rynkor",
   "services": [
-   8
-  ]
- },
- {
-  "title": "Eksem",
-  "services": [
-   10
-  ]
- },
- {
-  "title": "Slapp hud",
-  "services": [
-   28,
-   29,
-   32,
-   36
-  ]
- },
- {
-  "title": "Huduppstramning",
-  "services": [
-   28,
-   29,
-   35
-  ]
- },
- {
-  "title": "Påsar under ögonen",
-  "services": [
-   28,
-   36
-  ]
- },
- {
-  "title": "Acneärr",
-  "services": [
-   30,
-   31,
-   32
-  ]
- },
- {
-  "title": "Hängande ögonlock",
-  "services": [
-   36
-  ]
- },
- {
-  "title": "Fibrom",
-  "services": [
-   37,
-   38,
-   39,
-   40,
-   41,
-   42,
-   43
-  ]
- },
- {
-  "title": "Skin tags",
-  "services": [
-   38,
-   39,
-   42,
-   43
-  ]
- },
- {
-  "title": "Pigmentfläckar",
-  "services": [
-   38,
-   39,
-   40,
-   41,
-   42,
-   43
-  ]
- },
- {
-  "title": "Xantelasma",
-  "services": [
-   42,
-   43
+   6,
+   7,
+   14,
+   36,
+   44,
+   45
   ]
  },
  {
   "title": "Acne",
   "services": [
-   44
+   15
   ]
  },
  {
   "title": "Rosacea",
   "services": [
+   16
+  ]
+ },
+ {
+  "title": "Slapp hud",
+  "services": [
+   17,
+   18,
+   36,
    45
+  ]
+ },
+ {
+  "title": "Huduppstramning",
+  "services": [
+   17,
+   18,
+   44
+  ]
+ },
+ {
+  "title": "Påsar under ögonen",
+  "services": [
+   17,
+   45
+  ]
+ },
+ {
+  "title": "Känslig hud",
+  "services": [
+   20
+  ]
+ },
+ {
+  "title": "Eksem",
+  "services": [
+   22
+  ]
+ },
+ {
+  "title": "Acneärr",
+  "services": [
+   34,
+   35,
+   36
+  ]
+ },
+ {
+  "title": "Hängande ögonlock",
+  "services": [
+   45
+  ]
+ },
+ {
+  "title": "Fibrom",
+  "services": [
+   46,
+   47,
+   48,
+   49,
+   50,
+   51,
+   52
+  ]
+ },
+ {
+  "title": "Skin tags",
+  "services": [
+   47,
+   48,
+   51,
+   52
+  ]
+ },
+ {
+  "title": "Pigmentfläckar",
+  "services": [
+   47,
+   48,
+   49,
+   50,
+   51,
+   52
+  ]
+ },
+ {
+  "title": "Xantelasma",
+  "services": [
+   51,
+   52
   ]
  }
 ]

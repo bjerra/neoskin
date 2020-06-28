@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import { ModalRoutingContext } from 'gatsby-plugin-modal-routing'
 import { navigate, graphql } from 'gatsby'
 import ServiceDetails from '../components/ServiceDetails'
+import Layout from '../components/Layout'
 
 const ServiceModal = ({data}) => { 
 
@@ -15,19 +16,12 @@ const ServiceModal = ({data}) => {
         });
     } 
     
-    const closeModal = () => {
-        navigate('/behandlingar')
-    }
-
     return(
   <ModalRoutingContext.Consumer>
     
     {({ modal, closeTo }) => (
         modal ? (
-            <Link className="service-modal" to={"/behandlingar"} state={{
-                noScroll: true
-              }}
-              replace>
+            <div className="service-modal" onClick={() =>  window.history.back()}>
                  <Helmet titleTemplate={`%s | Behandlingar`}>
                         <title>{title}</title>
                         <meta
@@ -59,8 +53,9 @@ const ServiceModal = ({data}) => {
                         </div>            
                                                             
                 </div>   
-            </Link>
-        ) : (           
+            </div>
+        ) : (       
+            <Layout>  
             <div className="container">  
             <Helmet titleTemplate={`%s | ${title}`}>
                         <title>{title}</title>
@@ -87,7 +82,8 @@ const ServiceModal = ({data}) => {
            </div>  
             <ServiceDetails service={details}/>  
            
-           </div>         
+           </div>   
+           </Layout>       
         )
 
     )}
