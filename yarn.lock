@@ -3569,10 +3569,10 @@ builtin-status-codes@^3.0.0:
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
   integrity sha1-hZgoeOIbmOHGZCXgPQF0eI9Wnug=
 
-bulma@^0.8.0:
-  version "0.8.2"
-  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.8.2.tgz#5d928f16ed4a84549c2873f95c92c38c69c631a7"
-  integrity sha512-vMM/ijYSxX+Sm+nD7Lmc1UgWDy2JcL2nTKqwgEqXuOMU+IGALbXd5MLt/BcjBAPLIx36TtzhzBcSnOP974gcqA==
+bulma@^0.9.0:
+  version "0.9.0"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.9.0.tgz#948c5445a49e9d7546f0826cb3820d17178a814f"
+  integrity sha512-rV75CJkubNUroAt0qCRkjznZLoaXq/ctfMXsMvKSL84UetbSyx5REl96e8GoQ04G4Tkw0XF3STECffTOQrbzOQ==
 
 bytes@3.0.0:
   version "3.0.0"
@@ -6845,10 +6845,10 @@ gatsby-plugin-mailchimp@^5.2.2:
     email-validator "^2.0.4"
     jsonp "^0.2.1"
 
-gatsby-plugin-modal-routing@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.1.0.tgz#2bbff5b1cc112bd1b8125c379f1ee87b100beebc"
-  integrity sha512-nCiyedukLLDzgDG4Un5Vw7NW6lqJq1rTgByhAtmpvrK2oKxkNvjyI7/uVT2ch74/1Vss1GGcrJXQWN7g1Kk+IQ==
+gatsby-plugin-modal-routing@^1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-modal-routing/-/gatsby-plugin-modal-routing-1.2.0.tgz#0d5f19d18e4b281dd59dd3cb9eb3ab7088cb0d11"
+  integrity sha512-MnAm6yO8XXb/Umet27kAWsvHVCV6kCjoU5gIKo/eIwTLkY+wXwgHlhZ+XZsb22z9qG792BtuQzhhDhH8DvJ/dw==
   dependencies:
     "@babel/runtime" "^7.0.0"
     lodash "^4.17.11"
@@ -13253,7 +13253,7 @@ react-window@^1.8.5:
     "@babel/runtime" "^7.0.0"
     memoize-one ">=3.1.1 <6"
 
-react@^16.8.0, react@^16.8.1, react@^16.8.4:
+react@^16.13.1, react@^16.8.0, react@^16.8.1, react@^16.8.4:
   version "16.13.1"
   resolved "https://registry.yarnpkg.com/react/-/react-16.13.1.tgz#2e818822f1a9743122c063d6410d85c1e3afe48e"
   integrity sha512-YMZQQq32xHLX0bz5Mnibv1/LHb3Sqzngu7xstSM+vrkE5Kzr9xE0yMByK5kMoTK30YVJE61WfbxIFFvfeDKT1w==
