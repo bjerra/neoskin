@@ -24,9 +24,10 @@ const ServiceModal = ({data}) => {
     
     {({ modal, closeTo }) => (
         modal ? (
-            <Link className="service-modal" to="/behandlingar" state={{
+            <Link className="service-modal" to={"/behandlingar"} state={{
                 noScroll: true
-              }}>
+              }}
+              replace>
                  <Helmet titleTemplate={`%s | Behandlingar`}>
                         <title>{title}</title>
                         <meta
@@ -52,8 +53,11 @@ const ServiceModal = ({data}) => {
                             </div>
                         ))          
                         }                                                                                                         
-                    </div>               
-                        <ServiceDetails service={details}/>                                         
+                    </div>   
+                    <div style={{padding: '2rem', width: '100%'}}>
+                    <ServiceDetails service={details}/>     
+                        </div>            
+                                                            
                 </div>   
             </Link>
         ) : (           
