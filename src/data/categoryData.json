@@ -1,15 +1,5 @@
 [
  {
-  "title": "ERBJUDANDEN FÖR JUNI 2020",
-  "services": [
-   1,
-   2,
-   3,
-   4,
-   5
-  ]
- },
- {
   "title": "ERBJUDANDEN FÖR JULI-AUGUSTI 2020",
   "services": [
    6,
@@ -19,6 +9,16 @@
    10
   ]
  },
+ {
+    "title": "ERBJUDANDEN FÖR JUNI 2020",
+    "services": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
  {
   "title": "Yumi lashes and brows",
   "services": [
