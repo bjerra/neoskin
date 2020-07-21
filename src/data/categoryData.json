@@ -6,101 +6,101 @@
    2,
    3,
    4,
-   5
+   5,
+   6
   ]
  },
  {
   "title": "Yumi lashes and brows",
   "services": [
-   6,
    7,
-   8
+   8,
+   9
   ]
  },
  {
   "title": "PRX-T33",
   "services": [
-   9
+   10
   ]
  },
  {
   "title": "Enerpeel kemiska peels",
   "services": [
-   10,
-   11
+   11,
+   12
   ]
  },
  {
   "title": "Jett plasma cosmetical (Silver tip)",
   "services": [
-   12,
-   13
+   13,
+   14
   ]
  },
  {
   "title": "Sköna stunden",
   "services": [
-   14
+   15
   ]
  },
  {
   "title": "Ansiktsbehandling med ultraljudsrengöring",
   "services": [
-   15,
    16,
    17,
-   18
+   18,
+   19
   ]
  },
  {
   "title": "Akupunktur",
   "services": [
-   19,
-   20
+   20,
+   21
   ]
  },
  {
   "title": "LED-Mask terapi",
   "services": [
-   21,
-   22
+   22,
+   23
   ]
  },
  {
   "title": "Esse Probiotic Skincare",
   "services": [
-   23,
    24,
    25,
    26,
    27,
-   28
+   28,
+   29
   ]
  },
  {
   "title": "Fraktionerad Erbiumlaser",
   "services": [
-   29,
    30,
    31,
    32,
-   33
+   33,
+   34
   ]
  },
  {
   "title": "Fransar och bryn",
   "services": [
-   34,
    35,
    36,
    37,
-   38
+   38,
+   39
   ]
  },
  {
   "title": "Jett plasma medical (Gold tip)",
   "services": [
-   39,
    40,
    41,
    42,
@@ -108,20 +108,21 @@
    44,
    45,
    46,
-   47
+   47,
+   48
   ]
  },
  {
   "title": "Micro channeling",
   "services": [
-   48,
-   49
+   49,
+   50
   ]
  },
  {
   "title": "Konsultationer",
   "services": [
-   50
+   51
   ]
  }
 ]

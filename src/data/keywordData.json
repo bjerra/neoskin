@@ -3,136 +3,136 @@
   "title": "Rynkor",
   "services": [
    1,
-   2,
-   9,
-   31,
-   39,
-   40
+   3,
+   10,
+   32,
+   40,
+   41
   ]
  },
  {
   "title": "Skön stund",
   "services": [
-   4,
    5,
-   8,
-   14,
-   19,
-   20
+   6,
+   9,
+   15,
+   20,
+   21
   ]
  },
  {
   "title": "Fukt",
   "services": [
-   5,
-   10,
-   12,
+   6,
+   11,
    13,
    14,
-   17,
+   15,
    18,
-   33
+   19,
+   34
   ]
  },
  {
   "title": "Acne",
   "services": [
-   10
+   11
   ]
  },
  {
   "title": "Rosacea",
   "services": [
-   11
+   12
   ]
  },
  {
   "title": "Slapp hud",
   "services": [
-   12,
    13,
-   31,
-   40
+   14,
+   32,
+   41
   ]
  },
  {
   "title": "Huduppstramning",
   "services": [
-   12,
    13,
-   39
+   14,
+   40
   ]
  },
  {
   "title": "Påsar under ögonen",
   "services": [
-   12,
-   40
+   13,
+   41
   ]
  },
  {
   "title": "Känslig hud",
   "services": [
-   15
+   16
   ]
  },
  {
   "title": "Eksem",
   "services": [
-   17
+   18
   ]
  },
  {
   "title": "Acneärr",
   "services": [
-   29,
    30,
-   31
+   31,
+   32
   ]
  },
  {
   "title": "Hängande ögonlock",
   "services": [
-   40
+   41
   ]
  },
  {
   "title": "Fibrom",
   "services": [
-   41,
    42,
    43,
    44,
    45,
    46,
-   47
+   47,
+   48
   ]
  },
  {
   "title": "Skin tags",
   "services": [
-   42,
    43,
-   46,
-   47
+   44,
+   47,
+   48
   ]
  },
  {
   "title": "Pigmentfläckar",
   "services": [
-   42,
    43,
    44,
    45,
    46,
-   47
+   47,
+   48
   ]
  },
  {
   "title": "Xantelasma",
   "services": [
-   46,
-   47
+   47,
+   48
   ]
  }
 ]
