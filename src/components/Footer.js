@@ -1,8 +1,8 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import logo from '../img/logo.png'
 import facebook from '../img/social/facebook.svg'
 import instagram from '../img/social/instagram.svg'
-import EmailList from '../components/EmailList'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faEnvelope, faPhone, faMapMarkerAlt } from '@fortawesome/free-solid-svg-icons'
 
@@ -11,12 +11,11 @@ const Footer = class extends React.Component {
   render() {
     return (
       <footer className="footer">    
-      
+                 
+                
         <div className="content has-text-centered">
           
           <div className="container">
-
-          <EmailList /> 
 
             <div className="columns is-centered" style={{marginRight: 0, marginLeft: 0}}>
               
@@ -78,7 +77,20 @@ const Footer = class extends React.Component {
                 </a>       
                          
               </div>
-              <div className="column is-3"> <a                        
+              
+            </div>
+            
+            <div className="columns" style={{display: "flex"}}>
+              <div className="column">
+              <Link to="/blog">
+                    Blogg    
+                  </Link> 
+              </div>
+            <div className="column">
+            <a href="#" className="ch2-open-settings-btn">Kakor</a>
+            </div>
+          <div className="column">
+          <a                        
                         href="/admin/"
                         target="_blank"
                         rel="noopener noreferrer"
@@ -87,12 +99,15 @@ const Footer = class extends React.Component {
                          Admin
                           </p>
                         
-                      </a></div>
-            </div>
-            <a href="#" className="ch2-open-settings-btn">Kakor</a>
+                      </a>
+          </div>
+        </div>
+           
           </div>
                      
         </div>
+       
+
       </footer>
     )
   }

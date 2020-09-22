@@ -14,7 +14,7 @@ const ServicePagePreview = ({ entry, getAsset }) => {
   )
 }
 
-ServicePageTemplate.propTypes = {
+ServicePagePreview.propTypes = {
   entry: PropTypes.shape({
     getIn: PropTypes.func,
   }),
