@@ -26,9 +26,12 @@ export const MemberPageTemplate = ({ title, image, content, contentComponent }) 
         </div>
         <section className="section section--gradient">
       <div className="container">
+        <div className="content">
+        <EmailList />   
+        </div>
         <div className="columns">
           <div className="column is-10 is-offset-1">    
-              <EmailList />                
+                          
               <PageContent className="content" content={content} />
             </div>
 
