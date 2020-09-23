@@ -80,7 +80,7 @@ const Footer = class extends React.Component {
               
             </div>
             
-            <div className="columns" style={{display: "flex"}}>
+            <div className="columns" style={{display: "flex", margin: 0}}>
               <div className="column">
               <Link to="/blog">
                     Blogg    

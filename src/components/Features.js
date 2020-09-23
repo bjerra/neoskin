@@ -3,7 +3,7 @@ import PropTypes from 'prop-types'
 import PreviewCompatibleImage from '../components/PreviewCompatibleImage'
 
 const FeatureGrid = ({ gridItems }) => (
-  <div className="columns is-multiline">
+  <div id="feature-container" className="columns is-multiline">
     {gridItems.map(item => (
       <div key={item.text} className="column is-6">
         <section className="section">
