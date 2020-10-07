@@ -1,25 +1,54 @@
 ---
 templateKey: index-page
-title: Välkommen till Neoskin Jkpg
-subtitle: Hudvård & Skönhet
-image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
-heading: Välkommen till Neoskin Jkpg
-subheading: Skräddarsydda behandlingar med kostnadsfria konsultationer för
-  avancerade ingrepp så som icke-kirurgiska ögonlockslyft eller laser.
-description: " Ett helhetskoncept som vill nå optimal hudvård i en trygg och
-  lugn miljö. Du kan enkelt boka online eller handla Clinicare och Palina  i
-  våran webbshop."
+title: Auktoriserad hudterapeut med Gesällbrev
+subtitle: Skräddarsydd avancerad hudvård med synliga resultat
+image: /img/f46f1aa04cbb476d8f93c89d0c45adc7.jpg
+heading: Avancerad hudvård
+subheading: Enerpeel kemiska peels, Fraxium laser, PRX-T33, Ultraljudsrengöring,
+  LED-mask, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, Kosmetisk
+  akupunktur, MicroGold m.m...
+description: >-2
+   Ett helhetskoncept som vill nå optimala resultat med specifika vertyg och produkter som skräddarsys efter just dina förutsättningar, hudtyp, tillstånd och önskemål.
+  Du kan lätt boka dina behandlingar på bokadirekt, välj en konstnadfri konsultation i samband med din behandling om du är osäker på vad du vill ha eller behöver. Känner du för att bolla dina tankar och önskemål på förhand går det också bra att boka din konsultation separat ifrån behandlingen. (Har du bokat en behandling som inte är optimal med tanke på din hudtyp, tillstånd eller önskemål kan vi självklart bestämma att göra en annan behandling istället som är bättre anpassad för dig.
 mainpitch:
-  title: NYHETER
+  title: Hudvård och skönhet
   description: >-
-    Du har väl inte missat att du nu kan göra äkta Keratinlyft i Jönköping? -jo,
-    det är sant. Yumi lashes finns exklusivt hos mig, passa på att boka våra
-    härliga erbjudanden!
+    Varmt välkommen till en mycket påläst och erfaren hudterapeut som innehar
+    Gesällbrev.  
 
+    Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
 
-    PRX-T33! Sommarens hetaste nyhet borde du läsa mer om... kika under behandlingar ;-). Behandlingen passar alla hudtyper och årstider. 
+    Boka din kostnadsfria konsultation och få en genomtänkt, professionell och skräddarsydd plan som lägger allt fokus på dig, dina individuella förutsättningar och dina önskemål för att tillsammans förbättra din vardag, självkänsla eller livskvalitet.
 intro:
   blurbs:
+    - image: /img/tebiskin.jpg
+      text: >
+        TEBISKIN Cytoceuticals är resultatinriktad hudvårdsserie med innovativ,
+        vetenskaplig forskning bakom sig. Produkterna innehåller potenta aktiva
+        ingredienser som är designade för att samverka på cellnivå med huden och
+        dess funktioner. 
+
+
+        Produkterna fokuserar på orsak framför symptom för kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt beprövat med kliniskt bevisad effekt som visats förebygga och motverka olika hudtillsånd så som acne och pigmenteringar.
+    - image: /img/4feba399-e4b1-4796-bae1-df65ddaafbe9.jpg
+      text: >+
+        JETT Plasma är en revolutionerande behandlingsmetod inom estetisk
+        dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
+        ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
+        diverse oönskade hudförändringar och används för att bränna bort
+        godartade huddyskromier så som fibrom och skin tags.
+
+
+    - image: /img/victus-logo.jpg
+      text: >
+        Victus Medical Group  är en av landets främsta leverantörer av
+        högteknologisk estetisk apparatur för kliniker och salonger. De har
+        arbetat med hälsa, friskvård, välmående och skönhet i över ett
+        decennium. Neoskin kan, tack vare lägre hyror jämfört med större städer
+        behandla acneärr, åldrande hud, stora porer eller ojämn hudton till helt
+        oslagbara priser. Läs mer om vad Fraxium kan göra för dig under
+        behandlingar. Gämför gärna priserna du ser med dem som jobbar med samma
+        teknologi uppe i Stockholm för att uppskatta denna unika möjlighet !
     - image: /img/fullsizeoutput_e2e.jpeg
       text: >-
         Visste du att vem som helst kunde jobba som hudterapeut i Sverige? För
@@ -32,36 +61,5 @@ intro:
         Du som kund kan således känna dig trygg när du väljer en hudterapeut som är medlem i vårt förbund. SHR representerar den svenska sektionen i CIDESCO.  
 
         Vårt emblem är din trygghet – välj en hudterapeut som är medlem i SHR.
-    - image: /img/victus-logo.jpg
-      text: >
-        Victus Medical Group  är en av landets främsta leverantörer av
-        högteknologisk estetisk apparatur för kliniker och salonger. De har
-        arbetat med hälsa, friskvård, välmående och skönhet i över ett
-        decennium. Neoskin kan, tack vare lägre hyror jämfört med större städer
-        behandla acneärr, åldrande hud, stora porer eller ojämn hudton till helt
-        oslagbara priser. Läs mer om vad Fraxium kan göra för dig under
-        behandlingar. Gämför gärna priserna du ser med dem som jobbar med samma
-        teknologi uppe i Stockholm för att uppskatta denna unika möjlighet !
-    - image: /img/jett-plasma-logo.jpg
-      text: >+
-        JETT Plasma är en revolutionerande behandlingsmetod inom estetisk
-        dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
-        ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
-        diverse oönskade hudförändringar, motverkar hudens åldrande och bevarar
-        dess ungdomliga struktur. Läs mer under behandlingar.
-
-
-    - image: /img/tabiskin.jpg
-      text: >
-        TEBISKIN Cytoceuticals är en serie resultatinriktade hudvårdsprodukter
-        som genom innovativ vetenskaplig forskning skapats med de senaste
-        teknologierna för avancerad hudvård. Produkterna innehåller potenta
-        styrkor av aktiva ingredienser och är designade för att på cellnivå
-        samverka med huden och dess funktioner. Hemvård med TEBISKIN och dess
-        behandlingar ger Dig rätt förutsättningar för en vital och optimal
-        hudhälsa.
-
-
-        TEBISKIN Cytoceuticals fokuserar på orsaker framför symptom för kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt beprövat och med kliniskt bevisad effekt förebyggs och motverkas olika hudkonditioner.
   description: x
 ---
