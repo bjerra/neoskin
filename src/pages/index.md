@@ -36,7 +36,9 @@ intro:
         dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
         ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
         diverse oönskade hudförändringar och används för att bränna bort
-        godartade huddyskromier så som fibrom och skin tags.
+        godartade huddyskromier så som fibrom och skin tags. Tack vore olika
+        munstycken kan vi även jobba med Lift & Tight behandlingarna som inte
+        har någon down-time alls!
 
 
     - image: /img/victus-logo.jpg
