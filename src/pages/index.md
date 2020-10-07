@@ -25,26 +25,6 @@ mainpitch:
     Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
 intro:
   blurbs:
-    - image: /img/tebiskin.jpg
-      text: >
-        TEBISKIN Cytoceuticals är resultatinriktad hudvårdsserie med innovativ,
-        vetenskaplig forskning bakom sig. Produkterna innehåller potenta aktiva
-        ingredienser som är designade för att samverka på cellnivå med huden och
-        dess funktioner. 
-
-
-        Produkterna fokuserar på orsak framför symptom för kvalitetsförbättring och långvariga resultat. Konceptet är vetenskapligt beprövat med kliniskt bevisad effekt som visats förebygga och motverka olika hudtillsånd så som acne och pigmenteringar.
-    - image: /img/4feba399-e4b1-4796-bae1-df65ddaafbe9.jpg
-      text: >+
-        JETT Plasma är en revolutionerande behandlingsmetod inom estetisk
-        dermatologi som, med snabb återhämtning kan utföra icke-kirurgiska
-        ögonlockslyft vars resultat varar i ca 4 år. JETT Plasma korrigerar även
-        diverse oönskade hudförändringar och används för att bränna bort
-        godartade huddyskromier så som fibrom och skin tags. Tack vore olika
-        munstycken kan vi även jobba med Lift & Tight behandlingarna som inte
-        har någon down-time alls!
-
-
     - image: /img/fraxium-.jpg
       text: >
         Fraktionerad Erbiumlaser är den största vinnaren på marknaden gällande
