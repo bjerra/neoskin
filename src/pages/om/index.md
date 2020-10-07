@@ -14,19 +14,19 @@ Efter en första anställning på min praktikplats öppnade jag min första salo
 
 Från 2017-2020 hyrde jag ett rum på Salong 5 sinnen där jag utvecklade mina kompetenser ytterligare med kontinuerliga fortbildningar inom resultatinriktad hudvård och hudhälsa. Idag har jag hittat ett nytt samarbete hos Esthetica Hudvårdssalong med Nicolina Eriksson.
 
-Jag är specialiserad inom estetiska  apparaturbehandlingar så som Fraxium, JETT Plasma, LED mask, Ultraljudsrengöring men också avancerade hudvårdsbehandlingar som t.ex Ice Peel eller Acne Peel från Enerpeel. 
+Jag är specialiserad inom estetiska  apparaturbehandlingar så som Fraxium, JETT Plasma, LED mask, Ultraljudsrengöring men också avancerade hudvårdsbehandlingar som t.ex PRX-T33, Enerpeel kemiska peels, Ultraljudsrengöring, LED-mask, MicroGold m.m.
 
-Hos mig kan man t.ex boka icke-kirurgiska ögonlockslyft eller borttagning av godartade huddyskromier, acneärr förbättring eller lindring av bl.a aktiv acne, rosacea eller eksem.
+Varje kund som kommer in till mig får en skräddarsydd upplevelse baserad på kunskap och erfarenhet inom hudvård för att leverera riktiga och synliga resultat för olika hudtillstånd som t.ex acne, acneärr, pigmenteringar eller antiage.
 
-Jag har en väletablerad kundkrets med mycket nöjda kunder som upplever mig som professionell, duktik och omhändertagande. Varje kund som kommer in till mig får en skräddarsydd upplevelse baserad på kunskap och erfarenhet inom hudvård för optimal hudhälsa. 
-
-Tack vare mitt nya samerbete kan jag idag även hjälpa mina kunder ett steg längre genom att hänvisa dem till Nicolina som kan ta tag i dem underliggande orsakerna till olika hudtillstånd inifrån. 
+Tack vare mitt nya samerbete kan jag idag även hjälpa mina kunder ett steg längre genom att hänvisa dem till Nicolina som kan ta tag i dem underliggande orsakerna till olika hudtillstånd inifrån.
 
 Nicolina som också är en auktoriserad hudterapeut i grunden har specialiserat sig med utbildningar i näringslära och funktionsmedicin. Behöver du hjälp med t.ex återkommande acne eller rosacea rekommenderar jag varmt att du fyller i detta formuläret och bokar en rådgivning hos Nicolina, därifrån kan vi hjälpa dig i vårat unika koncept med ett komplett omhändertagande inifrån och ut.
 
 Varmt välkommen till oss i centrala Jönköping!
 
 ### Utbildning och erfarenhet
+
+2020 - September-December: Mästarutbildning och ansökan om mästarbrev.
 
 2020 - Utbildning i Yumi Lashes
 
@@ -40,7 +40,7 @@ Varmt välkommen till oss i centrala Jönköping!
 
 2017 - Först i Småland med Fraktionerad Erbiumlaser : Fraxium 1550 Fusion
 
-2017 - Inför Ultraljudsrengöring / portömning utan att klämma.
+2017 - Först ut med att indrocudera Ultraljudsrengöring / portömning till Jönköping.
 
 2017 - Mars-April 2020 : inhyrd på Salong 5 sinnen under namnet Aesthetica Life
 
