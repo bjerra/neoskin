@@ -26,9 +26,9 @@ Varmt välkommen till oss i centrala Jönköping!
 
 ### Utbildning och erfarenhet
 
-2020 - September-December: Mästarutbildning och ansökan om mästarbrev.
+2020 - September-December: Mästarutbildning och yrkesfördjupning i form av utförligt arbete på kundfall inför ansökan om mästarbrev.
 
-2020 - Utbildning i Yumi Lashes
+2020 - Utbildning i Yumi Lashes, PRX-T33 och Enerpeel kemiska peels
 
 2020 - COVID-19 utbrott i Europa: fördjupningskurs i hygien och egenkontroll för optimal kundsäkerhet.
 
