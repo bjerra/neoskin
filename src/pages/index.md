@@ -45,21 +45,24 @@ intro:
         har någon down-time alls!
 
 
-    - image: /img/victus-logo.jpg
+    - image: /img/fraxium-.jpg
       text: >
-        Victus Medical Group  är en av landets främsta leverantörer av
-        högteknologisk estetisk apparatur för kliniker och salonger. De har
-        arbetat med hälsa, friskvård, välmående och skönhet i över ett
-        decennium. Neoskin kan, tack vare lägre hyror jämfört med större städer
-        behandla acneärr, åldrande hud, stora porer eller ojämn hudton till helt
-        oslagbara priser. Läs mer om vad Fraxium kan göra för dig under
-        behandlingar. Gämför gärna priserna du ser med dem som jobbar med samma
-        teknologi uppe i Stockholm för att uppskatta denna unika möjlighet !
+        Fraktionerad Erbiumlaser är den största vinnaren på marknaden gällande
+        acneärr. Fraxium ligger mellan microneedling och CO2 laser...Tack var en
+        av marknadens mest avancerade laserteknologier kan jag med denna maskin
+        alltid leverera bra resultat. Likt microneedling jobbar vi med att skapa
+        hål i huden som triggar den inflammatoriska processen och nybildningen
+        av kollagenet, men det finns vessäntliga skillnader som ger vässäntligt
+        mycket mer trygghet i att det faktiskt fungerar och levererar synliga,
+        permanenta resultat. Du slipper den jobbiga återhämtningen av en CO2
+        laser men bör räkna med att göra minst 4-6 behandlingar på hög
+        intensitet för acneärr. 
     - image: /img/fullsizeoutput_e2e.jpeg
       text: >-
         Visste du att vem som helst kunde jobba som hudterapeut i Sverige? För
         din egna säkerhet bör du alltid välja en riktig hudterapeut som är
         medlem i Sveriges Hudterapeuters Riksorganisation (SHR).
+
 
         En auktoriserad hudterapeut har genomgått en gedigen utbildning och du som kund omfattas dessutom av en behandlingsskadeförsäkring som träder i kraft om du skulle drabbas av en skada, under behandlingen eller till följd av behandlingen.
 
