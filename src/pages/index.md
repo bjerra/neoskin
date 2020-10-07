@@ -4,21 +4,25 @@ title: Auktoriserad hudterapeut med Gesällbrev
 subtitle: Skräddarsydd avancerad hudvård med synliga resultat
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: Avancerad hudvård
-subheading: Enerpeel kemiska peels, Fraxium laser, PRX-T33, Ultraljudsrengöring,
-  LED-mask, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, Kosmetisk
-  akupunktur, MicroGold m.m...
-description: >-2
-   Ett helhetskoncept som vill nå optimala resultat med specifika vertyg och produkter som skräddarsys efter just dina förutsättningar, hudtyp, tillstånd och önskemål.
-  Du kan lätt boka dina behandlingar på bokadirekt, välj en konstnadfri konsultation i samband med din behandling om du är osäker på vad du vill ha eller behöver. Känner du för att bolla dina tankar och önskemål på förhand går det också bra att boka din konsultation separat ifrån behandlingen. (Har du bokat en behandling som inte är optimal med tanke på din hudtyp, tillstånd eller önskemål kan vi självklart bestämma att göra en annan behandling istället som är bättre anpassad för dig.
+subheading: >
+  Enerpeel kemiska peels, Fraxium laser, PRX-T33, Ultraljudsrengöring, LED-mask,
+  JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, Kosmetisk akupunktur,
+  MicroGold m.m...
+description: "Boka gärna din konsultation i samband med första behandlingen om
+  du är osäker på vad du ska välja, eller börja med konsultationen om du känner
+  dig helt vilsen. Du får en genomtänkt, professionell och skräddarsydd plan som
+  lägger allt fokus på dig, dina individuella förutsättningar och dina önskemål
+  för att tillsammans förbättra din vardag, självkänsla eller livskvalitet.
+  Bokar du en behandling som inte är optimal med tanke på din hudtyp, tillstånd
+  eller önskemål kan vi självklart bestämma att göra en annan behandling
+  istället, bättre anpassad för dig. "
 mainpitch:
   title: Hudvård och skönhet
-  description: >-
-    Varmt välkommen till en mycket påläst och erfaren hudterapeut som innehar
+  description: >
+    Varmt välkommen till en mycket påläst och erfaren hudterapeut med
     Gesällbrev.  
 
     Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
-
-    Boka din kostnadsfria konsultation och få en genomtänkt, professionell och skräddarsydd plan som lägger allt fokus på dig, dina individuella förutsättningar och dina önskemål för att tillsammans förbättra din vardag, självkänsla eller livskvalitet.
 intro:
   blurbs:
     - image: /img/tebiskin.jpg
