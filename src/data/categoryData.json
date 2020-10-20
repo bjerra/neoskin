@@ -1,6 +1,6 @@
 [
  {
-  "title": "ERBJUDANDE JUST NU",
+  "title": "Erbjudande!",
   "services": [
    1,
    2,
@@ -9,7 +9,7 @@
   ]
  },
  {
-  "title": "Yumi lashes and brows",
+  "title": "Top 3 efterfrågade kurer",
   "services": [
    5,
    6,
@@ -17,83 +17,68 @@
   ]
  },
  {
-  "title": "PRX-T33",
+  "title": "Top 3 efterfrågade kombinationsbehandlingar",
   "services": [
-   8
-  ]
- },
- {
-  "title": "Enerpeel kemiska peels",
-  "services": [
+   8,
    9,
    10
   ]
  },
  {
-  "title": "Jett plasma cosmetical (Silver tip)",
+  "title": "Konsultationer och tilläggstjänster",
   "services": [
    11,
-   12
-  ]
- },
- {
-  "title": "Ansiktsbehandling med ultraljudsrengöring",
-  "services": [
+   12,
    13,
    14,
-   15,
-   16
+   15
   ]
  },
  {
-  "title": "Akupunktur",
+  "title": "Ansiktsbehandlingar och LED-mask",
   "services": [
+   16,
    17,
-   18
-  ]
- },
- {
-  "title": "LED-Mask terapi",
-  "services": [
+   18,
    19,
    20
   ]
  },
  {
-  "title": "Esse Probiotic Skincare",
+  "title": "PRX-T33 och Enerpeel Kemiska peels",
   "services": [
    21,
    22,
    23,
    24,
    25,
-   26
+   26,
+   27,
+   28
   ]
  },
  {
-  "title": "Fraktionerad Erbiumlaser",
+  "title": "Laserbehandling Fraxium",
   "services": [
-   27,
-   28,
    29,
    30,
-   31
+   31,
+   32
+  ]
+ },
+ {
+  "title": "JETT Plasma",
+  "services": [
+   33,
+   34,
+   35,
+   36,
+   37
   ]
  },
  {
   "title": "Fransar och bryn",
   "services": [
-   32,
-   33,
-   34,
-   35,
-   36
-  ]
- },
- {
-  "title": "Jett plasma medical (Gold tip)",
-  "services": [
-   37,
    38,
    39,
    40,
@@ -105,15 +90,10 @@
   ]
  },
  {
-  "title": "Micro channeling",
+  "title": "Nålar",
   "services": [
    46,
-   47
-  ]
- },
- {
-  "title": "Konsultationer",
-  "services": [
+   47,
    48
   ]
  }
