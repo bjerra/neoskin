@@ -1,11 +1,440 @@
 [
  {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-ga-enerpeel-1191453",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling GA - Enerpeel",
+  "slug": "kemisk-peeling-ga-enerpeel",
+  "id": 1,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Hudförnyelse\r\n- Tjock hud med grov struktur, ärrbildning.\r\n- Exfoliering"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande Glykolsyra 40% koncentration med PH-värde 1,7 för PKA 3,5 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-III).\r\n\r\nVattenlöslig tidspeel som fungerar som ett vattenbindningsmedel och löser effektivt upp vävnaden vilket framkallar en exfoliering (peeling) av hudytan."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nSnabb och smidig applicering av peeling över hela ansiktet, verkning innan neutralisation 2-4 min beroende på hudtyp och indikation.  För att avsluta lägger vi på Tebiskin EGF kräm och solskyddsfaktor."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Behandlingen görs oftast som kur med 1 behandling per vecka alternativt varannan vecka beroende på indikation och hudens kvalitet. Behandlingen kan också göras som enstaka behandling i uppfräschande, hudföryngrande syfte.\r\n\r\nKombineras gärna med Fraxium för att förminska porer, strama upp och jämna ut hudton."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En mild till intensiv sveda kan upplevas under behandlingen. Graden av rodnad i huden efter behandlingen står i relation till hudens kvalitet och behandlingens intensitet. Efter några  dagar sker en efterfjällning i olika grad beroende på hud kvalitet vid behandlingstillfället. Huden kan upplevas som torr. Ger tillfälligt ökad ljuskänslighet"
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Graviditet &amp; amning, Roacutane senaste 6 månaderna, Allergi för glycolat."
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-neck-enerpeel-1191454",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling NECK - Enerpeel",
+  "slug": "kemisk-peeling-neck-enerpeel",
+  "id": 2,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Hudföryngring av hals\r\n- Hyperpigmentering &amp; Solskador (Inkl aktinsk keratos)\r\n- Milda/Måttliga Ålderstecken (Linjer och rynkor)"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande Pyrodruvsyra 30% och Mjölksyra 10% med PH-värde 1,3 för PKA 17 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-II, ljus III).\r\n\r\nVattenlöslig tidspeel som fungerar som ett vattenbindningsmedel och löser effektivt upp vävnaden vilket framkallar en exfoliering (peeling) av hudytan."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nSnabb och smidig applicering av peeling över hela ansiktet, verkning innan neutralisation 2-5 min beroende på hudtyp och indikation.  För att avsluta lägger vi på Tebiskin EGF kräm och solskyddsfaktor."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Behandlingen görs oftast som kur med 1 behandling per vecka alternativt varannan vecka beroende på indikation och hudens kvalitet. Behandlingen kan också göras som enstaka behandling i uppfräschande, hudföryngrande syfte."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En mild till intensiv sveda kan upplevas under behandlingen. Graden av rodnad i huden efter behandlingen står i relation till hudens kvalitet och behandlingens intensitet. Efter några  dagar sker en efterfjällning i olika grad beroende på hud kvalitet vid behandlingstillfället. Huden kan upplevas som torr. Ger tillfälligt ökad ljuskänslighet"
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Graviditet &amp; amning, Roacutane senaste 6 månaderna, Allergi för mjölksyra"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-tca-25-enerpeel-1191452",
+  "price": "3 500 kr",
+  "time": "45 minuter",
+  "title": "Kemisk peeling TCA 25% - Enerpeel",
+  "slug": "kemisk-peeling-tca-25-enerpeel",
+  "id": 3,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Hudföryngring\r\n- PIH hyperpigmentering, Melasma &amp; Lentigo\r\n- Aktinsk keratos\r\n- Förbättrad hudstruktur"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande peel bestående av TCA 25% (Triklorättiksyra).  Endast lämplig för de ljusaste hudtyperna (Fitzpatrick I-II).\r\n\r\nEn mycket effektiv, kraftigt exfolierande peeling. Behandlingsdjupet/Intensiteten regleras med den frosting som peelingen ger och denna står även i relation till hudens kvalitet vid behandlingstillfället. \r\nBehandlingen är speciellt lämplig vid djupare solskador och åldrad hud."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Huden tvättas ren och förbereds inför peelingen. Applikationen upprepas i flera lager för mer djupgående behandling och en svidande känsla uppstår. Huden frostar då i takt med att\r\nkoncentrationen av Peelingen ökar. Behandlingen avslutas med Tebiskin EGF och solskyddskräm som ger ett nytt barriärskydd och återställer balansen."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Behandlingen görs som enstaka behandling eller i mer omfattande problem med upprepad behandling inom 1-3 månader. Går även att kombinera med Enerpeel JR i direkt samband."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Graden av rodnad i huden efter behandlingen står i relation till hudens kvalitet och behandlingens intensitet.\r\nHuden mörknar för att efter några dagar kraftigt fjällas av genom naturlig cellförnyelse. Graden av\r\navfjällning står i relation till behandlingsintensitet. Huden återställs dock relativt snabbt, vanligen efter 7-14 dagar. \r\nDen kraftiga exfolierande effekten gör huden ljuskänslig varför det är nödvändigt med fullgott solskydd efter behandlingen."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Graviditet &amp; amning, Skadad hud, Roacutane senaste 6 månaderna, Känd risk för keloider."
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-biorevitalisering-1077984",
+  "price": "1 995 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 Biorevitalisering",
+  "slug": "prx-t33-biorevitalisering",
+  "id": 4,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Rynkor och linjer\r\n- Nedsatt fyllighet\r\n- Saknad lyster\r\n- Förlorad fasthet &amp; elasticitet"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "PRX-T33 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. \r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel-1180840",
+  "price": "2 500 kr",
+  "time": "45 minuter",
+  "title": "Kemisk peeling Soft TCA Antiage / pigmenteringar - Enerpeel",
+  "slug": "kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel",
+  "id": 5,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Hudföryngring\r\n- Reducerar pigmentförändringar\r\n- Förbättrar och jämnar ut hudens ytstruktur"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande kombinationspeel som består av TCA 20%,  Mjölksyra 10% och Kojic acid med PH-värde 0,9 för PKA 49 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-II, ljus III).\r\n\r\nExfolierande behandling som korrigerar pigmenteringar och ålderstecken.\r\n\r\nSoft TCA 20% är en snällare variant än ren TCA 25%.  Mjölksyran förvandlar dessutom TCA egenskaperna till mindre aggressiva mot huden."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över utvalt område. Varje lager tas upp av huden på ca 1-2 min varefter vi fortsätter tills huden mättats. Beroende på hudtillstånd och indikation låter vi peelen jobba några extra minuter efter mättning.\r\nVi neutraliserar peelingen och lägger sedan på anpassad Tebiskin kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 3-4 behandlingar, 1x i veckan / varannan vecka beroende på hudtillstånd. \r\n\r\nRekommenderas kombineras med Enerpeel JR för extra resultat på pigmentförändringar."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Peelingen kan ge upphov till en så kallad frosting, syran \"kristalliserar\" vävnaden och ger då ett vitt utseende på huden pga denaturering av proteiner. Frostingen är varken farlig eller permanent, den försvinner i samband med en lätt/måttlig till kraftigare fjällning som då uppkommer första 10 dagarna efter behandling. Huden kan upplevas som mycket torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-hands-enerpeel-1180843",
+  "price": "1 500 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling HANDS - Enerpeel",
+  "slug": "kemisk-peeling-hands-enerpeel",
+  "id": 6,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Specialdesignad Peel för åldrade händer\r\n- Reducerar pigmentförändringar\r\n- Förbättrar och jämnar ut hudens ytstruktur"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande kombinationspeel som består av TCA 20%,  Mjölksyra 10% och Kojic acid med PH-värde 0,9 för PKA 49 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-II, ljus III).\r\n\r\nExfolierande behandling som korrigerar pigmenteringar och ålderstecken."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och applicerar peelingen på händerna. Varje lager tas upp av huden på ca 1-2 min varefter vi fortsätter tills huden mättats. \r\nVi neutraliserar peelingen och lägger sedan på Tebiskins handkräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nVi rekommenderar att kombinera med Enerpeel JR för extra resultat på pigmentförändringar."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Använd Tebiskin handkräm dagligen då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Peelingen kan ge upphov till en så kallad frosting, syran \"kristalliserar\" vävnaden och ger då ett vitt utseende på huden pga denaturering av proteiner. Frostingen är varken farlig eller permanent, den försvinner i samband med en lätt/måttlig till kraftigare fjällning som då uppkommer första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-el-eyes-&-lips-plus-enerpeel-1180842",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling EL Eyes & Lips Plus - Enerpeel",
+  "slug": "kemisk-peeling-el-eyes-lips-plus-enerpeel",
+  "id": 7,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Hudföryngrande kombinationspeel för ögon och läppar"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande kombinationspeel i trögflytande gel-konsistens för att inte rinna in i ögon eller mun som består av 20% mandelsyra, 15% äppelsyra, 10% mjölksyra med PH-värde 0,9 för PKA 4 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-III).\r\nSpeciellt framtagen för hudföryngring av ögon och läppar för att motverka milda aktiniska skador på dem områdena. EL plus jobbar även mot förlust av elasticitet och hyperpigmenteringar."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution. \r\nGel peelingen appliceras på och under ögonlocken samt runt läpparna. Vi använder oss av Enerpeels “Remover wipe” för att avsluta peelingen och lägger sedan på Tebiskin Reticap Eyes &amp; Lip kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4 behandlingar, 1x i veckan.\r\n\r\nRekommenderas kombination med Jett Plasma Lift &amp; Tight ögon eller mun för ökad effektivitet och resultat på uppstramning, rynkor och linjer."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Tebiskin rengöring: morgon &amp; kväll\r\nTebiskin retical Eyes &amp; Lip: morgon (även på kvällen under vinterhalvåret)\r\nTebiskin retical Eyes &amp; Lip Night: kväll.\r\nTebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-jr-mot-pigmenteringar-enerpeel-1180839",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling JR mot pigmenteringar - Enerpeel",
+  "slug": "kemisk-peeling-jr-mot-pigmenteringar-enerpeel",
+  "id": 8,
+  "info": [
+   {
+    "title": "BRA MOT",
+    "text": "- Hyperpigmenteringar\r\n- Hudföryngrande\r\n- Ljusåldrad hud\r\n- Utmärkt som förpeel till TCA eller PA"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Toxisk / Metabol kombinationspeel som består av Salicylsyra 15%, Resorcinol 14% och Mjölksyra 20% med PKA värde på 8-22 uS/cm. Lämplig för alla hudtyper (Fitzpatrick I-VI)\r\n\r\nDepigmenterande, viss blekande effekt som mjukgör förhornad hud."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över hela ansiktet. Varje lager tas upp av huden på ca 1-3 min varefter vi fortsätter tills huden mättats. Beroende på hudtillstånd och indikation låter vi peelingen jobba några extra minuter efter mättning.\r\nVi använder oss av Enerpeels “Remover wipe” för att avsluta och lägger på Tebiskins LC/UV-LC kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med TCA för svårare behandlade pigmenteringar eller antiaging ändamål."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Tebiskin rengöring: Morgon &amp; kväll\r\nTebiskin LC kräm: kväll (morgon &amp; kväll under vinterhalvåret)\r\nTebiskin UV-LC: morgon\r\nTebiskin Gly-C: kur på 4 veckor före och efter behandling.\r\nTebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En mild sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt till måttlig fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel--355373",
+  "price": "1 195 kr",
+  "time": "45 minuter",
+  "title": "Kemisk peeling MA + cryoterapi Ice peel - Enerpeel",
+  "slug": "kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel",
+  "id": 9,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Kollagenstimulering\r\n- Rosacea, känslig hud\r\n- Komedonisk acne\r\n- Ojämn hudton\r\n- Exfoliering\r\n- Användning året om"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Ice Peel erbjuder djupverkande stimulering tack vare 2 unika teknologier i en och samma behandling:\r\n\r\n1) Syrafrätande Mandelsyra med 40% koncentration och 2,1 i PH-värde för PKA 3 mS/cm. Stor molekyl som absorberas långsamt av huden och därmed inte utlöser erythema (rodnad). \r\nFettlöslig tidspeel som hjälper mot komedonisk akne då den jobbar antiinflammatoriskt.\r\nMandelsyran verkar även som en tyrosinasinhibitor och hjälper kontrollera överproduktion av melanin (pigment).\r\n\r\n2) ICE MASK som innehåller Liquid ice, C-vitamin och Aloe Vera skyddar mot miljöföroreningar och hjälper till att regenerera huden. \r\nCryoterapi är en kylbehandling som stärker hudens skyddsfunktioner, reducerar rodnad och tillför antioxidanter."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar ”Preparatory Solution” och skyddar ögonen med våta bommulspads. \r\nSedan applicers peelingen snabbt och smidigt över hela ansiktet, tillåts verka i 2-10 minuter beroende på din hudtyp och indikation  innan neutralisation med ”Neutralizer Wipe”. \r\n\r\nSist appliceras ICE MASK, efter 5 minuter får huden en djupare nedkylning vilket stramar åt huden och reducerar rynkor. Hela behandlingen är behaglig, snabb och resultatinriktad.\r\n\r\nVi avslutar med anpassad serum och kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskins hemvård är skräddarsydd att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Vid neutraliseringen kan svedan intensifieras då pH-värdet ändras snabbt. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, aktivt rosacea utbrott, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-sa-acne-peel-enerpeel-355371",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling SA Acne peel - Enerpeel",
+  "slug": "kemisk-peeling-sa-acne-peel-enerpeel",
+  "id": 10,
+  "info": [
+   {
+    "title": "BRA MOT",
+    "text": "- ACNE (Komedoner &amp; Inflammationer)\r\n- AKNE ROSACEA (Papelpustulärt)\r\n\r\n(- SVÅR NODULO-CYSTISK ACNE, Primär Isotretinoinbehandling)"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Toxisk / Metabol Salicylsyra med 30% koncentration  för PKA 8-22 uS/cm. Lämplig för alla hudtyper (Fitzpatrick I-VI)\r\n\r\nFettlöslig lagerpeel som verkar antibakteriell, lätt tumörprotektiv med stark komedolytisk effekt.\r\n\r\nRedcuering av talgproduktionen och PBA-bakteriens kolonisering."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över hela ansiktet. Varje lager tas upp av huden på ca 1-2 min, vi fortsätter tills huden mättats. Vi använder oss av Enerpeels “Remover wipe” för att avsluta peelingen och lägger sedan på Tebiskins Osk kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med LED-mask för extra antiinflammatoriskt dämpande effekt eller för att påskynda läkningsprocessen."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "- Tebiskin Osk clean: Morgon och kväll\r\n- Osk kräm: morgon och kväll\r\n- Osk lotion: Vid behov upp till 6x / dag\r\n\r\n- Vid upplevd torr hud gå över till Tebiskin EGF kräm som verkar återfuktande, barriärstärkande, antiinflammatorisk och lugnande. \r\n\r\nKorrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En mild till intensiv sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-pa-oljig-hud-enerpeel-1180841",
+  "price": "1 095 kr",
+  "time": "30 minuter",
+  "title": "Kemisk peeling PA Oljig hud - Enerpeel",
+  "slug": "kemisk-peeling-pa-oljig-hud-enerpeel",
+  "id": 11,
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Seborrhe utan akne (Oljig hud)\r\n- Mild/Måttlig åldrad hud\r\n- Moderat Ljusåldrad hud\r\n- Fasthet"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "Syrafrätande Pyrodruvsyra med 50% koncentration med PH-värde 0,65 för PKA 25 mS/cm. Ger ingen rodnad och är lämplig för alla hudtyper (Fitzpatrick I-VI).\r\n\r\nVattenlöslig tidspeel som verkar som botox i talgkörteln och bromsar sebumproduktionen. \r\n\r\nMattande effekt som även arbetar uppstramande för antagning effekt. Perfekt för dig med mogen, oljig hud med lite Aktinisk keratos."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nSnabb och smidig applicering av peeling över hela ansiktet, verkning innan neutralisation 2-4 min beroende på hudtyp och indikation.  För att avsluta peelingen lägger vi på anpassad Tebiskin kräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med Fraxium för att förminska porer, strama upp och jämna ut hudton.\r\n\r\nKombination med Enerpeel JR rekommenderas om du vill jobba extra på pigmenteringar och ljusådrad hud."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "En mild till intensiv sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Roaccutan senaste 6 mån, Pyrodruvsyran har en rätt stark doft, undvik behandlingen om du lider av astmabesvär."
+   }
+  ],
+  "variant": " "
+ },
+ {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/erbjudande-yumi-lashes-f%C3%A5-lip-voltage-p%C3%A5-k%C3%B6pet-v%C3%A4rde-350--1160777",
   "price": "950 kr",
   "time": "60 minuter",
   "title": "Erbjudande Yumi Lashes - Få Lip Voltage på köpet (Värde 350:-)",
   "slug": "erbjudande-yumi-lashes-fa-lip-voltage-pa-kopet-varde-350-",
-  "id": 1,
+  "id": 12,
   "info": [
    {
     "title": "BRA FÖR",
@@ -32,16 +461,16 @@
     "text": "- Färgallergier \r\n- Ögoninflammation\r\n- Vagel\r\n- Hudskada och öppna sår"
    }
   ],
-  "variant": "Vi använder oss av Yumis originalspolar och limmar upp dina fransar på denna. Sedan appliceras behandlingsprodukterna, Vi fixerar med hjälp av plastfolie och infraröd lampa innan avslut med Yumis prisbelönta Keratinserum och kreatinmaskara.\r\n\r\nYumi Lashes ska inte förväxlas med vanligt ”lash lift” som är en uppdaterad variant av permanent ögonfransböjning.",
+  "variant": " ",
   "offer": true
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/erbjudande-prx-t33-50-med-fraxium-jett-plasma--1078672",
   "price": "1 000 kr",
   "time": "15 minuter",
-  "title": "Erbjudande PRX-T33 -50% med Fraxium/ Jett Plasma",
+  "title": "Erbjudande PRX-T33 -50% med Fraxium/ Jett Plasma ",
   "slug": "erbjudande-prx-t33-50-med-fraxium-jett-plasma",
-  "id": 2,
+  "id": 13,
   "info": [
    {
     "title": "BRA FÖR",
@@ -81,7 +510,7 @@
   "time": "90 minuter",
   "title": "Erbjudande Yumi total makeover",
   "slug": "erbjudande-yumi-total-makeover",
-  "id": 3,
+  "id": 14,
   "info": [
    {
     "title": "BRA FÖR",
@@ -113,7 +542,7 @@
   "time": "30 minuter",
   "title": "Erbjudande PRX-T33 -20%",
   "slug": "erbjudande-prx-t33-20",
-  "id": 4,
+  "id": 15,
   "info": [
    {
     "title": "BRA FÖR",
@@ -153,7 +582,7 @@
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 2 zoner x6 (ca 1x i månaden)",
   "slug": "fraxium-hog-intensitet-2-zoner-x6-ca-1x-i-manaden",
-  "id": 5,
+  "id": 16,
   "info": [
    {
     "title": "(ord. Pris 10 270",
@@ -184,7 +613,7 @@
   "time": "30 minuter",
   "title": "Kemisk peeling SA Acne peel x 4 (1 gång i veckan) ",
   "slug": "kemisk-peeling-sa-acne-peel-x-4-1-gang-i-veckan",
-  "id": 6,
+  "id": 17,
   "info": [
    {
     "title": "(ord. Pris 4380",
@@ -215,7 +644,7 @@
   "time": "30 minuter",
   "title": "PRX-T33 x 4 (en gång i veckan) ",
   "slug": "prx-t33-x-4-en-gang-i-veckan",
-  "id": 7,
+  "id": 18,
   "info": [
    {
     "title": "(ord.pris 8000",
@@ -242,7 +671,7 @@
   "time": "60 minuter",
   "title": "Kemisk peeling SA Acne peel x 4 med LED-Mask (1 gång i veckan)",
   "slug": "kemisk-peeling-sa-acne-peel-x-4-med-led-mask-1-gang-i-veckan",
-  "id": 8,
+  "id": 19,
   "info": [
    {
     "title": "FÖRDEL",
@@ -269,7 +698,7 @@
   "time": "60 minuter",
   "title": "PRX-T33 med Fraxium mildare intensitet, full face x 4 (ca 1 gång i månaden)",
   "slug": "prx-t33-med-fraxium-mildare-intensitet-full-face-x-4-ca-1-gang-i-manaden",
-  "id": 9,
+  "id": 20,
   "info": [
    {
     "title": "FÖRDEL",
@@ -296,7 +725,7 @@
   "time": "60 minuter",
   "title": "PRX-T33 och Lift & Tight ögon eller mun x 4 (en gång i veckan) ",
   "slug": "prx-t33-och-lift-tight-ogon-eller-mun-x-4-en-gang-i-veckan",
-  "id": 10,
+  "id": 21,
   "info": [
    {
     "title": "FÖRDEL",
@@ -323,7 +752,7 @@
   "time": "15 minuter",
   "title": "Handla produkter: Tebiskin ",
   "slug": "handla-produkter-tebiskin",
-  "id": 11,
+  "id": 22,
   "info": [
    {
     "title": "BRA FÖR",
@@ -346,7 +775,7 @@
   "time": "15 minuter",
   "title": "Återbesök ",
   "slug": "aterbesok",
-  "id": 12,
+  "id": 23,
   "info": [
    {
     "title": "BRA FÖR",
@@ -365,7 +794,7 @@
   "time": "15 minuter",
   "title": "Kostnadsfri konsultation ",
   "slug": "kostnadsfri-konsultation",
-  "id": 13,
+  "id": 24,
   "info": [
    {
     "title": "BRA FÖR",
@@ -392,7 +821,7 @@
   "time": "15 minuter",
   "title": "LED-mask tillägg i annan behandling",
   "slug": "led-mask-tillagg-i-annan-behandling",
-  "id": 14,
+  "id": 25,
   "info": [
    {
     "title": "BRA FÖR",
@@ -427,7 +856,7 @@
   "time": "15 minuter",
   "title": "NADA öronakupunktur - smärtlindring, oro, stress & ångest",
   "slug": "nada-oronakupunktur-smartlindring-oro-stress-angest",
-  "id": 15,
+  "id": 26,
   "info": [
    {
     "title": "BRA MOT",
@@ -454,7 +883,7 @@
   "time": "30 minuter",
   "title": "LED-mask terapi",
   "slug": "led-mask-terapi",
-  "id": 16,
+  "id": 27,
   "info": [
    {
     "title": "BRA FÖR",
@@ -489,7 +918,7 @@
   "time": "30 minuter",
   "title": "Neoskin Quick-fix - ultraljudsregöring",
   "slug": "neoskin-quick-fix-ultraljudsregoring",
-  "id": 17,
+  "id": 28,
   "info": [
    {
     "title": "BRA FÖR",
@@ -520,7 +949,7 @@
   "time": "45 minuter",
   "title": "Tebiskin ansiktsbehandling deep Clean med ultraljudsrengöring",
   "slug": "tebiskin-ansiktsbehandling-deep-clean-med-ultraljudsrengoring",
-  "id": 18,
+  "id": 29,
   "info": [
    {
     "title": "BRA FÖR",
@@ -551,7 +980,7 @@
   "time": "60 minuter",
   "title": "Tebiskin klassisk ansiktsbehandling med ultraljudsrengöring",
   "slug": "tebiskin-klassisk-ansiktsbehandling-med-ultraljudsrengoring",
-  "id": 19,
+  "id": 30,
   "info": [
    {
     "title": "BRA FÖR",
@@ -582,7 +1011,7 @@
   "time": "90 minuter",
   "title": "Tebiskin ansiktsbehandling lyx med ultraljudsrengöring",
   "slug": "tebiskin-ansiktsbehandling-lyx-med-ultraljudsrengoring",
-  "id": 20,
+  "id": 31,
   "info": [
    {
     "title": "BRA FÖR",
@@ -608,324 +1037,12 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-biorevitalisering-1077984",
-  "price": "1 995 kr",
-  "time": "45 minuter",
-  "title": "PRX-T33 Biorevitalisering",
-  "slug": "prx-t33-biorevitalisering",
-  "id": 21,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Rynkor och linjer\r\n- Nedsatt fyllighet\r\n- Saknad lyster\r\n- Förlorad fasthet &amp; elasticitet"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "PRX-T33 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. \r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel-1180840",
-  "price": "2 500 kr",
-  "time": "45 minuter",
-  "title": "Kemisk peeling Soft TCA Antiage / pigmenteringar - Enerpeel",
-  "slug": "kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel",
-  "id": 22,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Hudföryngring\r\n- Reducerar pigmentförändringar\r\n- Förbättrar och jämnar ut hudens ytstruktur"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Syrafrätande kombinationspeel som består av TCA 20%,  Mjölksyra 10% och Kojic acid med PH-värde 0,9 för PKA 49 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-II, ljus III).\r\n\r\nExfolierande behandling som korrigerar pigmenteringar och ålderstecken.\r\n\r\nSoft TCA 20% är en snällare variant än ren TCA 25%.  Mjölksyran förvandlar dessutom TCA egenskaperna till mindre aggressiva mot huden."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över utvalt område. Varje lager tas upp av huden på ca 1-2 min varefter vi fortsätter tills huden mättats. Beroende på hudtillstånd och indikation låter vi peelen jobba några extra minuter efter mättning.\r\nVi neutraliserar peelingen och lägger sedan på anpassad Tebiskin kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 3-4 behandlingar, 1x i veckan / varannan vecka beroende på hudtillstånd. \r\n\r\nRekommenderas kombineras med Enerpeel JR för extra resultat på pigmentförändringar."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Peelingen kan ge upphov till en så kallad frosting, syran \"kristalliserar\" vävnaden och ger då ett vitt utseende på huden pga denaturering av proteiner. Frostingen är varken farlig eller permanent, den försvinner i samband med en lätt/måttlig till kraftigare fjällning som då uppkommer första 10 dagarna efter behandling. Huden kan upplevas som mycket torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-hands-enerpeel-1180843",
-  "price": "1 500 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling HANDS - Enerpeel",
-  "slug": "kemisk-peeling-hands-enerpeel",
-  "id": 23,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Specialdesignad Peel för åldrade händer\r\n- Reducerar pigmentförändringar\r\n- Förbättrar och jämnar ut hudens ytstruktur"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Syrafrätande kombinationspeel som består av TCA 20%,  Mjölksyra 10% och Kojic acid med PH-värde 0,9 för PKA 49 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-II, ljus III).\r\n\r\nExfolierande behandling som korrigerar pigmenteringar och ålderstecken."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution och applicerar peelingen på händerna. Varje lager tas upp av huden på ca 1-2 min varefter vi fortsätter tills huden mättats. \r\nVi neutraliserar peelingen och lägger sedan på Tebiskins handkräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nVi rekommenderar att kombinera med Enerpeel JR för extra resultat på pigmentförändringar."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Använd Tebiskin handkräm dagligen då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Peelingen kan ge upphov till en så kallad frosting, syran \"kristalliserar\" vävnaden och ger då ett vitt utseende på huden pga denaturering av proteiner. Frostingen är varken farlig eller permanent, den försvinner i samband med en lätt/måttlig till kraftigare fjällning som då uppkommer första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-el-eyes-&-lips-plus-enerpeel-1180842",
-  "price": "1 095 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling EL Eyes & Lips Plus - Enerpeel",
-  "slug": "kemisk-peeling-el-eyes-lips-plus-enerpeel",
-  "id": 24,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Hudföryngrande kombinationspeel för ögon och läppar"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Syrafrätande kombinationspeel i trögflytande gel-konsistens för att inte rinna in i ögon eller mun som består av 20% mandelsyra, 15% äppelsyra, 10% mjölksyra med PH-värde 0,9 för PKA 4 mS/cm. Lämplig för ljusare hudtyper (Fitzpatrick I-III).\r\nSpeciellt framtagen för hudföryngring av ögon och läppar för att motverka milda aktiniska skador på dem områdena. EL plus jobbar även mot förlust av elasticitet och hyperpigmenteringar."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution. \r\nGel peelingen appliceras på och under ögonlocken samt runt läpparna. Vi använder oss av Enerpeels “Remover wipe” för att avsluta peelingen och lägger sedan på Tebiskin Reticap Eyes &amp; Lip kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4 behandlingar, 1x i veckan.\r\n\r\nRekommenderas kombination med Jett Plasma Lift &amp; Tight ögon eller mun för ökad effektivitet och resultat på uppstramning, rynkor och linjer."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Tebiskin rengöring: morgon &amp; kväll\r\nTebiskin retical Eyes &amp; Lip: morgon (även på kvällen under vinterhalvåret)\r\nTebiskin retical Eyes &amp; Lip Night: kväll.\r\nTebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-jr-mot-pigmenteringar-enerpeel-1180839",
-  "price": "1 095 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling JR mot pigmenteringar - Enerpeel",
-  "slug": "kemisk-peeling-jr-mot-pigmenteringar-enerpeel",
-  "id": 25,
-  "info": [
-   {
-    "title": "BRA MOT",
-    "text": "- Hyperpigmenteringar\r\n- Hudföryngrande\r\n- Ljusåldrad hud\r\n- Utmärkt som förpeel till TCA eller PA"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Toxisk / Metabol kombinationspeel som består av Salicylsyra 15%, Resorcinol 14% och Mjölksyra 20% med PKA värde på 8-22 uS/cm. Lämplig för alla hudtyper (Fitzpatrick I-VI)\r\n\r\nDepigmenterande, viss blekande effekt som mjukgör förhornad hud."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över hela ansiktet. Varje lager tas upp av huden på ca 1-3 min varefter vi fortsätter tills huden mättats. Beroende på hudtillstånd och indikation låter vi peelingen jobba några extra minuter efter mättning.\r\nVi använder oss av Enerpeels “Remover wipe” för att avsluta och lägger på Tebiskins LC/UV-LC kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med TCA för svårare behandlade pigmenteringar eller antiaging ändamål."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Tebiskin rengöring: Morgon &amp; kväll\r\nTebiskin LC kräm: kväll (morgon &amp; kväll under vinterhalvåret)\r\nTebiskin UV-LC: morgon\r\nTebiskin Gly-C: kur på 4 veckor före och efter behandling.\r\nTebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "En mild sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt till måttlig fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel--355373",
-  "price": "1 195 kr",
-  "time": "45 minuter",
-  "title": "Kemisk peeling MA + cryoterapi Ice peel - Enerpeel ",
-  "slug": "kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel",
-  "id": 26,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Kollagenstimulering\r\n- Rosacea, känslig hud\r\n- Komedonisk acne\r\n- Ojämn hudton\r\n- Exfoliering\r\n- Användning året om"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Ice Peel erbjuder djupverkande stimulering tack vare 2 unika teknologier i en och samma behandling:\r\n\r\n1) Syrafrätande Mandelsyra med 40% koncentration och 2,1 i PH-värde för PKA 3 mS/cm. Stor molekyl som absorberas långsamt av huden och därmed inte utlöser erythema (rodnad). \r\nFettlöslig tidspeel som hjälper mot komedonisk akne då den jobbar antiinflammatoriskt.\r\nMandelsyran verkar även som en tyrosinasinhibitor och hjälper kontrollera överproduktion av melanin (pigment).\r\n\r\n2) ICE MASK som innehåller Liquid ice, C-vitamin och Aloe Vera skyddar mot miljöföroreningar och hjälper till att regenerera huden. \r\nCryoterapi är en kylbehandling som stärker hudens skyddsfunktioner, reducerar rodnad och tillför antioxidanter."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar ”Preparatory Solution” och skyddar ögonen med våta bommulspads. \r\nSedan applicers peelingen snabbt och smidigt över hela ansiktet, tillåts verka i 2-10 minuter beroende på din hudtyp och indikation  innan neutralisation med ”Neutralizer Wipe”. \r\n\r\nSist appliceras ICE MASK, efter 5 minuter får huden en djupare nedkylning vilket stramar åt huden och reducerar rynkor. Hela behandlingen är behaglig, snabb och resultatinriktad.\r\n\r\nVi avslutar med anpassad serum och kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskins hemvård är skräddarsydd att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Vid neutraliseringen kan svedan intensifieras då pH-värdet ändras snabbt. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, aktivt rosacea utbrott, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-sa-acne-peel-enerpeel-355371",
-  "price": "1 095 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling SA Acne peel - Enerpeel",
-  "slug": "kemisk-peeling-sa-acne-peel-enerpeel",
-  "id": 27,
-  "info": [
-   {
-    "title": "BRA MOT",
-    "text": "- ACNE (Komedoner &amp; Inflammationer)\r\n- AKNE ROSACEA (Papelpustulärt)\r\n\r\n(- SVÅR NODULO-CYSTISK ACNE, Primär Isotretinoinbehandling)"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Toxisk / Metabol Salicylsyra med 30% koncentration  för PKA 8-22 uS/cm. Lämplig för alla hudtyper (Fitzpatrick I-VI)\r\n\r\nFettlöslig lagerpeel som verkar antibakteriell, lätt tumörprotektiv med stark komedolytisk effekt.\r\n\r\nRedcuering av talgproduktionen och PBA-bakteriens kolonisering."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nVi applicerar peelingen i lager över hela ansiktet. Varje lager tas upp av huden på ca 1-2 min, vi fortsätter tills huden mättats. Vi använder oss av Enerpeels “Remover wipe” för att avsluta peelingen och lägger sedan på Tebiskins Osk kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med LED-mask för extra antiinflammatoriskt dämpande effekt eller för att påskynda läkningsprocessen."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Tebiskin Osk clean: Morgon och kväll\r\n- Osk kräm: morgon och kväll\r\n- Osk lotion: Vid behov upp till 6x / dag\r\n\r\n- Vid upplevd torr hud gå över till Tebiskin EGF kräm som verkar återfuktande, barriärstärkande, antiinflammatorisk och lugnande. \r\n\r\nKorrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "En mild till intensiv sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-pa-oljig-hud-enerpeel-1180841",
-  "price": "1 095 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling PA Oljig hud - Enerpeel",
-  "slug": "kemisk-peeling-pa-oljig-hud-enerpeel",
-  "id": 28,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Seborrhe utan akne (Oljig hud)\r\n- Mild/Måttlig åldrad hud\r\n- Moderat Ljusåldrad hud\r\n- Fasthet"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Syrafrätande Pyrodruvsyra med 50% koncentration med PH-värde 0,65 för PKA 25 mS/cm. Ger ingen rodnad och är lämplig för alla hudtyper (Fitzpatrick I-VI).\r\n\r\nVattenlöslig tidspeel som verkar som botox i talgkörteln och bromsar sebumproduktionen. \r\n\r\nMattande effekt som även arbetar uppstramande för antagning effekt. Perfekt för dig med mogen, oljig hud med lite Aktinisk keratos."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden, applicerar Prep.solution och skyddar ögonen med våta bommulspads. \r\nSnabb och smidig applicering av peeling över hela ansiktet, verkning innan neutralisation 2-4 min beroende på hudtyp och indikation.  För att avsluta peelingen lägger vi på anpassad Tebiskin kräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nKombineras gärna med Fraxium för att förminska porer, strama upp och jämna ut hudton.\r\n\r\nKombination med Enerpeel JR rekommenderas om du vill jobba extra på pigmenteringar och ljusådrad hud."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Håll dig till Tebiskin då korrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "En mild till intensiv sveda kan upplevas vid pensling av de första lagren, känslan går snabbt över och försvinner helt när behandlingen är slut. En lätt fjällning kan uppkomma första veckan efter behandling. Huden kan upplevas som torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Roaccutan senaste 6 mån, Pyrodruvsyran har en rätt stark doft, undvik behandlingen om du lider av astmabesvär."
-   }
-  ],
-  "variant": " "
- },
- {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-mildare-intensitet-full-face--355364",
   "price": "1 595 kr",
   "time": "45 minuter",
   "title": "Fraxium mildare intensitet - full face ",
   "slug": "fraxium-mildare-intensitet-full-face",
-  "id": 29,
+  "id": 32,
   "info": [
    {
     "title": "BRA FÖR",
@@ -964,7 +1081,7 @@
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 1 zon (tinningar) ",
   "slug": "fraxium-hog-intensitet-1-zon-tinningar",
-  "id": 30,
+  "id": 33,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1003,7 +1120,7 @@
   "time": "45 minuter",
   "title": "Fraxium hög intensitet 2 zoner (kindben) ",
   "slug": "fraxium-hog-intensitet-2-zoner-kindben",
-  "id": 31,
+  "id": 34,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1042,7 +1159,7 @@
   "time": "75 minuter",
   "title": "Fraxium hög intensitet 3 zoner (full face) ",
   "slug": "fraxium-hog-intensitet-3-zoner-full-face",
-  "id": 32,
+  "id": 35,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1081,7 +1198,7 @@
   "time": "45 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde ögon eller mun",
   "slug": "cosmedical-lift-tight-plasmaflode-ogon-eller-mun",
-  "id": 33,
+  "id": 36,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1112,7 +1229,7 @@
   "time": "75 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde Full Face",
   "slug": "cosmedical-lift-tight-plasmaflode-full-face",
-  "id": 34,
+  "id": 37,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1143,7 +1260,7 @@
   "time": "45 minuter",
   "title": "MEDICAL Borttagning av fibrom & pigmentfläckar m. m",
   "slug": "medical-borttagning-av-fibrom-pigmentflackar-m-m",
-  "id": 35,
+  "id": 38,
   "info": [
    {
     "title": "PRIS",
@@ -1186,7 +1303,7 @@
   "time": "75 minuter",
   "title": "PLASMALIFT Rynkreducering av överläpp",
   "slug": "plasmalift-rynkreducering-av-overlapp",
-  "id": 36,
+  "id": 39,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1225,7 +1342,7 @@
   "time": "90 minuter",
   "title": "PLASMALIFT icke-kirurgiskt ögonlockslyft",
   "slug": "plasmalift-icke-kirurgiskt-ogonlockslyft",
-  "id": 37,
+  "id": 40,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1264,7 +1381,7 @@
   "time": "90 minuter",
   "title": "Yumi Total Makeover",
   "slug": "yumi-total-makeover",
-  "id": 38,
+  "id": 41,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1295,7 +1412,7 @@
   "time": "75 minuter",
   "title": "Yumi Lashes - Keratin Lashlift",
   "slug": "yumi-lashes-keratin-lashlift",
-  "id": 39,
+  "id": 42,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1330,7 +1447,7 @@
   "time": "60 minuter",
   "title": "Yumi brows - the original browlift",
   "slug": "yumi-brows-the-original-browlift",
-  "id": 40,
+  "id": 43,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1357,7 +1474,7 @@
   "time": "30 minuter",
   "title": "Brynplock / vax",
   "slug": "brynplock-vax",
-  "id": 41,
+  "id": 44,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1380,7 +1497,7 @@
   "time": "30 minuter",
   "title": "Färgning och formning av bryn",
   "slug": "fargning-och-formning-av-bryn",
-  "id": 42,
+  "id": 45,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1407,7 +1524,7 @@
   "time": "30 minuter",
   "title": "Fransfärg inkl formning av bryn",
   "slug": "fransfarg-inkl-formning-av-bryn",
-  "id": 43,
+  "id": 46,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1434,7 +1551,7 @@
   "time": "30 minuter",
   "title": "Frans- och brynfärg inkl formning",
   "slug": "frans-och-brynfarg-inkl-formning",
-  "id": 44,
+  "id": 47,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1461,7 +1578,7 @@
   "time": "30 minuter",
   "title": "Fransfärg",
   "slug": "fransfarg",
-  "id": 45,
+  "id": 48,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1488,7 +1605,7 @@
   "time": "75 minuter",
   "title": "MicroGold deluxe",
   "slug": "microgold-deluxe",
-  "id": 46,
+  "id": 49,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1531,7 +1648,7 @@
   "time": "45 minuter",
   "title": "MicroGold ",
   "slug": "microgold",
-  "id": 47,
+  "id": 50,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1574,7 +1691,7 @@
   "time": "90 minuter",
   "title": "Kosmetisk akupunktur 75 min",
   "slug": "kosmetisk-akupunktur-75-min",
-  "id": 48,
+  "id": 51,
   "info": [
    {
     "title": "BRA FÖR",

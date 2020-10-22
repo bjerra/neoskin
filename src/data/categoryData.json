@@ -1,33 +1,23 @@
 [
  {
-  "title": "Erbjudande!",
+  "title": "PRX-T33 och Enerpeel Kemiska peels",
   "services": [
    1,
    2,
    3,
-   4
-  ]
- },
- {
-  "title": "Top 3 efterfrågade kurer",
-  "services": [
+   4,
    5,
    6,
-   7
-  ]
- },
- {
-  "title": "Top 3 efterfrågade kombinationsbehandlingar",
-  "services": [
+   7,
    8,
    9,
-   10
+   10,
+   11
   ]
  },
  {
-  "title": "Konsultationer och tilläggstjänster",
+  "title": "Erbjudande!",
   "services": [
-   11,
    12,
    13,
    14,
@@ -35,66 +25,79 @@
   ]
  },
  {
-  "title": "Ansiktsbehandlingar och LED-mask",
+  "title": "Top 3 efterfrågade kurer",
   "services": [
    16,
    17,
-   18,
-   19,
-   20
+   18
   ]
  },
  {
-  "title": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Top 3 efterfrågade kombinationsbehandlingar",
   "services": [
-   21,
+   19,
+   20,
+   21
+  ]
+ },
+ {
+  "title": "Konsultationer och tilläggstjänster",
+  "services": [
    22,
    23,
    24,
    25,
-   26,
+   26
+  ]
+ },
+ {
+  "title": "Ansiktsbehandlingar och LED-mask",
+  "services": [
    27,
-   28
+   28,
+   29,
+   30,
+   31
   ]
  },
  {
   "title": "Laserbehandling Fraxium",
   "services": [
-   29,
-   30,
-   31,
-   32
+   32,
+   33,
+   34,
+   35
   ]
  },
  {
   "title": "JETT Plasma",
   "services": [
-   33,
-   34,
-   35,
    36,
-   37
+   37,
+   38,
+   39,
+   40
   ]
  },
  {
   "title": "Fransar och bryn",
   "services": [
-   38,
-   39,
-   40,
    41,
    42,
    43,
    44,
-   45
+   45,
+   46,
+   47,
+   48
   ]
  },
  {
   "title": "Nålar",
   "services": [
-   46,
-   47,
-   48
+   49,
+   50,
+   51
   ]
  }
 ]
