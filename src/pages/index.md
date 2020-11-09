@@ -19,8 +19,7 @@ description: "Boka gärna din konsultation i samband med första behandlingen om
 mainpitch:
   title: Hudvård och skönhet
   description: >
-    Varmt välkommen till en mycket påläst och erfaren hudterapeut med
-    Gesällbrev.  
+    Varmt välkommen till en erfaren hudterapeut med Gesällbrev.  
 
     Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
 intro:
