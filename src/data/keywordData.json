@@ -1,86 +1,86 @@
 [
  {
-  "title": "Ojämn hudton",
-  "services": [
-   9,
-   16,
-   32,
-   33,
-   34,
-   35
-  ]
- },
- {
-  "title": "Acneärr",
-  "services": [
-   16,
-   32,
-   33,
-   34,
-   35
-  ]
- },
- {
   "title": "Acne",
   "services": [
-   25,
-   27
+   6,
+   31
   ]
  },
  {
   "title": "Känslig hud",
   "services": [
-   28
+   7
+  ]
+ },
+ {
+  "title": "Ojämn hudton",
+  "services": [
+   19,
+   22,
+   33,
+   34,
+   35,
+   36
+  ]
+ },
+ {
+  "title": "Acneärr",
+  "services": [
+   22,
+   33,
+   34,
+   35,
+   36
   ]
  },
  {
   "title": "Huduppstramning",
   "services": [
-   37,
-   39
+   38,
+   40
   ]
  },
  {
   "title": "Fibrom",
   "services": [
-   38
+   39
   ]
  },
  {
   "title": "Pigmentfläckar",
   "services": [
-   38
+   39
   ]
  },
  {
   "title": "Xantelasma",
   "services": [
-   38
+   39
   ]
  },
  {
   "title": "Rynkor",
   "services": [
-   39,
-   40
+   40,
+   41
   ]
  },
  {
   "title": "Hängande ögonlock",
   "services": [
-   40
+   41
   ]
  },
  {
   "title": "Påsar under ögonen",
   "services": [
-   40
+   41
   ]
  },
  {
   "title": "Slapp hud",
   "services": [
-   40
+   41
   ]
  }
 ]
