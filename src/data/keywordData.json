@@ -17,70 +17,70 @@
   "services": [
    19,
    22,
+   32,
    33,
    34,
-   35,
-   36
+   35
   ]
  },
  {
   "title": "Acneärr",
   "services": [
    22,
+   32,
    33,
    34,
-   35,
-   36
+   35
   ]
  },
  {
   "title": "Huduppstramning",
   "services": [
-   38,
-   40
+   37,
+   39
   ]
  },
  {
   "title": "Fibrom",
   "services": [
-   39
+   38
   ]
  },
  {
   "title": "Pigmentfläckar",
   "services": [
-   39
+   38
   ]
  },
  {
   "title": "Xantelasma",
   "services": [
-   39
+   38
   ]
  },
  {
   "title": "Rynkor",
   "services": [
-   40,
-   41
+   39,
+   40
   ]
  },
  {
   "title": "Hängande ögonlock",
   "services": [
-   41
+   40
   ]
  },
  {
   "title": "Påsar under ögonen",
   "services": [
-   41
+   40
   ]
  },
  {
   "title": "Slapp hud",
   "services": [
-   41
+   40
   ]
  }
 ]

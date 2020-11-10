@@ -57,45 +57,45 @@
    28,
    29,
    30,
-   31,
-   32
+   31
   ]
  },
  {
   "title": "Laserbehandling Fraxium",
   "services": [
+   32,
    33,
    34,
-   35,
-   36
+   35
   ]
  },
  {
   "title": "JETT Plasma",
   "services": [
+   36,
    37,
    38,
    39,
-   40,
-   41
+   40
   ]
  },
  {
   "title": "Fransar och bryn",
   "services": [
+   41,
    42,
    43,
    44,
    45,
    46,
    47,
-   48,
-   49
+   48
   ]
  },
  {
   "title": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "services": [
+   49,
    50,
    51,
    52,
@@ -103,16 +103,7 @@
    54,
    55,
    56,
-   57,
-   58
-  ]
- },
- {
-  "title": "Nålar",
-  "services": [
-   59,
-   60,
-   61
+   57
   ]
  }
 ]

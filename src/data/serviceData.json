@@ -1034,39 +1034,12 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/nada-%C3%B6ronakupunktur-sm%C3%A4rtlindring-oro-stress-&-%C3%A5ngest-355378",
-  "price": "500 kr",
-  "time": "15 minuter",
-  "title": "NADA öronakupunktur - smärtlindring, oro, stress & ångest",
-  "slug": "nada-oronakupunktur-smartlindring-oro-stress-angest",
-  "id": 32,
-  "info": [
-   {
-    "title": "BRA MOT",
-    "text": "- Smärtlindring vid behandling av t.ex Fraxium\r\n- Stress\r\n- Oro\r\n- Ångest\r\n- Dålig sömn\r\n- Avkoppling"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "NADA öronakupunktur är en teknik som arbetar på fem triggerpunkter i varje öra med tunna, sterila nålar.\r\n\r\nFör dig som utför lite smärtsammare behandlingar kan det vara till stor hjälp för att lättare slappna av, samt lura hjärnan att fokusera på annat. Detta kan effektivt bidra till en mindre smärtupplevelse och en behagligare stund."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi börjar med djup andning medans nålarna sätts in i öronen. När alla 10 nålarna sitter i kan vi påbörja din behandling medans du fortsätter med djupt andning med eller utan bakgrundsmusik."
-   },
-   {
-    "title": "ÖVRIGT",
-    "text": "NADA-akupunktur kan göras även om du använder läkemedel.\r\nDu kan välja till NADA öronakupunktur till vilken behandling som helst."
-   }
-  ],
-  "variant": " "
- },
- {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-mildare-intensitet-full-face--355364",
   "price": "1 595 kr",
   "time": "45 minuter",
   "title": "Fraxium mildare intensitet - full face ",
   "slug": "fraxium-mildare-intensitet-full-face",
-  "id": 33,
+  "id": 32,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1105,7 +1078,7 @@
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 1 zon (tinningar) ",
   "slug": "fraxium-hog-intensitet-1-zon-tinningar",
-  "id": 34,
+  "id": 33,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1144,7 +1117,7 @@
   "time": "45 minuter",
   "title": "Fraxium hög intensitet 2 zoner (kindben) ",
   "slug": "fraxium-hog-intensitet-2-zoner-kindben",
-  "id": 35,
+  "id": 34,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1183,7 +1156,7 @@
   "time": "75 minuter",
   "title": "Fraxium hög intensitet 3 zoner (full face) ",
   "slug": "fraxium-hog-intensitet-3-zoner-full-face",
-  "id": 36,
+  "id": 35,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1222,7 +1195,7 @@
   "time": "45 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde ögon eller mun",
   "slug": "cosmedical-lift-tight-plasmaflode-ogon-eller-mun",
-  "id": 37,
+  "id": 36,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1253,7 +1226,7 @@
   "time": "75 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde Full Face",
   "slug": "cosmedical-lift-tight-plasmaflode-full-face",
-  "id": 38,
+  "id": 37,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1284,7 +1257,7 @@
   "time": "45 minuter",
   "title": "MEDICAL Borttagning av fibrom & pigmentfläckar m. m",
   "slug": "medical-borttagning-av-fibrom-pigmentflackar-m-m",
-  "id": 39,
+  "id": 38,
   "info": [
    {
     "title": "PRIS",
@@ -1327,7 +1300,7 @@
   "time": "75 minuter",
   "title": "PLASMALIFT Rynkreducering av överläpp",
   "slug": "plasmalift-rynkreducering-av-overlapp",
-  "id": 40,
+  "id": 39,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1366,7 +1339,7 @@
   "time": "90 minuter",
   "title": "PLASMALIFT icke-kirurgiskt ögonlockslyft",
   "slug": "plasmalift-icke-kirurgiskt-ogonlockslyft",
-  "id": 41,
+  "id": 40,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1405,7 +1378,7 @@
   "time": "90 minuter",
   "title": "Yumi Total Makeover",
   "slug": "yumi-total-makeover",
-  "id": 42,
+  "id": 41,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1436,7 +1409,7 @@
   "time": "75 minuter",
   "title": "Yumi Lashes - Keratin Lashlift",
   "slug": "yumi-lashes-keratin-lashlift",
-  "id": 43,
+  "id": 42,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1471,7 +1444,7 @@
   "time": "60 minuter",
   "title": "Yumi brows - the original browlift",
   "slug": "yumi-brows-the-original-browlift",
-  "id": 44,
+  "id": 43,
   "info": [
    {
     "title": "BRA FÖR",
@@ -1498,7 +1471,7 @@
   "time": "30 minuter",
   "title": "Brynplock / vax",
   "slug": "brynplock-vax",
-  "id": 45,
+  "id": 44,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1521,7 +1494,7 @@
   "time": "30 minuter",
   "title": "Färgning och formning av bryn",
   "slug": "fargning-och-formning-av-bryn",
-  "id": 46,
+  "id": 45,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1548,7 +1521,7 @@
   "time": "30 minuter",
   "title": "Fransfärg inkl formning av bryn",
   "slug": "fransfarg-inkl-formning-av-bryn",
-  "id": 47,
+  "id": 46,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1575,7 +1548,7 @@
   "time": "30 minuter",
   "title": "Frans- och brynfärg inkl formning",
   "slug": "frans-och-brynfarg-inkl-formning",
-  "id": 48,
+  "id": 47,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1602,7 +1575,7 @@
   "time": "30 minuter",
   "title": "Fransfärg",
   "slug": "fransfarg",
-  "id": 49,
+  "id": 48,
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1629,7 +1602,7 @@
   "time": "30 minuter",
   "title": "1- Ansiktsbehandling hudhälsa inkl.  Ampull",
   "slug": "1-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 50,
+  "id": 49,
   "info": [
    {
     "title": " ",
@@ -1644,7 +1617,7 @@
   "time": "60 minuter",
   "title": "2- Ansiktsbehandling Hudhälsa ",
   "slug": "2-ansiktsbehandling-hudhalsa",
-  "id": 51,
+  "id": 50,
   "info": [
    {
     "title": " ",
@@ -1659,7 +1632,7 @@
   "time": "60 minuter",
   "title": "3- Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "3-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 52,
+  "id": 51,
   "info": [
    {
     "title": " ",
@@ -1674,7 +1647,7 @@
   "time": "90 minuter",
   "title": "4- Ansiktsbehandling Hudhälsa",
   "slug": "4-ansiktsbehandling-hudhalsa",
-  "id": 53,
+  "id": 52,
   "info": [
    {
     "title": " ",
@@ -1689,7 +1662,7 @@
   "time": "90 minuter",
   "title": "5- Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "5-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 54,
+  "id": 53,
   "info": [
    {
     "title": " ",
@@ -1704,7 +1677,7 @@
   "time": "15 minuter",
   "title": "6- Vaxning överläpp",
   "slug": "6-vaxning-overlapp",
-  "id": 55,
+  "id": 54,
   "info": [
    {
     "title": " ",
@@ -1719,7 +1692,7 @@
   "time": "15 minuter",
   "title": "7- Vaxning Haka",
   "slug": "7-vaxning-haka",
-  "id": 56,
+  "id": 55,
   "info": [
    {
     "title": " ",
@@ -1734,7 +1707,7 @@
   "time": "15 minuter",
   "title": "8- Vaxning överläpp och haka",
   "slug": "8-vaxning-overlapp-och-haka",
-  "id": 57,
+  "id": 56,
   "info": [
    {
     "title": " ",
@@ -1749,132 +1722,11 @@
   "time": "15 minuter",
   "title": "9- Vaxning överläpp, haka & kinder",
   "slug": "9-vaxning-overlapp-haka-kinder",
-  "id": 58,
+  "id": 57,
   "info": [
    {
     "title": " ",
     "text": "Hej! Jag heter Anaïs Schönborg och driver Neoskin i Estheticas lokaler, jag lovar att göra mitt allra bästa för att få Dig att trivas hos mig under denna period så länge Nicolina är sjukskriven. \r\n\r\nDå jag också spenderar mycket tid på mina studier och vidareutveckling av Neoskin har jag tyvärr inte fått möjlighet till att erbjuda alla behandlingarna som fanns på Esthetica. Hoppas att du hittar det du söker efter ändå. \r\n\r\nMycket varmt välkommen till mig, Anaïs Schönborg - Aukt. hudterapeut med Gesällbrev, blivande mästare med Mästarbrev.\r\n\r\nVälkommen att kontakta Nicolina på nicolina@esthetica.se om du har några frågor."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/microgold-deluxe-355382",
-  "price": "1 195 kr",
-  "time": "75 minuter",
-  "title": "MicroGold deluxe",
-  "slug": "microgold-deluxe",
-  "id": 59,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Kollagenstimulering\r\n- Fukt och lyster\r\n- Blodcirkulation och syresättning"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Ny teknik för inslussning av produkter. \r\nMicroGold använder inga kanyler. På utsidan av serumbehållarens 20 nålar är en spiral inristad. Denna spiral låter serumet rinna ner i huden på ett snabbt och effektivt sätt."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Behandlingen inleds med rengöring och avkopplande massage innan desinfektion. Därefter påbörjas inslussningen med stabilt tryck på nålarna som trycks in i huden med 0,6 mm - 1 mm djup och låter serumet rinna in i huden på önskat djup. Vi avslutar med en lugnande mask, resterande serum och kräm."
-   },
-   {
-    "title": "FÖR BÄSTA RESULTAT",
-    "text": "Rekommenderas att göra 3 behandlingar med 3-4 veckors mellanrum. Uppföljning med repeterad behandling var 3.e månad första året."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Rengör noga ansiktet morgon och kväll\r\n- Undvik att ta på huden i 24-48 tim\r\n- Tebiskin produkterna ökar resultatet och långvarigheten av behandlingen med anpassat serum och kräm"
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Lätt rodnad och svullnad som försvinner gradvis med läkningen."
-   },
-   {
-    "title": "RISK FÖR KOMPLIKATIONER",
-    "text": "Huden blir känsligare mot infektioner då hudbarriären har påverkats av nålarna."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Hudskada och öppna sår, solbränd hud, Diabetes och Blödarsjuka"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/microgold--355380",
-  "price": "995 kr",
-  "time": "45 minuter",
-  "title": "MicroGold ",
-  "slug": "microgold",
-  "id": 60,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Kollagenstimulering\r\n- Fukt och lyster\r\n- Blodcirkulation och syresättning"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Ny teknik för inslussning av aktiva serum. \r\nMicroGold använder inga kanyler. På utsidan av serumbehållarens 20 nålar är en spiral inristad. Denna spiral låter serumet rinna ner i huden på ett snabbt och effektivt sätt."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Behandlingen inleds med rengöring och desinfektion innan att påbörja inslussningen med stabilt tryck på nålarna som förs in i huden med 0,6 mm - 1 mm djup, där rinner anpassat serum in i huden på önskat djup."
-   },
-   {
-    "title": "FÖR BÄSTA RESULTAT",
-    "text": "Rekommenderas göra 3 behandlingar med 3-4 veckors mellanrum. Uppföljning med repeterad behandling var 3.e månad första året."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Rengör noga ansiktet morgon och kväll\r\n- Undvik att ta på huden i 24-48 tim\r\n- Anpassade Tebiskin produkter kan förbättra och förlänga resultatet."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Lätt rodnad och svullnad som försvinner gradvis med läkningen."
-   },
-   {
-    "title": "RISK FÖR KOMPLIKATIONER",
-    "text": "Huden blir känsligare mot infektioner då hudbarriären har påverkats av nålarna."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Hudskada och öppna sår, solbränd hud, Diabetes och Blödarsjuka."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kosmetisk-akupunktur-75-min-355375",
-  "price": "995 kr",
-  "time": "90 minuter",
-  "title": "Kosmetisk akupunktur 75 min",
-  "slug": "kosmetisk-akupunktur-75-min",
-  "id": 61,
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Anti-ageing\r\n- Lyster\r\n- Avkoppling"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "Ett naturligt alternativ som stimulerar kollagen och elastin produktionen lokalt, vilket kan göra linjerna i ansiktet mjukare samt skapa spänst och lyster. Behandlingen ger även en klarare blick. \r\n\r\nVi arbetar med ca 80 sterila hårtunna nålar som sätts i basallagret på de områden av ansiktet som vill behandlas.\r\n\r\nDet går att behandla i förebyggande syfte för att bibehålla hudhälsa och ungdomlig spänst."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Behandlingen inleds med rengöring, avkopplande andling och avkopplande ansiktsmassage. Nålarna sätts in i huden en och en i specifika punkter. När alla nålar sitter på plats ligger du och kopplar av i mörker med eller utan musik i bakgrunden i ca 45 min. Därefter tar vi ut alla nålar och avslutar med en kort ansikte, hals och dekolletage massage."
-   },
-   {
-    "title": "FÖR BÄSTA RESULTAT",
-    "text": "Rekommenderas en kur på 10 behandlingar 1x i veckan"
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Använd anpassade serum och kräm från Tebiskin Cytoceuticals."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Yrsel kan uppstå direkt efter behandling, huvudvärk kan uppkomma under kommande dagarna efter behandlingen. Vid behandling av rynkor nära ögonen kan små blåmärken skapas."
    }
   ],
   "variant": " "
