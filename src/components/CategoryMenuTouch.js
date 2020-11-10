@@ -18,13 +18,16 @@ const Menu = ({ setData }) => {
                         Kategori                           
                     </a>  
                     </li>
+                    {/*
                     <li className={`${tab === 1 ? 'is-active' : ''}`}>
                         <a onClick={() => setTab(tab === 1 ? -1 : 1)}>                                    
                         Område                           
                         </a> 
                     </li>
+                     */}
                 </ul>
             </div>
+            
             <aside className="menu">      
             {tab === 0  &&                 
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
@@ -45,7 +48,8 @@ const Menu = ({ setData }) => {
                 }                   
                 </ul>                         
             }
-             {tab === 1  &&          
+             {tab === 1  &&        
+               
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
                 {
                     keywordData.map(({title, services}, index) => {

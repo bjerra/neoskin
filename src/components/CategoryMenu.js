@@ -11,7 +11,8 @@ const Menu = ({ setData }) => {
     const [currentItem, setitem] = useState("");
 
     return(
-        <div className="category-menu">
+        <div className="category-menu">     
+        {/*
             <div className="tabs">
              <ul>
                 <li className={`${tab === 0 ? 'is-active' : ''}`}>     
@@ -28,6 +29,7 @@ const Menu = ({ setData }) => {
                     </li>
                 </ul>
             </div>
+        */}
             <aside className="menu">      
             {tab === 0 ? (                              
                 <ul className="menu-list" style={{margin:0, padding: ' 0 1rem'}}> 
