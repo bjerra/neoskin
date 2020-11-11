@@ -1,13 +1,12 @@
 ---
 templateKey: index-page
-title: Auktoriserad hudterapeut med Gesällbrev
-subtitle: Skräddarsydd avancerad hudvård med synliga resultat
+title: NEOSKIN
+subtitle: Skräddarsydd hudvård med synliga resultat
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
-heading: Avancerad hudvård
+heading: Resultatinriktad hudvård, hudhälsa och estetisk dermatologi
 subheading: >
   Enerpeel kemiska peels, Fraxium laser, PRX-T33, Ultraljudsrengöring, LED-mask,
-  JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, Kosmetisk akupunktur,
-  MicroGold m.m...
+  JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
 description: "Boka gärna din konsultation i samband med första behandlingen om
   du är osäker på vad du ska välja, eller börja med konsultationen om du känner
   dig helt vilsen. Du får en genomtänkt, professionell och skräddarsydd plan som
@@ -17,9 +16,10 @@ description: "Boka gärna din konsultation i samband med första behandlingen om
   eller önskemål kan vi självklart bestämma att göra en annan behandling
   istället, bättre anpassad för dig. "
 mainpitch:
-  title: Hudvård och skönhet
+  title: NEOSKIN HUDVÅRDSKLINIK
   description: >
-    Varmt välkommen till en erfaren hudterapeut med Gesällbrev.  
+    Välkommen till en Auktoriserad hudterapeut med Gesällbrev, blivande mästare
+    med mästarbrev.  
 
     Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
 intro:
