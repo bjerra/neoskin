@@ -4,15 +4,19 @@ import addToMailchimp from 'gatsby-plugin-mailchimp';
 const EmailListForm = () => {
 
   const [email, setEmail] = useState('');
-  const [result, setResult] = useState('');
+  const [result, setResult] = useState("");
 
   const handleSubmit = (e) => {
     e.preventDefault();
 
     addToMailchimp(email)
       .then((data) => {
-          console.log(data.result);
-          setResult(data.result)     
+        var result = "error";
+        if(data.result === "success")
+          result = "success";
+        else if(data.msg.includes("already subscribed"))
+          result = "exists";
+        setResult(result)     
       })
       .catch((error) => {
         // Errors in here are client side
@@ -43,9 +47,11 @@ const EmailListForm = () => {
 
       </div>
     
-      {result != null && <p className="success">Tack!</p>} 
-     
-   
+      {result === "success" && <p className="success">Tack!</p>} 
+      {result === "exists" && <p className="success">Tack, men denna email är redan med!</p>} 
+      {result === "error" && <p className="error">Nånting gick fel</p> }
+
+      
     </form>
   );
 };
