@@ -43,8 +43,8 @@ const EmailListForm = () => {
 
       </div>
     
-      {result === "success" && <p className="success">Tack!</p>} 
-      {result === "error" && <p className="error">Nånting gick fel</p> }
+      {result != null && <p className="success">Tack!</p>} 
+     
    
     </form>
   );
