@@ -102,7 +102,6 @@ export const query = graphql`
         time
         slug
         price
-        offer
         id
         info {
           text

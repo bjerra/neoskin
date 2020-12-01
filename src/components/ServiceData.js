@@ -17,7 +17,6 @@ export const useServiceData = () => {
           time
           url
           variant
-          offer
         }
       }   
     }
