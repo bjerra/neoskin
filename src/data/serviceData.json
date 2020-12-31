@@ -1,12 +1,12 @@
 [
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/led-mask-terapi-355348",
-  "price": "550 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/led-mask-fototerapi-355348",
+  "price": "500 kr",
   "time": "30 minuter",
-  "title": "LED-mask terapi",
-  "slug": "led-mask-terapi",
+  "title": "LED-mask fototerapi",
+  "slug": "led-mask-fototerapi",
   "id": 1,
-  "category": "Ansiktsbehandlingar och LED-mask",
+  "category": "Ansikte",
   "info": [
    {
     "title": "BRA FÖR",
@@ -36,13 +36,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/neoskin-quick-fix-ultraljudsreg%C3%B6ring-353395",
-  "price": "450 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ultraljudsreg%C3%B6ring-353395",
+  "price": "500 kr",
   "time": "30 minuter",
-  "title": "Neoskin Quick-fix - ultraljudsregöring",
-  "slug": "neoskin-quick-fix-ultraljudsregoring",
+  "title": "Ultraljudsregöring",
+  "slug": "ultraljudsregoring",
   "id": 2,
-  "category": "Ansiktsbehandlingar och LED-mask",
+  "category": "Ansikte",
   "info": [
    {
     "title": "BRA FÖR",
@@ -68,13 +68,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-ansiktsbehandling-deep-clean-med-ultraljudsreng%C3%B6ring-363189",
-  "price": "895 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ansiktsbehandling-puret%C3%A9-visage-deep-clean-363189",
+  "price": "900 kr",
   "time": "45 minuter",
-  "title": "Tebiskin ansiktsbehandling deep Clean med ultraljudsrengöring",
-  "slug": "tebiskin-ansiktsbehandling-deep-clean-med-ultraljudsrengoring",
+  "title": "Ansiktsbehandling pureté visage (deep clean)",
+  "slug": "ansiktsbehandling-purete-visage-deep-clean",
   "id": 3,
-  "category": "Ansiktsbehandlingar och LED-mask",
+  "category": "Ansikte",
   "info": [
    {
     "title": "BRA FÖR",
@@ -100,13 +100,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-klassisk-ansiktsbehandling-med-ultraljudsreng%C3%B6ring-363190",
-  "price": "995 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ansiktsbehandling-classique-363190",
+  "price": "1 000 kr",
   "time": "60 minuter",
-  "title": "Tebiskin klassisk ansiktsbehandling med ultraljudsrengöring",
-  "slug": "tebiskin-klassisk-ansiktsbehandling-med-ultraljudsrengoring",
+  "title": "Ansiktsbehandling Classique",
+  "slug": "ansiktsbehandling-classique",
   "id": 4,
-  "category": "Ansiktsbehandlingar och LED-mask",
+  "category": "Ansikte",
   "info": [
    {
     "title": "BRA FÖR",
@@ -132,13 +132,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-ansiktsbehandling-lyx-med-ultraljudsreng%C3%B6ring-363191",
-  "price": "1 195 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ansiktsbehandling-luxe-363191",
+  "price": "1 200 kr",
   "time": "90 minuter",
-  "title": "Tebiskin ansiktsbehandling lyx med ultraljudsrengöring",
-  "slug": "tebiskin-ansiktsbehandling-lyx-med-ultraljudsrengoring",
+  "title": "Ansiktsbehandling Luxe",
+  "slug": "ansiktsbehandling-luxe",
   "id": 5,
-  "category": "Ansiktsbehandlingar och LED-mask",
+  "category": "Ansikte",
   "info": [
    {
     "title": "BRA FÖR",
@@ -164,13 +164,53 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-ga-enerpeel-1191453",
-  "price": "1 095 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling GA - Enerpeel",
-  "slug": "kemisk-peeling-ga-enerpeel",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-cryoterapi-1077984",
+  "price": "2 000 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Cryoterapi",
+  "slug": "prx-t33-2-0-cryoterapi",
   "id": 6,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "category": "Ansikte",
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Antiage\r\n- Fyllighet\r\n- Lyster\r\n- Fukt"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "PRX-T33 2.0 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. Vi avslutar med en Ice Mask för boostad effekt!\r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-ga-glykolsyra-antiage-&-lyster-1191453",
+  "price": "1 100 kr",
+  "time": "30 minuter",
+  "title": "Enerpeel GA - Glykolsyra, antiage & lyster",
+  "slug": "enerpeel-ga-glykolsyra-antiage-lyster",
+  "id": 7,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -204,13 +244,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-neck-enerpeel-1191454",
-  "price": "1 095 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-neck-sammandragande-1191454",
+  "price": "1 100 kr",
   "time": "30 minuter",
-  "title": "Kemisk peeling NECK - Enerpeel",
-  "slug": "kemisk-peeling-neck-enerpeel",
-  "id": 7,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel NECK - Sammandragande",
+  "slug": "enerpeel-neck-sammandragande",
+  "id": 8,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -244,53 +284,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-50-med-fraxium-&-jett-plasma-1078672",
-  "price": "1 000 kr",
-  "time": "15 minuter",
-  "title": "PRX-T33 2. 0 -50% med Fraxium & Jett Plasma",
-  "slug": "prx-t33-2-0-50-med-fraxium-jett-plasma",
-  "id": 8,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Antiage\r\n- Fyllighet\r\n- Lyster\r\n- Fukt"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "PRX-T33 2.0 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. Vi avslutar med en Ice Mask för boostad effekt!\r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-tca-25-enerpeel-1191452",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-tca-25-rynkor-pigment-ice-pick--1191452",
   "price": "3 500 kr",
   "time": "45 minuter",
-  "title": "Kemisk peeling TCA 25% - Enerpeel",
-  "slug": "kemisk-peeling-tca-25-enerpeel",
+  "title": "Enerpeel TCA 25 - rynkor, pigment, ice pick ",
+  "slug": "enerpeel-tca-25-rynkor-pigment-ice-pick",
   "id": 9,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -324,53 +324,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-cryoterapi-1077984",
-  "price": "1 995 kr",
-  "time": "45 minuter",
-  "title": "PRX-T33 2. 0 Cryoterapi",
-  "slug": "prx-t33-2-0-cryoterapi",
-  "id": 10,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Antiage\r\n- Fyllighet\r\n- Lyster\r\n- Fukt"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "PRX-T33 2.0 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. Vi avslutar med en Ice Mask för boostad effekt!\r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
-   },
-   {
-    "title": "BIVERKNINGAR",
-    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel-1180840",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-soft-tca-antiage-pigment-ice-pick-1180840",
   "price": "2 500 kr",
   "time": "45 minuter",
-  "title": "Kemisk peeling Soft TCA Antiage / pigmenteringar - Enerpeel",
-  "slug": "kemisk-peeling-soft-tca-antiage-pigmenteringar-enerpeel",
-  "id": 11,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel Soft TCA - antiage, pigment, ice pick",
+  "slug": "enerpeel-soft-tca-antiage-pigment-ice-pick",
+  "id": 10,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -404,13 +364,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-hands-enerpeel-1180843",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands-tca-antiage-1180843",
   "price": "1 500 kr",
-  "time": "30 minuter",
-  "title": "Kemisk peeling HANDS - Enerpeel",
-  "slug": "kemisk-peeling-hands-enerpeel",
-  "id": 12,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "time": "45 minuter",
+  "title": "Enerpeel HANDS - TCA, antiage",
+  "slug": "enerpeel-hands-tca-antiage",
+  "id": 11,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -444,13 +404,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-el-eyes-&-lips-plus-enerpeel-1180842",
-  "price": "1 095 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-el-eyes-&-lips-plus-1180842",
+  "price": "1 100 kr",
   "time": "30 minuter",
-  "title": "Kemisk peeling EL Eyes & Lips Plus - Enerpeel",
-  "slug": "kemisk-peeling-el-eyes-lips-plus-enerpeel",
-  "id": 13,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel EL - Eyes & Lips Plus",
+  "slug": "enerpeel-el-eyes-lips-plus",
+  "id": 12,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -484,13 +444,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-jr-mot-pigmenteringar-enerpeel-1180839",
-  "price": "1 095 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-jr-jessner-s-solution-pigment-1180839",
+  "price": "1 100 kr",
   "time": "30 minuter",
-  "title": "Kemisk peeling JR mot pigmenteringar - Enerpeel",
-  "slug": "kemisk-peeling-jr-mot-pigmenteringar-enerpeel",
-  "id": 14,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel JR - Jessner´ s solution, pigment",
+  "slug": "enerpeel-jr-jessner-s-solution-pigment",
+  "id": 13,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA MOT",
@@ -524,13 +484,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel--355373",
-  "price": "1 195 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-ma-ice-peel-glow-355373",
+  "price": "1 200 kr",
   "time": "45 minuter",
-  "title": "Kemisk peeling MA + cryoterapi Ice peel - Enerpeel ",
-  "slug": "kemisk-peeling-ma-cryoterapi-ice-peel-enerpeel",
-  "id": 15,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel MA -  Ice Peel, glow",
+  "slug": "enerpeel-ma-ice-peel-glow",
+  "id": 14,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -564,13 +524,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-sa-acne-peel-enerpeel-355371",
-  "price": "1 095 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-sa-salicylsyra-acne-peel--355371",
+  "price": "1 100 kr",
   "time": "30 minuter",
-  "title": "Kemisk peeling SA Acne peel - Enerpeel",
-  "slug": "kemisk-peeling-sa-acne-peel-enerpeel",
-  "id": 16,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel SA - Salicylsyra, acne peel ",
+  "slug": "enerpeel-sa-salicylsyra-acne-peel",
+  "id": 15,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA MOT",
@@ -604,13 +564,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-pa-oljig-hud-enerpeel-1180841",
-  "price": "1 095 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-pa-pyrodruvsyra-oljig-hud--1180841",
+  "price": "1 100 kr",
   "time": "30 minuter",
-  "title": "Kemisk peeling PA Oljig hud - Enerpeel",
-  "slug": "kemisk-peeling-pa-oljig-hud-enerpeel",
-  "id": 17,
-  "category": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Enerpeel PA - Pyrodruvsyra, Oljig hud ",
+  "slug": "enerpeel-pa-pyrodruvsyra-oljig-hud",
+  "id": 16,
+  "category": "Kemisk peeling",
   "info": [
    {
     "title": "BRA FÖR",
@@ -649,8 +609,8 @@
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 2 zoner x6 (ca 1x i månaden)",
   "slug": "fraxium-hog-intensitet-2-zoner-x6-ca-1x-i-manaden",
-  "id": 18,
-  "category": "Top 3 efterfrågade kurer",
+  "id": 17,
+  "category": "Kur",
   "info": [
    {
     "title": "(ord. Pris 10 270",
@@ -677,12 +637,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-sa-acne-peel-x-4-1-g%C3%A5ng-i-veckan--1180813",
-  "price": "3 995 kr",
+  "price": "4 000 kr",
   "time": "30 minuter",
   "title": "Kemisk peeling SA Acne peel x 4 (1 gång i veckan) ",
   "slug": "kemisk-peeling-sa-acne-peel-x-4-1-gang-i-veckan",
-  "id": 19,
-  "category": "Top 3 efterfrågade kurer",
+  "id": 18,
+  "category": "Kur",
   "info": [
    {
     "title": "(ord. Pris 4380",
@@ -713,8 +673,8 @@
   "time": "30 minuter",
   "title": "PRX-T33 x 4 (en gång i veckan) ",
   "slug": "prx-t33-x-4-en-gang-i-veckan",
-  "id": 20,
-  "category": "Top 3 efterfrågade kurer",
+  "id": 19,
+  "category": "Kur",
   "info": [
    {
     "title": "(ord.pris 8000",
@@ -736,97 +696,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/kemisk-peeling-sa-acne-peel-x-4-med-led-mask-1-g%C3%A5ng-i-veckan-1180849",
-  "price": "5 500 kr",
-  "time": "60 minuter",
-  "title": "Kemisk peeling SA Acne peel x 4 med LED-Mask (1 gång i veckan)",
-  "slug": "kemisk-peeling-sa-acne-peel-x-4-med-led-mask-1-gang-i-veckan",
-  "id": 21,
-  "category": "Top 3 efterfrågade kombinationsbehandlingar",
-  "info": [
-   {
-    "title": "FÖRDEL",
-    "text": "Salicylsyran och LED-ljusterapi teknologierna samverkar på ett sätt som ökar varderas resultatnivå på ett mycket effektivt sätt. LED-ljuset ställs in på blått (inflammationsdämpande) eller rött (läkande) beroende på din indikation vid behandlingstillfället. Vill du uppnå snabbare och mer långvariga resultat på dina acnesymtom är detta rätt kombination för dig!"
-   },
-   {
-    "title": "MERVÄRDE - DU FÅR",
-    "text": "- Tebiskin OSK clean 200 ml \r\n- Tebiskin OSK cream 50 ml \r\n- Tebiskin OSK lotion 25 ml \r\nmed totalt värde på 1370:- på köpet vid första behandlingen, att använda som eftervård hemma."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Denna kombibehandlingskur bör göras 1x i veckan i en månad.\r\n\r\nLäs gärna mer om vardera behandling, där står utförlig information om hur behandlingarna går till och hur teknologierna fungerar samt eventuella biverkningar och kontraindikationer."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Tebiskin Osk clean: Morgon och kväll\r\n- Osk kräm: morgon och kväll\r\n- Osk lotion: Vid behov upp till 6x / dag\r\n\r\nKorrekt eftervård förstärker behandlingseffekten och ökar säkerheten. Tebiskin hemvård är skräddarsytt att samverka med Enerpeel och dess olika indikationer."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-med-fraxium-mildare-intensitet-full-face-x-4-ca-1-g%C3%A5ng-i-m%C3%A5naden-1180844",
-  "price": "9 800 kr",
-  "time": "60 minuter",
-  "title": "PRX-T33 med Fraxium mildare intensitet, full face x 4 (ca 1 gång i månaden)",
-  "slug": "prx-t33-med-fraxium-mildare-intensitet-full-face-x-4-ca-1-gang-i-manaden",
-  "id": 22,
-  "category": "Top 3 efterfrågade kombinationsbehandlingar",
-  "info": [
-   {
-    "title": "FÖRDEL",
-    "text": "PRX och Fraktionerad Erbiumlaser teknologierna samverkar på ett sätt som ökar varderas resultatnivå på ett mycket effektivt sätt. Vill du uppnå snabbare och mer långvariga resultat av PRX eller om du vill jobba på stora porer och hudstrukturen också är detta rätt kombination för dig!"
-   },
-   {
-    "title": "MERVÄRDE - DU FÅR",
-    "text": "- Tebiskin EGF 50 ml \r\n- Tebiskin  Gluage Serum 8 x 5 ml (8 veckors kur)\r\nmed totalt värde på 2385:- på köpet vid första behandlingen, att använda som eftervård hemma."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Denna kombibehandlingskur bör göras ca 1x / 3e vecka.\r\n\r\nLäs gärna mer om vardera behandling, där står utförlig information om hur behandlingarna går till, vad de kan ha för biverkningar och vilka kontraindikationer som finns."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Använd alltid WiQo eftervårdskittet som du får av mig efter varje behandling, i sex dagar.\r\n- Undvik Alla andra produkter så som serum, mask eller ansiktsvatten under kuren då det riskerar att rubba PH-balansen och förstöra de goda effekterna av behandlingen. \r\n- Efter avslutad WiQo hemvård rekommenderas använda 2 veckors behandling med Gluage Serum (motsvarande två 5 ml flaskor) och Tebiskin EGF dagligen fram tills nästa behandling."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-och-lift-&-tight-%C3%B6gon-eller-mun-x-4-en-g%C3%A5ng-i-veckan--1180828",
-  "price": "7 995 kr",
-  "time": "60 minuter",
-  "title": "PRX-T33 och Lift & Tight ögon eller mun x 4 (en gång i veckan) ",
-  "slug": "prx-t33-och-lift-tight-ogon-eller-mun-x-4-en-gang-i-veckan",
-  "id": 23,
-  "category": "Top 3 efterfrågade kombinationsbehandlingar",
-  "info": [
-   {
-    "title": "FÖRDEL",
-    "text": "PRX och Jett plasma cosmetical teknologierna samverkar på ett sätt som ökar varderas resultatnivå på ett mycket effektivt sätt. Vill du ha PRX med extra fokus på rynkor och linjer runt ögon eller munområdet är detta rätt kombination för dig!"
-   },
-   {
-    "title": "MERVÄRDE - DU FÅR",
-    "text": "- Tebiskin EGF 50 ml \r\n- Tebiskin  Retical Eyes &amp; Lip Night 15 ml\r\n- Tebiskin  Gluage Serum 4 x 5 ml (4 veckors kur)\r\n\r\nmed totalt värde på 2255:- på köpet vid första behandlingen, att använda som eftervård hemma."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Denna kombibehandlingskur bör göras 1x i veckan.\r\n\r\nLäs gärna mer om vardera behandling, där står utförlig information om hur behandlingarna går till, vad de kan ha för biverkningar och vilka kontraindikationer som finns."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "- Använd alltid WiQo eftervårdskittet som du får av mig efter varje behandling, i sex dagar.\r\n- Undvik Alla andra produkter så som serum, mask eller ansiktsvatten under kuren då det riskerar att rubba PH-balansen och förstöra de goda effekterna av behandlingen. \r\n- Tebiskin Reticap Eyes &amp; Lips Night och EGF creme rekommenderas använda dagligen efter avslutad kur, Gluage serum rekommenderas användas 4 veckor efter avslutad kur för att bibehålla och förstärka resultatet. \r\n- Reticap E&amp;L Night går bra att använda på de områden som inte blivit behandlade med PRX under kurperioden."
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/handla-produkter-och-presentkort-1180811",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/k%C3%B6p-av-produkt-eller-presentkort-1180811",
   "price": "Kostnadsfri",
   "time": "15 minuter",
-  "title": "Handla produkter och presentkort",
-  "slug": "handla-produkter-och-presentkort",
-  "id": 24,
-  "category": "Konsultationer och tilläggstjänster",
+  "title": "Köp av produkt eller presentkort",
+  "slug": "kop-av-produkt-eller-presentkort",
+  "id": 20,
+  "category": "Konsultation",
   "info": [
    {
     "title": "BRA FÖR",
@@ -849,8 +725,8 @@
   "time": "15 minuter",
   "title": "Återbesök ",
   "slug": "aterbesok",
-  "id": 25,
-  "category": "Konsultationer och tilläggstjänster",
+  "id": 21,
+  "category": "Konsultation",
   "info": [
    {
     "title": "BRA FÖR",
@@ -869,8 +745,8 @@
   "time": "15 minuter",
   "title": "Kostnadsfri konsultation ",
   "slug": "kostnadsfri-konsultation",
-  "id": 26,
-  "category": "Konsultationer och tilläggstjänster",
+  "id": 22,
+  "category": "Konsultation",
   "info": [
    {
     "title": "BRA FÖR",
@@ -892,49 +768,13 @@
   "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/led-mask-till%C3%A4gg-i-annan-behandling-355349",
-  "price": "300 kr",
-  "time": "15 minuter",
-  "title": "LED-mask tillägg i annan behandling",
-  "slug": "led-mask-tillagg-i-annan-behandling",
-  "id": 27,
-  "category": "Konsultationer och tilläggstjänster",
-  "info": [
-   {
-    "title": "BRA FÖR",
-    "text": "- Acne\r\n- inflammationer i huden\r\n- Rosacea, känslig hud\r\n- Främjar läkningen efter kirurgiska ingrepp"
-   },
-   {
-    "title": "OM BEHANDLINGEN",
-    "text": "LED-ljus har visat sig ha mycket spännande egenskaper inom hudvård. Vi nyttjar ljusets olika våglängder (olika färger) för att nå olika djup i huden och uppnå diverse reaktioner genom olika biologiska responser.\r\n\r\nBLÅTT ljus: Dämpar inflammation i huden (acne, rosacea)\r\nRÖTT ljus: Främjar läkningen och Kollagen/Elastin produktionen.\r\nGRÖNT ljus: Hämmar melaninproduktionen och stärker kapillärer."
-   },
-   {
-    "title": "HUR BEHANDLINGEN GÅR TILL",
-    "text": "Efter din behandling lägger vi på ett lager hydrogel som hjälper ljuset att få rätt vinkel in i huden.\r\n\r\nMasken läggs på ansiktet och tänds därefter, hål för ögon, näsa och mun låter dig andas bekvämt.\r\nDu får välja om du vill ha musik i bakgrunden eller inte under behandlingens 20 aktiva ljusminuter. \r\nVi avslutar behandlingen efter anpassad rutin beroende på vilken behandling du utfört innan."
-   },
-   {
-    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
-    "text": "Använd som komplement till ordinarie ansiktsbehandling eller avslut till Enerpeel kemiska peels och Fraxium laser för \r\n\r\n- ökad kollagenstimulans\r\n- snabbare läkning och lyster \r\n- lugna och dämpa hudens inflammationer och rodnader."
-   },
-   {
-    "title": "HEMBEHANDLINGSRÅD",
-    "text": "Följ rekommendationerna och anpassad hemmavård till behandlingen du utför i kombination med LED-masken."
-   },
-   {
-    "title": "KONTRAINDIKATIONER",
-    "text": "Klaustrofobi"
-   }
-  ],
-  "variant": " "
- },
- {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-mildare-intensitet-full-face--355364",
-  "price": "1 595 kr",
+  "price": "1 600 kr",
   "time": "45 minuter",
   "title": "Fraxium mildare intensitet - full face ",
   "slug": "fraxium-mildare-intensitet-full-face",
-  "id": 28,
-  "category": "Laserbehandling Fraxium",
+  "id": 23,
+  "category": "Fraktionerad Erbiumlaser",
   "info": [
    {
     "title": "BRA FÖR",
@@ -969,12 +809,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-h%C3%B6g-intensitet-1-zon-tinningar--355365",
-  "price": "995 kr",
+  "price": "1 000 kr",
   "time": "30 minuter",
   "title": "Fraxium hög intensitet 1 zon (tinningar) ",
   "slug": "fraxium-hog-intensitet-1-zon-tinningar",
-  "id": 29,
-  "category": "Laserbehandling Fraxium",
+  "id": 24,
+  "category": "Fraktionerad Erbiumlaser",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1009,12 +849,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-h%C3%B6g-intensitet-2-zoner-kindben--355367",
-  "price": "1 795 kr",
+  "price": "1 800 kr",
   "time": "45 minuter",
   "title": "Fraxium hög intensitet 2 zoner (kindben) ",
   "slug": "fraxium-hog-intensitet-2-zoner-kindben",
-  "id": 30,
-  "category": "Laserbehandling Fraxium",
+  "id": 25,
+  "category": "Fraktionerad Erbiumlaser",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1049,12 +889,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraxium-h%C3%B6g-intensitet-3-zoner-full-face--355369",
-  "price": "2 395 kr",
+  "price": "2 400 kr",
   "time": "75 minuter",
   "title": "Fraxium hög intensitet 3 zoner (full face) ",
   "slug": "fraxium-hog-intensitet-3-zoner-full-face",
-  "id": 31,
-  "category": "Laserbehandling Fraxium",
+  "id": 26,
+  "category": "Fraktionerad Erbiumlaser",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1089,12 +929,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/cosmedical-lift-&-tight-plasmafl%C3%B6de-%C3%B6gon-eller-mun-361939",
-  "price": "995 kr",
+  "price": "1 000 kr",
   "time": "45 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde ögon eller mun",
   "slug": "cosmedical-lift-tight-plasmaflode-ogon-eller-mun",
-  "id": 32,
-  "category": "JETT Plasma",
+  "id": 27,
+  "category": "Jett Plasma",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1121,12 +961,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/cosmedical-lift-&-tight-plasmafl%C3%B6de-full-face-361938",
-  "price": "1 495 kr",
+  "price": "1 500 kr",
   "time": "75 minuter",
   "title": "COSMEDICAL Lift & Tight Plasmaflöde Full Face",
   "slug": "cosmedical-lift-tight-plasmaflode-full-face",
-  "id": 33,
-  "category": "JETT Plasma",
+  "id": 28,
+  "category": "Jett Plasma",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1157,8 +997,8 @@
   "time": "45 minuter",
   "title": "MEDICAL Borttagning av fibrom & pigmentfläckar m. m",
   "slug": "medical-borttagning-av-fibrom-pigmentflackar-m-m",
-  "id": 34,
-  "category": "JETT Plasma",
+  "id": 29,
+  "category": "Jett Plasma",
   "info": [
    {
     "title": "PRIS",
@@ -1201,8 +1041,8 @@
   "time": "75 minuter",
   "title": "PLASMALIFT Rynkreducering av överläpp",
   "slug": "plasmalift-rynkreducering-av-overlapp",
-  "id": 35,
-  "category": "JETT Plasma",
+  "id": 30,
+  "category": "Jett Plasma",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1241,8 +1081,8 @@
   "time": "90 minuter",
   "title": "PLASMALIFT icke-kirurgiskt ögonlockslyft",
   "slug": "plasmalift-icke-kirurgiskt-ogonlockslyft",
-  "id": 36,
-  "category": "JETT Plasma",
+  "id": 31,
+  "category": "Jett Plasma",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1277,12 +1117,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-total-makeover-1010769",
-  "price": "1 550 kr",
+  "price": "1 500 kr",
   "time": "90 minuter",
   "title": "Yumi Total Makeover",
   "slug": "yumi-total-makeover",
-  "id": 37,
-  "category": "Fransar och bryn",
+  "id": 32,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1309,12 +1149,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-lashes-keratin-lashlift-1010767",
-  "price": "950 kr",
+  "price": "1 000 kr",
   "time": "75 minuter",
   "title": "Yumi Lashes - Keratin Lashlift",
   "slug": "yumi-lashes-keratin-lashlift",
-  "id": 38,
-  "category": "Fransar och bryn",
+  "id": 33,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1349,8 +1189,8 @@
   "time": "60 minuter",
   "title": "Yumi brows - the original browlift",
   "slug": "yumi-brows-the-original-browlift",
-  "id": 39,
-  "category": "Fransar och bryn",
+  "id": 34,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "BRA FÖR",
@@ -1373,12 +1213,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynplock-vax-1052022",
-  "price": "225 kr",
+  "price": "250 kr",
   "time": "30 minuter",
   "title": "Brynplock / vax",
   "slug": "brynplock-vax",
-  "id": 40,
-  "category": "Fransar och bryn",
+  "id": 35,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1397,12 +1237,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/f%C3%A4rgning-och-formning-av-bryn-1180664",
-  "price": "295 kr",
+  "price": "300 kr",
   "time": "30 minuter",
   "title": "Färgning och formning av bryn",
   "slug": "fargning-och-formning-av-bryn",
-  "id": 41,
-  "category": "Fransar och bryn",
+  "id": 36,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1429,8 +1269,8 @@
   "time": "30 minuter",
   "title": "Fransfärg inkl formning av bryn",
   "slug": "fransfarg-inkl-formning-av-bryn",
-  "id": 42,
-  "category": "Fransar och bryn",
+  "id": 37,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1453,12 +1293,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/frans-och-brynf%C3%A4rg-inkl-formning-1052039",
-  "price": "425 kr",
+  "price": "450 kr",
   "time": "30 minuter",
   "title": "Frans- och brynfärg inkl formning",
   "slug": "frans-och-brynfarg-inkl-formning",
-  "id": 43,
-  "category": "Fransar och bryn",
+  "id": 38,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1481,12 +1321,12 @@
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-1052024",
-  "price": "325 kr",
+  "price": "300 kr",
   "time": "30 minuter",
   "title": "Fransfärg",
   "slug": "fransfarg",
-  "id": 44,
-  "category": "Fransar och bryn",
+  "id": 39,
+  "category": "Fransar & Bryn",
   "info": [
    {
     "title": "OM BEHANDLINGEN",
@@ -1513,7 +1353,7 @@
   "time": "30 minuter",
   "title": "1- Ansiktsbehandling hudhälsa inkl.  Ampull",
   "slug": "1-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 45,
+  "id": 40,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1529,7 +1369,7 @@
   "time": "60 minuter",
   "title": "2- Ansiktsbehandling Hudhälsa ",
   "slug": "2-ansiktsbehandling-hudhalsa",
-  "id": 46,
+  "id": 41,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1545,7 +1385,7 @@
   "time": "60 minuter",
   "title": "3- Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "3-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 47,
+  "id": 42,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1561,7 +1401,7 @@
   "time": "90 minuter",
   "title": "4- Ansiktsbehandling Hudhälsa",
   "slug": "4-ansiktsbehandling-hudhalsa",
-  "id": 48,
+  "id": 43,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1577,7 +1417,7 @@
   "time": "90 minuter",
   "title": "5- Ansiktsbehandling Hudhälsa inkl.  Ampull",
   "slug": "5-ansiktsbehandling-hudhalsa-inkl-ampull",
-  "id": 49,
+  "id": 44,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1593,7 +1433,7 @@
   "time": "15 minuter",
   "title": "6- Vaxning överläpp",
   "slug": "6-vaxning-overlapp",
-  "id": 50,
+  "id": 45,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1609,7 +1449,7 @@
   "time": "15 minuter",
   "title": "7- Vaxning Haka",
   "slug": "7-vaxning-haka",
-  "id": 51,
+  "id": 46,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1625,7 +1465,7 @@
   "time": "15 minuter",
   "title": "8- Vaxning överläpp och haka",
   "slug": "8-vaxning-overlapp-och-haka",
-  "id": 52,
+  "id": 47,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
@@ -1641,12 +1481,88 @@
   "time": "15 minuter",
   "title": "9- Vaxning överläpp, haka & kinder",
   "slug": "9-vaxning-overlapp-haka-kinder",
-  "id": 53,
+  "id": 48,
   "category": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "info": [
    {
     "title": " ",
     "text": "Hej! Jag heter Anaïs Schönborg och driver Neoskin i Estheticas lokaler, jag lovar att göra mitt allra bästa för att få Dig att trivas hos mig under denna period så länge Nicolina är sjukskriven. \r\n\r\nDå jag också spenderar mycket tid på mina studier och vidareutveckling av Neoskin har jag tyvärr inte fått möjlighet till att erbjuda alla behandlingarna som fanns på Esthetica. Hoppas att du hittar det du söker efter ändå. \r\n\r\nMycket varmt välkommen till mig, Anaïs Schönborg - Aukt. hudterapeut med Gesällbrev, blivande mästare med Mästarbrev.\r\n\r\nVälkommen att kontakta Nicolina på nicolina@esthetica.se om du har några frågor."
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/led-mask-fototerapi-355349",
+  "price": "300 kr",
+  "time": "15 minuter",
+  "title": "LED-mask fototerapi",
+  "slug": "led-mask-fototerapi",
+  "id": 49,
+  "category": "Tillägstjänster",
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Acne\r\n- inflammationer i huden\r\n- Rosacea, känslig hud\r\n- Främjar läkningen efter kirurgiska ingrepp"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "LED-ljus har visat sig ha mycket spännande egenskaper inom hudvård. Vi nyttjar ljusets olika våglängder (olika färger) för att nå olika djup i huden och uppnå diverse reaktioner genom olika biologiska responser.\r\n\r\nBLÅTT ljus: Dämpar inflammation i huden (acne, rosacea)\r\nRÖTT ljus: Främjar läkningen och Kollagen/Elastin produktionen.\r\nGRÖNT ljus: Hämmar melaninproduktionen och stärker kapillärer."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Efter din behandling lägger vi på ett lager hydrogel som hjälper ljuset att få rätt vinkel in i huden.\r\n\r\nMasken läggs på ansiktet och tänds därefter, hål för ögon, näsa och mun låter dig andas bekvämt.\r\nDu får välja om du vill ha musik i bakgrunden eller inte under behandlingens 20 aktiva ljusminuter. \r\nVi avslutar behandlingen efter anpassad rutin beroende på vilken behandling du utfört innan."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Använd som komplement till ordinarie ansiktsbehandling eller avslut till Enerpeel kemiska peels och Fraxium laser för \r\n\r\n- ökad kollagenstimulans\r\n- snabbare läkning och lyster \r\n- lugna och dämpa hudens inflammationer och rodnader."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Följ rekommendationerna och anpassad hemmavård till behandlingen du utför i kombination med LED-masken."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Klaustrofobi"
+   }
+  ],
+  "variant": " "
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-50-med-fraxium-&-jett-plasma-1078672",
+  "price": "1 000 kr",
+  "time": "15 minuter",
+  "title": "PRX-T33 2. 0 -50% med Fraxium & Jett Plasma",
+  "slug": "prx-t33-2-0-50-med-fraxium-jett-plasma",
+  "id": 50,
+  "category": "Tillägstjänster",
+  "info": [
+   {
+    "title": "BRA FÖR",
+    "text": "- Antiage\r\n- Fyllighet\r\n- Lyster\r\n- Fukt"
+   },
+   {
+    "title": "OM BEHANDLINGEN",
+    "text": "PRX-T33 2.0 innehåller 33% TCA syra, 5% Kojic Acid och Väteperoxid och är en nålfri biorevitaliserande antiage-behandling som förklaras som en hybrid teknik mellan kemisk peeling och fillers. Vi avslutar med en Ice Mask för boostad effekt!\r\n\r\nBehandlingen kan utföras av alla hudtyper året om då den inte ger någon ljuskänslighet.\r\n\r\nDet är en ny teknik inom den estetiska dermatologin som nu tagit marknaden i storm. Den patenterade mixen förvandlar TCAns egenskaper tack vare väteperoxiden. PRX-T33 ger ingen frosting, inga sociala begränsningar och kan med säkerhet kombineras med Fraxium, Jett Plasma, LED-mask, Kosmetisk Akupunktur och MicroGold."
+   },
+   {
+    "title": "HUR BEHANDLINGEN GÅR TILL",
+    "text": "Vi rengör huden och applicerar Prep. solution.\r\n\r\nDu ligger ner bekvämt och slappnar av medans vi masserar in PRX-T33 med en specifik massage teknik, område per område i 1-5 lager.\r\n\r\nVi neutraliserar och applicerar WiQo dagkräm."
+   },
+   {
+    "title": "FÖR BÄSTA MÖJLIGA RESULTAT",
+    "text": "Rekommenderas en kur om 4-6 behandlingar, 1x i veckan. \r\n\r\nEfter avslutad kur rekommenderas regelbundna behandlingar var 6-8.e vecka första halvåret, sedan underhåll 2x om året för att maximera och behålla de fina resultaten."
+   },
+   {
+    "title": "HEMBEHANDLINGSRÅD",
+    "text": "Smink bör undvikas i 24h efter behandling.\r\n\r\nVid varje behandlingstillfälle får hem en veckas specifik tillhörande dag- och nattvård som efter behandling ersätter ordinarie hudvård. Hudens PH-värde bevaras sänkt och barriären upprätthålls för att bevara behandlingens viktiga egenskaper."
+   },
+   {
+    "title": "BIVERKNINGAR",
+    "text": "Behandlingen kan ibland kännas lätt stingande, ibland upplevs inga obekvämligheter över huvudtaget. \r\n\r\nEfter behandlingen är man ofta lite rosig, detta brukar försvinna inom ett par timmar. En viss ytlig fjällning kan uppstå veckan efter behandlingen. Huden kan upplevas som torr-mycket torr."
+   },
+   {
+    "title": "KONTRAINDIKATIONER",
+    "text": "Skadad hud, Irriterad hud, allergi mot Kojicsyra, Seborreisk dermatit."
    }
   ],
   "variant": " "

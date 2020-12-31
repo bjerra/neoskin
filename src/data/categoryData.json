@@ -1,18 +1,18 @@
 [
  {
-  "title": "Ansiktsbehandlingar och LED-mask",
+  "title": "Ansikte",
   "services": [
    1,
    2,
    3,
    4,
-   5
+   5,
+   6
   ]
  },
  {
-  "title": "PRX-T33 och Enerpeel Kemiska peels",
+  "title": "Kemisk peeling",
   "services": [
-   6,
    7,
    8,
    9,
@@ -22,38 +22,38 @@
    13,
    14,
    15,
-   16,
-   17
+   16
   ]
  },
  {
-  "title": "Top 3 efterfrågade kurer",
+  "title": "Kur",
   "services": [
+   17,
    18,
-   19,
-   20
+   19
   ]
  },
  {
-  "title": "Top 3 efterfrågade kombinationsbehandlingar",
+  "title": "Konsultation",
   "services": [
+   20,
    21,
-   22,
-   23
+   22
   ]
  },
  {
-  "title": "Konsultationer och tilläggstjänster",
+  "title": "Fraktionerad Erbiumlaser",
   "services": [
+   23,
    24,
    25,
-   26,
-   27
+   26
   ]
  },
  {
-  "title": "Laserbehandling Fraxium",
+  "title": "Jett Plasma",
   "services": [
+   27,
    28,
    29,
    30,
@@ -61,40 +61,37 @@
   ]
  },
  {
-  "title": "JETT Plasma",
+  "title": "Fransar & Bryn",
   "services": [
    32,
    33,
    34,
    35,
-   36
-  ]
- },
- {
-  "title": "Fransar och bryn",
-  "services": [
+   36,
    37,
    38,
-   39,
-   40,
-   41,
-   42,
-   43,
-   44
+   39
   ]
  },
  {
   "title": "Esthetica Hudvårdssalong - Nicolinas behandlingar",
   "services": [
+   40,
+   41,
+   42,
+   43,
+   44,
    45,
    46,
    47,
-   48,
+   48
+  ]
+ },
+ {
+  "title": "Tillägstjänster",
+  "services": [
    49,
-   50,
-   51,
-   52,
-   53
+   50
   ]
  }
 ]
