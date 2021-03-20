@@ -1,12 +1,10 @@
 import React, { useState } from 'react'
 import { useCategoryData } from './CategoryData'
-import { useKeywordData } from './KeywordData'
 
 const Menu = ({ setData }) => {
     
     const categoryData = useCategoryData()
-    const keywordData = useKeywordData()
-
+    const keywordData =[]
     const [tab, setTab] = useState(0)
     const [currentItem, setitem] = useState("");
 
