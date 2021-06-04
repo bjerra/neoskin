@@ -1,35 +1,21 @@
 [
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/f%C3%B6rsta-bes%C3%B6ket-60-1364460",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/f%C3%B6rsta-bes%C3%B6ket--1364460",
   "price": "850 kr",
-  "time": "70 minuter",
-  "title": "Första besöket 60´",
-  "slug": "forsta-besoket-60",
+  "time": "60 minuter",
+  "title": "Första besöket",
+  "slug": "forsta-besoket",
   "id": 1,
-  "category": "NY KUND",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nKonsultation, Dubbelrengöring, Hudanalys &amp; Skräddarsydd ansiktsbehandling med ultraljudsrengöring.\r\n\r\nVEM SKA BOKA DENNA BEHANDLING?\r\n\r\nDu som aldrig har varit hos mig tidigare. \r\nVi inkluderar en kostnadsfri konsultation i denna timmen vilket gör priset mycket förmånligt för Dig. Boka denna behandling om du vill ha eller behöver hjälp med din hudhälsa eller utseende, jag är en Auktoriserad hudterapeutmästare med mottot “Din hud är min passion” - och så är det verkligen.  \r\n\r\nVARFÖR BOKA ETT FÖRSTA BESÖK?\r\n\r\nFörsta besöket hjälper oss att lära känna varandra, Du får ställa frågor till mig och berätta om dina önskemål och mål är för din hud. Utifrån vad Du har för tillstånd, önskemål, hudtyp, hälsa osv kan jag berätta om och vad jag kan hjälpa Dig med och i så fall på vilket sätt.\r\n\r\nMitt mål är att bara ha mycket nöjda kunder, därför väljer jag alltid ärlighet och uppriktighet när jag rekommenderar behandlingar eller produkter. Ribban sätter jag hellre lite för lågt än att riskera besvikelser i slutändan.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "NY KUND"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplane-pro-just-nu-elevpris-500--1362854",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplane-pro--1362854",
   "price": "1 000 kr",
   "time": "50 minuter",
-  "title": "Dermaplane PRO - Just nu Elevpris 500:-",
-  "slug": "dermaplane-pro-just-nu-elevpris-500-",
+  "title": "Dermaplane PRO ",
+  "slug": "dermaplane-pro",
   "id": 2,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nDermaplanning är en antiage-behandling som exfolierar huden och tar bort vellushår (fjun). Resultatet blir en jämnare hudton, mindre synliga linjer och acneärr, lyster, mjuk och len hud.\r\nBehandlingen är skapad till att på en gång förbättra hudens utseende, men också maximera upptag av följande produkter eller kombinationsbehandlingar.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nBehandlingen utförs av speciellt utbildad hudterapeut med en särskild scalpell ifrån Dermaplane Pro. Sclapellen används med en glidande rörelse fram och tillbaka över huden för att lossa på döda hudceller, vellushåren följer med i en positiv biverkning.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ultraljudsreng%C3%B6ring-1362855",
@@ -38,14 +24,7 @@
   "title": "Ultraljudsrengöring",
   "slug": "ultraljudsrengoring",
   "id": 3,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nEffektiv och skonsam exfoliering och portömning. Tekniken införde jag själv till Jönköping ifrån Bryssel år 2017. Ultraljudsrengöringen ökar även upptag av aktiva ingredienser och bidrar till en fin lyster i huden.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nRengöring, AHA, Ultraljudsrengöring, ögonkräm, kräm, SPF vid behov. Endast milier &amp; större komedoner behöver klämmas manuellt eller med verktyg.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-45-minuter-1362856",
@@ -53,14 +32,7 @@
   "title": "Tebiskin 45 minuter",
   "slug": "tebiskin-45-minuter",
   "id": 4,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nEn kortare behandling som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 15 min eller Mask med infraröd behandling, ögonkräm, kräm, SPF vid behov.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-60-minuter-1362857",
@@ -68,14 +40,7 @@
   "title": "Tebiskin 60 minuter",
   "slug": "tebiskin-60-minuter",
   "id": 5,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nEn ansiktsbehandling som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 15 min och Mask med infraröd behandling, Tebiskin serum (inkl. ca 5 dagars eftervård), ögonkräm, kräm, SPF vid behov.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-75-minuter-1362946",
@@ -98,69 +63,42 @@
   "title": "Tebiskin 90 minuter",
   "slug": "tebiskin-90-minuter",
   "id": 7,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nEn lång ansiktsbehandling med Frans-Brynfärg &amp; formning inkluderat som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 30 min och Mask med infraröd behandling, Frans-Brynfärg &amp; Formning, Tebiskin serum (inkl. ca 5 dagars eftervård), ögonkräm, kräm, SPF vid behov.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-110-minuter-1362948",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-120-minuter-1362948",
   "time": "2 700 kr",
-  "title": "Tebiskin 110 minuter",
-  "slug": "tebiskin-110-minuter",
+  "title": "Tebiskin 120 minuter",
+  "slug": "tebiskin-120-minuter",
   "id": 8,
-  "category": "Ansiktsbehandlingar",
-  "info": [],
-  "variant": " "
+  "category": "Ansiktsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/modellage-facial-30-1364905",
-  "time": "650 kr",
-  "title": "Modellage Facial 30´",
-  "slug": "modellage-facial-30",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial--1364905",
+  "price": "650 kr",
+  "time": "30 minuter",
+  "title": "Massage Facial ",
+  "slug": "massage-facial",
   "id": 9,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nRengöring, Manuell Ansiktsmassage inklusive Hals, Nacke, Dekolletage &amp; Axlar. Facial Gua Sha och infrarött ljus ingår om så önskas. Massageolja eller massagekräm väljs ut av hudterapeuten efter en kort hudanalys.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nMassagen är djupt avkopplande, uppstramande och modellerande. Massagen agerar även som en katalysator för ökad blodcirkulation, syresättning, cellförnyelse och har en mycket positivt effekt på hudbarriären som stärks och repareras. "
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/modellage-facial-beaut%C3%A9-45-1364907",
-  "time": "1 000 kr",
-  "title": "Modellage Facial Beauté 45´",
-  "slug": "modellage-facial-beaute-45",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial-beaut%C3%A9-1364907",
+  "price": "1 000 kr",
+  "time": "45 minuter",
+  "title": "Massage Facial Beauté",
+  "slug": "massage-facial-beaute",
   "id": 10,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nGrunden är den samma som i “modellage facial hydratation” men det ingår även frans-brynfärg och formning av bryn med vax, pincnett och sax. Angående brynfärgen rekommenderar jag att utgå ifrån dina egna toner för att uppnå ett naturligt resultat. Jag rådgiver Dig med det är Du får bestämma precis hur du vill ha dem med färg och form samt vilken teknik som bäst lämpar sig till dina önskemål. Massageolja eller massagekräm samt serum väljs ut av hudterapeuten efter en kort hudanalys. \r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nMassagen är djupt avkopplande, uppstramande och modellerande. Massagen agerar även som en katalysator för ökad blodcirkulation, syresättning, cellförnyelse och har en mycket positivt effekt på hudbarriären som stärks och repareras. De olika serumen som hudterapeuten väljer mellan jobbar på torr hud, acnebenägen hud, känslig hud med rodnader och pigmenterad hud. Fransarna och brynen ramar in blicken och ger dig ett omedelbart piggare ansikte."
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/modellage-facial-hydratation-30-1364906",
-  "time": "750 kr",
-  "title": "Modellage Facial Hydratation 30´",
-  "slug": "modellage-facial-hydratation-30",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial-hydratation--1364906",
+  "price": "750 kr",
+  "time": "30 minuter",
+  "title": "Massage Facial Hydratation ",
+  "slug": "massage-facial-hydratation",
   "id": 11,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nGrunden är den samma som i “modellage facial” men vi behandlar även ansiktet med ett anpassat serum ifrån märket Tebiskin, du får hem resterande serum som används under kommande veckan för att maximera fördelarna av de aktiva ingredienserna. Massageolja eller massagekräm samt serumet väljs ut av hudterapeuten efter en kort hudanalys.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nMassagen är djupt avkopplande, uppstramande och modellerande. Massagen agerar även som en katalysator för ökad blodcirkulation, syresättning, cellförnyelse och har en mycket positivt effekt på hudbarriären som stärks och repareras. De olika serumen som hudterapeuten väljer mellan jobbar på torr hud, acnebenägen hud, känslig hud med rodnader och pigmenterad hud."
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-45-1364902",
@@ -168,14 +106,7 @@
   "title": "Ryggbehandling 45´",
   "slug": "ryggbehandling-45",
   "id": 12,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nRengöring, scrub, AHA, ultraljudsrengöring, massage, Gua Sha, ryggmask, IR behandling och avslutande lotion eller kräm. Behandlingen skräddarsys efter önskemål och behov, vi hinner kanske inte med alla moment utan väljer ut och anpassar dessa till fast pris.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nVi rengör din rygg på djupet och exfolierar den ordentligt, har du t.ex pormaskar och/ eller utslag tar vi extra hand om dessa med anpassad AHA syra. Massagen kan vara djupt avslappnande eller jobba på spänningar med Gua Sha skrapmetoden som hjälper att lossa på stagnationer och spänningar. Du kan få en längre massage eller ryggmask under IR lampa för att dämpa smärta, lindra inflammationer eller bara njuta av den sköna värmen som tränger in ända ner till underhuden."
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-60-1364904",
@@ -183,44 +114,25 @@
   "title": "Ryggbehandling 60´",
   "slug": "ryggbehandling-60",
   "id": 13,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nRengöring, scrub, AHA, ultraljudsrengöring, massage, Gua Sha, ryggmask, IR behandling och avslutande lotion eller kräm. Behandlingen skräddarsys efter önskemål och behov, vi hinner kanske inte med alla moment utan väljer ut och anpassar dessa till fast pris.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nVi rengör din rygg på djupet och exfolierar den ordentligt, har du t.ex pormaskar och/ eller utslag tar vi extra hand om dessa med anpassad AHA syra. Massagen kan vara djupt avslappnande eller jobba på spänningar med Gua Sha skrapmetoden som hjälper att lossa på stagnationer och spänningar. Du kan få en längre massage OCH ryggmask under IR lampa för att dämpa smärta, lindra inflammationer eller bara njuta av den sköna värmen som tränger in ända ner till underhuden."
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-med-celluma-led-75-1364903",
-  "time": "1 600 kr",
-  "title": "Ryggbehandling med Celluma LED 75´",
-  "slug": "ryggbehandling-med-celluma-led-75",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-med-celluma-led-1364903",
+  "price": "1 600 kr",
+  "time": "75 minuter",
+  "title": "Ryggbehandling med Celluma LED",
+  "slug": "ryggbehandling-med-celluma-led",
   "id": 14,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nRengöring, scrub, AHA, ultraljudsrengöring, massage, Gua Sha, ryggmask, Celluma LED fototerapi 20´- 30´ min och avslutande lotion eller kräm. Behandlingen skräddarsys efter önskemål och behov, vi hinner kanske inte med alla moment utan väljer ut och anpassar dessa till fast pris.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nVi rengör din rygg på djupet och exfolierar den ordentligt, har du t.ex pormaskar och/ eller utslag tar vi extra hand om dessa med anpassad AHA syra. Massagen kan vara djupt avslappnande eller jobba på spänningar med Gua Sha skrapmetoden som hjälper att lossa på stagnationer och spänningar. I denna behandling får du tillgång till LED fototerapi tack vare våran helt nya Celluma PRO som är en ledande LED-fototerapi apparat på både Europeiska och Amerikanska marknaden. Celluma PRO kan användas överallt på kroppen eller ansiktet, på ryggen jobbar vi främst mot acne och inflammationer eller mot smärta.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/rygg-&-ansiktsbehandling-90-1364908",
-  "time": "2 000 kr",
-  "title": "Rygg & Ansiktsbehandling 90´",
-  "slug": "rygg-ansiktsbehandling-90",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/rygg-&-ansiktsbehandling--1364908",
+  "price": "2 000 kr",
+  "time": "90 minuter",
+  "title": "Rygg & Ansiktsbehandling ",
+  "slug": "rygg-ansiktsbehandling",
   "id": 15,
-  "category": "Massage & Kroppsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Hudanalys, Mikrokorn scrubb, Peeling, Ultraljudsrengöring, Ansiktsmassage, Facial Gua Sha, Mask med IR behandling, Tebiskin serum (inklusive ca 1 veckas eftervård), ögonkräm, kräm, SPF vid behov.\r\n\r\nRyggbehandling med Rengöring, scrub, AHA, ultraljudsrengöring, massage, Gua Sha, ryggmask, IR-behandling och avslutande lotion eller kräm. Behandlingen skräddarsys efter önskemål och behov, vi hinner kanske inte med alla moment utan väljer ut och anpassar dessa till fast pris.\r\n\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nDu får en lyxig upplevelse med djuprengöring, exfoliering, massage och återfuktning av både ansikte, hals, dekolletage och hela ryggen. Gua Sha skrapmetoden hjälper att lossa på stagnationer och spänningar. IR lampan dämpar smärta och bidrar till att lindra inflammationer samtidigt som du kan njuta av den sköna värmen som tränger in ända ner till underhuden.\r\n\r\nAnsiktsmassagen agerar även som en katalysator för ökad blodcirkulation, syresättning, cellförnyelse och har en mycket positivt effekt på hudbarriären som stärks och repareras. Tebiskin serumen som hudterapeuten väljer mellan jobbar på torr hud, acnebenägen hud, känslig hud med rodnader och pigmenterad hud.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Massage & Kroppsbehandlingar"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/acne-cupping--1363563",
@@ -228,14 +140,7 @@
   "title": "*Acne cupping ",
   "slug": "acne-cupping",
   "id": 16,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "Bokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nMycket skonsam och extremt effektiv teknik som jag är en av de allra första i hela Sverige att introducera. Den uråldriga tekniken liknar “wet cupping” men är specialanpassad till oss Auktoriserade hudterapeuter för att påskynda läkningen av utslagen utan att klämma, förstöra eller riskera att skapa onödiga ärrbildningar på Din hud. Arbetet som jag har skrivit och redovisat för Sveriges Hudterapeuters Riksorganisation om bl.a acne cupping hittar du på salongen.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nI samband med din behandling lägger vi på dessa mycket små ansiktskopporna på papler och pustler efter att ha stuckit ett litet, litet hål i dem med en steril lancett. Där får kopparna sitta tills inflammationen har dragits ut ur dem, ca 5-15 minuter. Det känns knappt ingenting förutom det negativa trycket som suger upp slaggprodukter ut ur huden.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ice-mask-cryoterapi-1281634",
@@ -243,14 +148,7 @@
   "title": "*Ice Mask - Cryoterapi",
   "slug": "ice-mask-cryoterapi",
   "id": 17,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/esthemax-hydrojelly-mask-355378",
@@ -258,14 +156,7 @@
   "title": "*Esthemax Hydrojelly Mask",
   "slug": "esthemax-hydrojelly-mask",
   "id": 18,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "Prisbelönta masker av högsta kvalitet som arbetar på diverse tillstånd i huden. Behagligt komplement som blivit ett måste för många återkommande kunder. \r\n\r\nBokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv."
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-serum--1281635",
@@ -273,14 +164,7 @@
   "title": "*Tebiskin Serum ",
   "slug": "tebiskin-serum",
   "id": 19,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "Extra Tebiskin serum som fullständigt masseras in under behandlingen för en riktig hudboost. Det aktiva serumet väljs utifrån tillstånd, önskemål och behov. \r\n\r\nBokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv."
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-15-1363567",
@@ -288,14 +172,7 @@
   "title": "*Massage 15´",
   "slug": "massage-15",
   "id": 20,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-30-1364458",
@@ -303,14 +180,7 @@
   "title": "*Massage 30´",
   "slug": "massage-30",
   "id": 21,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “massage &amp; kroppsbehandlingar”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-led-fototerapi--1363562",
@@ -318,29 +188,15 @@
   "title": "*Celluma LED fototerapi ",
   "slug": "celluma-led-fototerapi",
   "id": 22,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Avancerad Hudvård - Apparatur” eller “kur”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplane-pro-just-nu-elevpris-450--1364459",
-  "time": "",
-  "title": "*Dermaplane PRO - Just nu: Elevpris 450:-",
-  "slug": "dermaplane-pro-just-nu-elevpris-450-",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/-dermaplane-pro--1364459",
+  "time": "800 kr",
+  "title": "* Dermaplane PRO ",
+  "slug": "-dermaplane-pro",
   "id": 23,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ansiksbehandlingar”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-%C3%B6gon-eller-mun-1281632",
@@ -348,14 +204,7 @@
   "title": "*Lift & Tight Ögon eller Mun",
   "slug": "lift-tight-ogon-eller-mun",
   "id": 24,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Avancerad Hudvård - Apparatur”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-full-face-1362955",
@@ -363,14 +212,7 @@
   "title": "*Lift & Tight Full Face",
   "slug": "lift-tight-full-face",
   "id": 25,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Avancerad Hudvård - Apparatur”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-kemiska-peels-ga-pa-jr-sa-el-neck--1281633",
@@ -378,14 +220,7 @@
   "title": "*Enerpeel Kemiska peels (GA, PA, JR, SA, EL, NECK) ",
   "slug": "enerpeel-kemiska-peels-ga-pa-jr-sa-el-neck",
   "id": 26,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Avancerad Hudvård - Medicintekniska produkter”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands--1363566",
@@ -393,14 +228,7 @@
   "title": "*Enerpeel Hands ",
   "slug": "enerpeel-hands",
   "id": 27,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Avancerad Hudvård - Medicintekniska produkter”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-50-med-fraxium-&-jett-plasma-1078672",
@@ -408,14 +236,7 @@
   "title": "*PRX-T33 2. 0 -50% med Fraxium & Jett Plasma",
   "slug": "prx-t33-2-0-50-med-fraxium-jett-plasma",
   "id": 28,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en Fraxium eller Jett Plasma behandling. Vill du boka denna behandlingen för sig själv</span><br><span>gör du det inte här utan under kategorin “Avancerad Hudvård - Medicintekniska produkter”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-total-makeover--1363564",
@@ -423,14 +244,7 @@
   "title": "*Yumi total makeover ",
   "slug": "yumi-total-makeover",
   "id": 29,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”. </span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-lashes--1281441",
@@ -438,14 +252,7 @@
   "title": "*Yumi Lashes ",
   "slug": "yumi-lashes",
   "id": 30,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”. </span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-brows--1281442",
@@ -453,14 +260,7 @@
   "title": "*Yumi brows ",
   "slug": "yumi-brows",
   "id": 31,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynform--1281443",
@@ -468,14 +268,7 @@
   "title": "*Brynform ",
   "slug": "brynform",
   "id": 32,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynf%C3%A4rg-&-form--1281444",
@@ -483,14 +276,7 @@
   "title": "*Brynfärg & Form ",
   "slug": "brynfarg-form",
   "id": 33,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-&-brynform--1281452",
@@ -498,14 +284,7 @@
   "title": "*Fransfärg & Brynform ",
   "slug": "fransfarg-brynform",
   "id": 34,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/frans-&-brynf%C3%A4rg-formning-1281630",
@@ -513,14 +292,7 @@
   "title": "*Frans & Brynfärg + formning",
   "slug": "frans-brynfarg-formning",
   "id": 35,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg--1281631",
@@ -528,14 +300,7 @@
   "title": "*Fransfärg ",
   "slug": "fransfarg",
   "id": 36,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ögon-blick”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ultraljudsreng%C3%B6ring--1363565",
@@ -543,14 +308,7 @@
   "title": "*Ultraljudsrengöring ",
   "slug": "ultraljudsrengoring",
   "id": 37,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas endast som tillägg i en annan behandling. Vill du boka denna behandlingen för sig själv gör du det inte här</span><br><span>utan under kategorin “Ansiksbehandlingar”.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/vaxning-%C3%B6verl%C3%A4pp--1219123",
@@ -558,14 +316,7 @@
   "title": "*Vaxning överläpp ",
   "slug": "vaxning-overlapp",
   "id": 38,
-  "category": "Tilläggstjänster",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Bokas ENDAST som TILLÄGG i en annan behandling, du kan tyvärr inte boka denna behandlingen helt för sig själv.</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Tilläggstjänster"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-pro-led-fototerapi-1379356",
@@ -574,44 +325,25 @@
   "title": "Celluma PRO LED fototerapi",
   "slug": "celluma-pro-led-fototerapi",
   "id": 39,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nLED fototerapi är en beprövad teknologi med många år av forskning som bevisar effektiviteten på att dämpa inflammationer i huden, förbättra och påskynda läkningsprocessen, öka produktionen av fibroblaster och därmed kollagen &amp; elastinproduktionen. Vi behandlar acnesymptom, torr och känslig hud, rosacea, pigmenteringar, åldrad hud, röda acneärr, läkning efter sår eller ingrepp, hårväxt och även smärta.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\ndubbelrengöring, Celluma LED, Massage, Serum, Kräm, SPF vid behov.\r\n\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-%C3%B6gon-eller-mun-30-1364773",
-  "time": "1 000 kr",
-  "title": "Lift & Tight Ögon eller Mun 30´",
-  "slug": "lift-tight-ogon-eller-mun-30",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-%C3%B6gon-eller-mun--1364773",
+  "price": "1 000 kr",
+  "time": "30 minuter",
+  "title": "Lift & Tight Ögon eller Mun ",
+  "slug": "lift-tight-ogon-eller-mun",
   "id": 40,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nSom namnet pekar på är detta en effektiv uppstemande, modellerande behandling som reducerar fina linjer och rynkor. Den upprätthåller av bindvävens fasthet och ger en allmän revitaliserande, återfuktande och lystergivande effekt. Den är också näst intill smärtfri och även behaglig enligt flera kunder.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nBehandlingen börjar med rengöring och applicering av aktivt serum runt ögonområdet eller munnen. Inledningsvis jobbar vi in serum med ett större, plant munstycket för allmän liftingeffekt. Därefter fokuserar vi på enskilda linjer och rynkor med mindre och spetsigare munstycken, anpassade efter rynkornas karaktär och djup. \r\n\r\nPlasmaflöde och inslussning av aktiva serum används tillsammans för att stimulera huden.\r\nBehandlingen passar alla hudtyper och årstider,  den ger inga oönskade sidoeffekter och kan med fördel kombineras med andra behandlingar som t.ex. PRX-T33, kemisk peeling, dermaplanning samt Celluma LED."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-full-face-45-1364774",
-  "time": "1 500 kr",
-  "title": "Lift & Tight Full Face 45´",
-  "slug": "lift-tight-full-face-45",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-full-face-1364774",
+  "price": "1 500 kr",
+  "time": "45 minuter",
+  "title": "Lift & Tight Full Face",
+  "slug": "lift-tight-full-face",
   "id": 41,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nSom namnet pekar på är detta en effektiv uppstemande, modellerande behandling som reducerar fina linjer och rynkor. Den upprätthåller av bindvävens fasthet och ger en allmän revitaliserande, återfuktande och lystergivande effekt. Den är också näst intill smärtfri och även behaglig enligt flera kunder.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nBehandlingen börjar med rengöring och applicering av aktivt serum i hela ansiktet. Inledningsvis jobbar vi in serum med ett större, plant munstycket för allmän liftingeffekt. Därefter fokuserar vi på enskilda linjer och rynkor med mindre och spetsigare munstycken, anpassade efter rynkornas karaktär och djup. \r\n\r\nPlasmaflöde och inslussning av aktiva serum används tillsammans för att stimulera huden.\r\nBehandlingen passar alla hudtyper och årstider,  den ger inga oönskade sidoeffekter och kan med fördel kombineras med andra behandlingar som t.ex. PRX-T33, kemisk peeling, dermaplanning samt Celluma LED."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/k%C3%A4rlbehandling--1364797",
@@ -619,89 +351,51 @@
   "title": "Kärlbehandling ",
   "slug": "karlbehandling",
   "id": 42,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi bränner bort ytliga blodkärl, pris från 500:- \r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Vi bestämmer vad som ska tas bort under behandlingen och du får ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning kan ej användas. All bedövning har en påverkan på blodkärlen som drar ihop sig, detta gör behandlingen ogenomförbar. Du kommer att känna obehag under den korta stunden som behandlingen pågår, men det är inte ohållbart. Efter behandlingen får du en saché PLC kräm.\r\n\r\n3)- Återbesök: Vi tänker säkerhet föst och överbehandlar aldrig, oftast räcker en behandling, men om inte så ingår återbesöket i priset. Återbesök bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen samt utför eventuella korrektioner.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/borttagning-av-godartade-hudf%C3%B6r%C3%A4ndringar-1364796",
-  "time": "",
+  "time": "45 minuter",
   "title": "Borttagning av godartade hudförändringar",
   "slug": "borttagning-av-godartade-hudforandringar",
   "id": 43,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi bränner bort alla typer av godartade hudförändringar: Fibrom, Skintags, Pigmentfläckar, Syringom, Xantelasma &amp; Angiomer. Pris från 500:- \r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Vi bestämmer vad som ska tas bort under behandlingen och du får ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du varit på konsultationen kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår vid behov men används mest om det sitter mycket under ögonen eller om det är stora pigmenteringar som ska behandlas.\r\n\r\n3)- Återbesök: Vi tänker säkerhet föst och överbehandlar aldrig, oftast räcker en behandling, men om inte så ingår återbesöket i priset. Återbesök bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen samt utför eventuella korrektioner.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-argrynka-1364885",
+  "price": "3 000 kr",
   "time": "60 minuter",
   "title": "Plasmalift argrynka",
   "slug": "plasmalift-argrynka",
   "id": 44,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av argrynkan för att strama åt förminska rynkornas utseende. Permanenta resultat som kan kräva mellan 1-3 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, rynkorna kommer så småningom tillbaka.\r\n\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-hamsterp%C3%A5sar-1364888",
+  "price": "6 000 kr",
   "time": "90 minuter",
   "title": "Plasmalift hamsterpåsar",
   "slug": "plasmalift-hamsterpasar",
   "id": 45,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av hamsterpåsarna och omkringliggande hud för att strama åt den oelastiska, hängande huden. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, huden kommer så småningom att bli slapp igen.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-nasolabiala-veck-1364886",
+  "price": "3 500 kr",
   "time": "60 minuter",
   "title": "Plasmalift nasolabiala veck",
   "slug": "plasmalift-nasolabiala-veck",
   "id": 46,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av de nasolabiala vecken och omkringliggande hud för att strama åt och reducera rynkornas utseende. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, rynkorna kommer så småningom tillbaka.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-panna-1364887",
+  "price": "3 500 kr",
   "time": "75 minuter",
   "title": "Plasmalift panna",
   "slug": "plasmalift-panna",
   "id": 47,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av pannrynkorna för att strama åt och reducera deras utseende. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, rynkorna kommer så småningom tillbaka.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6ra-1364889",
@@ -709,14 +403,7 @@
   "title": "Plasmalift öra",
   "slug": "plasmalift-ora",
   "id": 48,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av omkringliggande hud vid örfästet för att strama åt och reducera rynkornas utseende. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, rynkorna kommer så småningom tillbaka.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-acne%C3%A4rr-1364788",
@@ -724,14 +411,7 @@
   "title": "Plasmalift acneärr",
   "slug": "plasmalift-acnearr",
   "id": 49,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av varje enstaka acneärr för att uppnå synliga resultat på rekordtid. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Vi bestämmer vilka ärr eller område som ska behandlas och du får ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår vid behov. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-ledsen-navel-1364787",
@@ -739,59 +419,34 @@
   "title": "Plasmalift ledsen navel",
   "slug": "plasmalift-ledsen-navel",
   "id": 50,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av naveln och omkringliggande hud för att strama åt förminska överflödet som skrynklar ihop sig. Permanenta resultat som kan kräva mellan 1-3 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Vi bestämmer storlek och form på området som ska behandlas och du får ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en eller två sachéer PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6gonlockslyft-1364784",
+  "price": "5 500 kr",
   "time": "75 minuter",
   "title": "Plasmalift ögonlockslyft",
   "slug": "plasmalift-ogonlockslyft",
   "id": 51,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nBehandlar hängande ögonlock till snarlika resultat med kirugiska ingrepp.\r\nVi kan även förbättra kråksparkar och andra rynkor i ögonområdet i samma behandling.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på omfattning kan det behövas upp till 3 behandlingar med ca 3 månaders mellanrum, du får veta vad jag uppskattar behövs i ditt fall samt om du är en lämplig kandidat till denna behandling. Vi behandlar inte alla typer av hängande ögonlock utan bara dem som kan bli riktigt bra. Behöver Du tänka på att göra ett kirurgiskt ögonlockslyft istället får du veta det på konsultationen.\r\n\r\nVi tar “före-bilder” och du får ett anpassat prisförslag. \r\n\r\nOBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår alltid. Efter behandlingen får en burk ögonkräm kräm att använda på natten tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 12 veckor efter behandlingen för att ta “efter-bilder” och jämföra resultatet. Inga bilder läggs upp någonstans utan ditt godkännande. Bilderna är först och främst till för Dig.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6gonlockslyft-%C3%B6ver-&-under-%C3%B6gonen-1364785",
+  "price": "8 900 kr",
   "time": "90 minuter",
   "title": "Plasmalift ögonlockslyft över & under ögonen. ",
   "slug": "plasmalift-ogonlockslyft-over-under-ogonen",
   "id": 52,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nBehandlar hängande ögonlock till snarlika resultat med kirugiska ingrepp.\r\nVi kan förbättra assymetri vid ögonområdet, påsar under ögonen, kråksparkar och andra rynkor.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på omfattning kan det behövas upp till 3 behandlingar med ca 3 månaders mellanrum, du får veta vad jag uppskattar behövs i ditt fall samt om du är en lämplig kandidat till denna behandling. Vi behandlar inte alla typer av hängande ögonlock eller påsar under ögonen, utan bara dem som kan bli riktigt bra. Behöver Du tänka på att göra ett kirurgiskt ingrepp istället får du veta det på konsultationen.\r\n\r\nVi tar “före-bilder” och du får ett anpassat prisförslag. \r\n\r\nOBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår alltid. Efter behandlingen får en burk ögonkräm kräm att använda på natten tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 12 veckor efter behandlingen för att ta “efter-bilder” och jämföra resultatet. Inga bilder läggs upp någonstans utan ditt godkännande. Bilderna är först och främst till för Dig.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6verl%C3%A4pp-1364786",
+  "price": "3 500 kr",
   "time": "75 minuter",
   "title": "Plasmalift överläpp",
   "slug": "plasmalift-overlapp",
   "id": 53,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nVi gör en ytslipning och punktbehandling av överläppen för att strama åt förminska rynkornas utseende. Permanenta resultat som kan kräva mellan 1-4 behandlingar med ca 3 månaders mellanrum beroende på tillstånd och önskemål. Behandlingen KAN upprepas ända tills önskat resultat uppnås. Naturligt åldrande stoppas inte, rynkorna kommer så småningom tillbaka.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Beroende på tillstånd och andra påverkande faktorer får Du ett anpassat prisförslag. OBS: Konsultationen bokas FÖRST under kategorin “Konsultationer”. Har du redan gått på din konsultation kan du gå vidare med denna bokning.\r\n\r\n2)- Behandling: Bedövning ingår. Efter behandlingen får du en saché PLC kräm att använda dagligen tills skorporna fallit av.\r\n\r\n3)- Återbesök: Bokas ca 6-8 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-full-face--1364772",
@@ -800,14 +455,7 @@
   "title": "Fraktionerad laser - Full face ",
   "slug": "fraktionerad-laser-full-face",
   "id": 54,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nFörbättrar Acneärr, Pigmenteringar, hudstruktur, Slapp hud, Rynkor &amp; Fina linjer, Ojämn hudton och Stora porer\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring och avfettning av huden inför lasern.\r\n\r\nDu ligger ner bekvämt och slappnar av medans behandlingen utförts i hela ansiktet. Första gången kan upplevas som lite jobbig då det är en helt ny och lite speciellt känsla, men det är uthålligt.\r\n\r\nVarje behandling skräddarsys efter behandlingsområde, hudkvalitet och hudtyp inom ramen av vald intensitet.\r\n\r\nSom avslut får du en kall, lugnande och återfuktande mask. Du får även hem två sachéer PLC att använda de första dagarna efter behandlingen."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-1-zon-tinningar--1364770",
@@ -816,14 +464,7 @@
   "title": "Fraktionerad laser 1 zon (tinningar) ",
   "slug": "fraktionerad-laser-1-zon-tinningar",
   "id": 55,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nFörbättrar Acneärr, Pigmenteringar, hudstruktur, Slapp hud, Rynkor &amp; Fina linjer, Ojämn hudton och Stora porer\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring och avfettning av huden inför lasern.\r\n\r\nDu ligger ner bekvämt och slappnar av medans behandlingen utförts på tinningarna, hakan eller annat mindre område där ärren är som värst. Första gången kan upplevas jobbigare då det är en helt ny och lite speciellt känsla, men det är uthålligt utan större besvär.\r\n\r\nVarje behandling skräddarsys efter behandlingsområde, hudkvalitet och hudtyp inom ramen av vald intensitet.\r\n\r\nSom avslut får du en kall, lugnande kräm. Du får även hem en saché PLC att använda de första dagarna efter behandlingen. \r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-2-zoner-kindben--1364771",
@@ -832,14 +473,7 @@
   "title": "Fraktionerad laser 2 zoner (kindben) ",
   "slug": "fraktionerad-laser-2-zoner-kindben",
   "id": 56,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nFörbättrar Acneärr, Pigmenteringar, hudstruktur, Slapp hud, Rynkor &amp; Fina linjer, Ojämn hudton och Stora porer\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring och avfettning av huden inför lasern.\r\n\r\nDu ligger ner bekvämt och slappnar av medans behandlingen utförts på kinderna där ärren är som värst. Första gången kan upplevas jobbigare då det är en helt ny och lite speciellt känsla, men det är uthålligt utan större besvär.\r\n\r\nVarje behandling skräddarsys efter behandlingsområde, hudkvalitet och hudtyp inom ramen av vald intensitet.\r\n\r\nSom avslut får du en kall, lugnande och återfuktande mask. Du får även hem en saché PLC att använda de första dagarna efter behandlingen."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-mild--1364769",
@@ -848,14 +482,7 @@
   "title": "Fraktionerad laser mild ",
   "slug": "fraktionerad-laser-mild",
   "id": 57,
-  "category": "Avancerad Hudvård - Apparatur",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nFörbättrar hudstruktur, Slapp hud, Fina linjer, Ojämn hudton och Stora porer\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring och avfettning av huden inför lasern.\r\n\r\nDu ligger ner bekvämt och slappnar av medans behandlingen utförts i hela ansiktet med en något mildare intensitet för snabb återhämtning, minimal smärta och effektiv hudboost. Första gången kan upplevas jobbigare då det är en helt ny och lite speciellt känsla, men det är uthålligt utan större besvär.\r\n\r\nVarje behandling skräddarsys efter behandlingsområde, hudkvalitet och hudtyp inom ramen av vald intensitet.\r\n\r\nSom avslut får du en kall, lugnande och återfuktande mask. Du får även hem en saché PLC att använda de första dagarna efter behandlingen."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Apparatur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-1364895",
@@ -864,14 +491,7 @@
   "title": "PRX-T33 2. 0 Ansikte",
   "slug": "prx-t33-2-0-ansikte",
   "id": 58,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nNålfri biorevitaliserande antiage-behandling som definieras som en hybrid teknik mellan kemisk peeling och fillers. Vi plumpar upp fina linjer och rynkor samt ger en ungdomlig glow och lyster till ansiktet. Även hudtonen jämnas ut.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation, dubbelrengöring och avfettning av huden. Applicering i ansiktet av 1-5 lager PRX-T33 som görs i form av en manuell massage med ett behagligt tryck. Vi avslutar med kräm, Ice Mask eller Celluma fototerapi för att maximera effekten! \r\n\r\nVid varje behandlingstillfälle får du hem en veckas specifik tillhörande dag- och nattkräm som ersätter ordinarie hudvård.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-&-hals-1364896",
@@ -880,14 +500,7 @@
   "title": "PRX-T33 2. 0 Ansikte & Hals",
   "slug": "prx-t33-2-0-ansikte-hals",
   "id": 59,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nNålfri biorevitaliserande antiage-behandling som definieras som en hybrid teknik mellan kemisk peeling och fillers. Vi plumpar upp fina linjer och rynkor samt ger en ungdomlig glow och lyster till ansiktet. Även hudtonen jämnas ut.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation, dubbelrengöring och avfettning av huden. Applicering i ansiktet och hals av 1-5 lager PRX-T33 som görs i form av en manuell massage med ett behagligt tryck. Vi avslutar med kräm, Ice Mask eller Celluma fototerapi för att maximera effekten! \r\n\r\nVid varje behandlingstillfälle får du hem en veckas specifik tillhörande dag- och nattkräm som ersätter ordinarie hudvård."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-hals-&-decolletage-1364897",
@@ -896,14 +509,7 @@
   "title": "PRX-T33 2. 0 Ansikte, Hals & Decolletage",
   "slug": "prx-t33-2-0-ansikte-hals-decolletage",
   "id": 60,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nNålfri biorevitaliserande antiage-behandling som definieras som en hybrid teknik mellan kemisk peeling och fillers. Vi plumpar upp fina linjer och rynkor samt ger en ungdomlig glow och lyster till ansiktet. Även hudtonen jämnas ut.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation, dubbelrengöring och avfettning av huden. Applicering i ansiktet, hals och dekolletaget av 1-5 lager PRX-T33 som görs i form av en manuell massage med ett behagligt tryck. Vi avslutar med kräm, Ice Mask eller Celluma fototerapi för att maximera effekten! \r\n\r\nVid varje behandlingstillfälle får du hem en veckas specifik tillhörande dag- och nattkräm som ersätter ordinarie hudvård."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-kemiska-peels--1364890",
@@ -912,14 +518,7 @@
   "title": "Enerpeel Kemiska peels ",
   "slug": "enerpeel-kemiska-peels",
   "id": 61,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation om önskemål och behov som följs av en dubbelrengöring och avfettning av huden. Baserat på konsultationen och din hudtyp, tillstånd samt önskemål väljer vi ut bästa peelingen för Dig ( GA, NECK, EL, JR, SA, PA, MA). Hela sortimentet av Enerpeel kemiska peels finns tillgängligt att välja ifrån förutom TCA baserade peelingar, de ingår EJ här utan måste bokas som en egen kemisk peeling.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nBeroende på utvald peeling jobbar vi på fukt, hudföryingring, hudtextur, acne, talgreglering, känslig hud, pigmenteringar, hudföryngring av hals, hudföryngring av ögon &amp; munområdet, komedoner, och vissa typer av acneärr. "
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tca-cocktail-35-30-1364898",
@@ -928,14 +527,7 @@
   "title": "TCA cocktail 35% 30´",
   "slug": "tca-cocktail-35-30",
   "id": 62,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "Icke-frätande TCA cocktail som speciellt lämpar sig till vuxen acne. Behandlingen jobbar antiinflammatoriskt, motverkar PBA bakterier, dämpar pigmenteringar och jobbar hudföryngrande.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation, dubbelrengöring och avfettning av huden. Applicering i ansiktet och hals av 1-5 lager som görs i form av en manuell massage med ett behagligt tryck. Vi avslutar med Celluma LED fototerapi och kräm."
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-ice-peel-1364894",
@@ -944,14 +536,7 @@
   "title": "Enerpeel Ice peel",
   "slug": "enerpeel-ice-peel",
   "id": 63,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nStimulerar kollagen, lindrar rosacea, känslig hud och dämpar inflammationer.\r\nJämnar ut den ojämna hudtonen och har en antikomedoniskt effekt.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nTvå djupverkande teknologier i en och samma behandling:\r\n\r\n1) Dubbelrengöring och avfettning av huden med prep. solution följt av den syrafrätande peelen som består av 40% Mandelsyra. Peelingen tillåts verka i 2-10 minuter beroende på din hudtyp och indikation innan neutralisation med ”Neutralizer Wipe”.\r\n\r\n2) Cryoterapi är en kylbehandling som stärker hudens skyddsfunktioner, reducerar rodnad och tillför antioxidanter. Ice mask innehåller Liquid ice, C-vitamin och Aloe Vera för att skydda mot miljöföroreningar och regenerera huden. \r\n\r\nBehandlingen avslutas med Tebiskin Gluage serum (inklusive ca 1 veckas eftervård) och anpassad kräm.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands--1364891",
@@ -960,14 +545,7 @@
   "title": "Enerpeel Hands ",
   "slug": "enerpeel-hands",
   "id": 64,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nExfolierande behandling som reducerar pigmentförändringar och förbättrar huden på händernas ytstruktur.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nAvfettning med prep. solution följt av den syrafrätande kombinationspeelen som består av 20% TCA, 10% Mjölksyra och Kojic acid.\r\n\r\nPeelingen läggs i lager som tas upp av huden på ca 1-2 min var. När huden är mättad sveper vi av överflödet med remover wipe och masserar in Tebiskins handkräm i en skön handmassage.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-soft-tca-1364893",
@@ -976,14 +554,7 @@
   "title": "Enerpeel soft TCA",
   "slug": "enerpeel-soft-tca",
   "id": 65,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nExfolierande behandling som korrigerar pigmenteringar och ålderstecken. Används på pigmentfläckar, utvalda rynkor eller i hela ansiktet beroende på tillsånd, önskemål och indikation.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation om önskemål och behov, dubbelrengöring och avfettning innan applicering av den syrafrätande kombinationspeelen som består av 20% TCA, 10% Mjölksyra och Kojic acid. Soft TCA är en snällare variant än ren TCA tack vare  Mjölksyran som förvandlar TCA egenskaperna till mindre aggressiva mot huden.\r\n\r\nPeelingen läggs i lager som tas upp av huden på ca 1-2 min var. När huden är mättad sveper vi av överflödet och smörjer in huden med anpassad kräm.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-tca-25-1364892",
@@ -992,14 +563,7 @@
   "title": "Enerpeel TCA 25%",
   "slug": "enerpeel-tca-25",
   "id": 66,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nMycket exfolierande behandling som korrigerar pigmenteringar och ålderstecken. Används på pigmentfläckar eller i delar av ansiktet beroende på tillsånd, önskemål och indikation.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKort konsultation om önskemål och behov, dubbelrengöring och avfettning av huden. Peelingen läggs i lager som tas upp av huden på ca 1-2 min tills huden uppnår en frosting som sedan försvinner inom en timme eller två.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tca-cross-icepicks-30-just-nu-kom-2-och-f%C3%A5-halva-priset-1379357",
@@ -1008,30 +572,16 @@
   "title": "TCA Cross - icepicks 30´ just nu: Kom 2 och få halva priset!",
   "slug": "tca-cross-icepicks-30-just-nu-kom-2-och-fa-halva-priset",
   "id": 67,
-  "category": "Avancerad Hudvård - Medicintekniska produkter",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nMycket exfolierande behandling som korrigerar och jämnar ut hudens ytstruktur. Används på acneärr av typen “ice-picks”.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\n1)- Konsultation: vi går igenom önskemål och medicinsk bakgrund. Vi bestämmer vilka ärr eller område som ska behandlas och du får ett anpassat prisförslag.\r\n\r\n2)- Behandling: dubbelrengöring och avfettning innan applicering med icke-stickande kanyl av den syrafrätande TCA peelen. Huden i och omkring varje Ice pick uppnår en frosting som sedan försvinner inom en till tre timmar.\r\n\r\n3)- Återbesök: Bokas ca 4 veckor efter behandlingen oavsett resultat, där tittar jag på läkningen och vi diskuterar nästa steg.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Avancerad Hudvård - Medicintekniska produkter"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/glow-paketet-just-nu-elevpris-1500--1379358",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/glow-paketet-1379358",
   "price": "2 695 kr",
-  "time": "60 minuter",
-  "title": "Glow paketet, Just nu: Elevpris 1500:-",
-  "slug": "glow-paketet-just-nu-elevpris-1500-",
+  "time": "80 minuter",
+  "title": "Glow paketet",
+  "slug": "glow-paketet",
   "id": 68,
-  "category": "Förmånliga paket inkl. hemvård",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nUltra komplett behandling som skräddarsys efter individens tillstånd, hudtyp och önskemål för att skapa en långvarig och hälsosam glow. Huden exfolieras och vellushåren tas bort som en positiv biverkning av dermaplane tekniken. Celluma LED aktiverar kollagenproduktionen och dämpar inflammationer. \r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKonsultation, Dubbelrengöring, AHA prep, Dermaplane oil, Dermaplanning, ultraljudsrengöring, Nu Peel, Celluma LED fototerapi, Peptidmask, serum, kräm, SPF vid behov. \r\n\r\nHemvård inkluderad: 1 månads Gluage serum."
-   }
-  ],
-  "variant": " "
+  "category": "Förmånliga paket inkl. hemvård"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/acne-paketet-v%C3%A4rde-5300--1364899",
@@ -1040,14 +590,7 @@
   "title": "Acne paketet, värde 5300:-",
   "slug": "acne-paketet-varde-5300-",
   "id": 69,
-  "category": "Förmånliga paket inkl. hemvård",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nUltra komplett behandling som tacklar alla fyra grundorsaker till acne: Hyperkeratinisering, hyperseborré, bakteriell kolonisation och inflammation.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKonsultation, Dubbelrengöring, AHA, Ultraljudsrengöring, Kemisk peeling, Acne cups, Celluma LED fototerapi, Ögonkräm, Kräm, SPF vid behov. \r\nFull size hemvårdsprodukter inkluderade: OSK CLEAN, OSK LOTION, OSK CREAM"
-   }
-  ],
-  "variant": " "
+  "category": "Förmånliga paket inkl. hemvård"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/antiage-paketet-v%C3%A4rde-8500--1364900",
@@ -1056,14 +599,7 @@
   "title": "Antiage paketet, värde 8500:-",
   "slug": "antiage-paketet-varde-8500-",
   "id": 70,
-  "category": "Förmånliga paket inkl. hemvård",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nUltra komplett, skräddarsydd behandling som tacklar hudens åldrande på ett helhetsperspektiv till fast pris.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKonsultation, Dubbelrengöring, peeling, Ultraljudsrengöring, Lift &amp; Tight 30´, PRX-T33, Fraxium light eller plasmalift av argrynka, Celluma PRO fototerapi, Ice mask, Ögonkräm, Kräm, SPF vid behov. Hemvård inkluderad: WiQo DAGKRÄM 50ml &amp; NATTKRÄM 30ml"
-   }
-  ],
-  "variant": " "
+  "category": "Förmånliga paket inkl. hemvård"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/pigmenteringar-hudton-paketet-v%C3%A4rde-8100--1364901",
@@ -1072,20 +608,13 @@
   "title": "Pigmenteringar / hudton-paketet, värde 8100:-",
   "slug": "pigmenteringar-hudton-paketet-varde-8100-",
   "id": 71,
-  "category": "Förmånliga paket inkl. hemvård",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nUltra komplett behandling som skräddarsys efter individens tillstånd, hudtyp och önskemål för att tackla pigmenteringar. \r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nKonsultation, Dubbelrengöring, AHA, Ultraljudsrengöring, Enerpeel JR och/- eller TCA, Fraxium eller Plasmalift, Celluma PRO fototerapi. Hemvård inkluderad: LC och UV-LC "
-   }
-  ],
-  "variant": " "
+  "category": "Förmånliga paket inkl. hemvård"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/9x-celluma-led-fototerapi-v%C3%A4rde-4500-1364876",
-  "time": "3 500 kr",
-  "title": "9x Celluma LED fototerapi, värde 4500",
-  "slug": "9x-celluma-led-fototerapi-varde-4500",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/9x-celluma-led-fototerapi-v%C3%A4rde-8100-1364876",
+  "time": "4 500 kr",
+  "title": "9x Celluma LED fototerapi - värde 8100",
+  "slug": "9x-celluma-led-fototerapi-varde-8100",
   "id": 72,
   "category": "Kur",
   "info": [
@@ -1102,14 +631,7 @@
   "title": "4x PRX-T33 2. 0 Ansikte, värde 8000:-",
   "slug": "4x-prx-t33-2-0-ansikte-varde-8000-",
   "id": 73,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/4, 2/4....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-prx-t33-20-ansikte-&-hals-v%C3%A4rde-10000--1364878",
@@ -1117,14 +639,7 @@
   "title": "4x PRX-T33 2. 0 Ansikte & Hals, värde 10. 000:-",
   "slug": "4x-prx-t33-2-0-ansikte-hals-varde-10-000-",
   "id": 74,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/4, 2/4....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-prx-t33-20-ansikte-hals-&-dekolletage-v%C3%A4rde-16000--1364879",
@@ -1132,59 +647,34 @@
   "title": "4x PRX-T33 2. 0 Ansikte, Hals & Dekolletage, värde 16. 000:-",
   "slug": "4x-prx-t33-2-0-ansikte-hals-dekolletage-varde-16-000-",
   "id": 75,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/4, 2/4....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/6x-lift-&-tight-%C3%B6gon-eller-mun-v%C3%A4rde-6000-1364880",
-  "time": "4 500 kr",
+  "price": "4 500 kr",
+  "time": "30 minuter",
   "title": "6x Lift & Tight Ögon eller Mun, värde 6000",
   "slug": "6x-lift-tight-ogon-eller-mun-varde-6000",
   "id": 76,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/6, 2/6....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/6x-lift-&-tight-full-face-v%C3%A4rde-9000--1364881",
-  "time": "7 500 kr",
+  "price": "7 500 kr",
+  "time": "45 minuter",
   "title": "6x Lift & Tight Full Face, värde 9000:-",
   "slug": "6x-lift-tight-full-face-varde-9000-",
   "id": 77,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/6, 2/6....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-enerpeel-hands-v%C3%A4rde-6000-1364882",
-  "time": "5 000 kr",
+  "price": "5 000 kr",
+  "time": "30 minuter",
   "title": "4x Enerpeel hands, värde 6000",
   "slug": "4x-enerpeel-hands-varde-6000",
   "id": 78,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/4, 2/4....)</span>"
-   }
-  ],
-  "variant": " "
+  "category": "Kur"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tid-f%C3%B6r-k%C3%B6p-av-produkter-eller-presentkort--1180811",
@@ -1219,14 +709,7 @@
   "title": "Yumi Total Makeover",
   "slug": "yumi-total-makeover",
   "id": 82,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nLyfter fransarna ifrån roten, vårdar och färgar för att uppnå till synes längre och mörka fransar.\r\nBrynen lamineras och färgas med browlift-tekniken som gör brynen formbara, du kan få ett bredare &amp; tjockare utseende på dina bryn.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDet ingår både Yumi Lashes och Yumi brows. Du får en riktig makeover av ögonregionen med lyft och färg! Fransarnas lyfts, vårdas och färgas med prisbelönta Yumi lashes tekniken, brynen lamineras, vårdas, färgas och formas med vax, pincett och sax efter önskemål och behov. \r\n\r\nJag rådgiver Dig om färg, form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur du vill ha dem. Fransfärg görs enligt önskemål med eller utan att inkludera underfransarna. \r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-lashes-1364915",
@@ -1235,14 +718,7 @@
   "title": "Yumi Lashes",
   "slug": "yumi-lashes",
   "id": 83,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nLyfter fransarna ifrån roten, vårdar och färgar för att uppnå till synes längre och mörka fransar.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nFransarnas lyfts, vårdas och färgas med prisbelönta Yumi lashes tekniken. \r\nFransfärg görs enligt önskemål med eller utan att inkludera underfransarna. "
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-brows-1364914",
@@ -1251,14 +727,7 @@
   "title": "Yumi Brows",
   "slug": "yumi-brows",
   "id": 84,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nBrynen lamineras och färgas med browlift-tekniken som gör brynen formbara, du kan få ett bredare &amp; tjockare utseende på dina bryn.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nBryn-laminering, färgning, formning med vax, pincett och sax samt styling efter önskemål och behov. \r\n\r\nJag rådgiver Dig om färg, form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur Du vill ha dem."
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynform-1364909",
@@ -1267,14 +736,7 @@
   "title": "Brynform",
   "slug": "brynform",
   "id": 85,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nPiggar upp dina ögon med en prydlig form.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nFormning av bryn görs med vax, pincnett och sax. Jag rådgiver Dig om form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur du vill ha dem."
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynf%C3%A4rg-&-form-1364910",
@@ -1283,14 +745,7 @@
   "title": "Brynfärg & Form",
   "slug": "brynfarg-form",
   "id": 86,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nRamar in dina ögon med en prydlig form och färg på brynen för att pigga upp blicken.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nFormning av bryn görs med vax, pincnett och sax. Jag rådgiver Dig om färg, form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur du vill ha dem."
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-&-formning-av-bryn-1364913",
@@ -1299,14 +754,7 @@
   "title": "Fransfärg & Formning av bryn",
   "slug": "fransfarg-formning-av-bryn",
   "id": 87,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nRamar in dina ögon med färg på fransar och en prydlig form på brynen som piggar upp blicken. För dig som är nöjd med din naturliga brynfärg men som vill forma dem och få mörkare fransar. \r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nFormning av bryn görs med vax, pincnett och sax. Jag rådgiver Dig om form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur du vill ha dem.\r\nFransfärg görs enligt önskemål med eller utan att inkludera underfransarna. "
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/frans-brynf%C3%A4rg-&-formning-1364911",
@@ -1315,14 +763,7 @@
   "title": "Frans-Brynfärg & Formning",
   "slug": "frans-brynfarg-formning",
   "id": 88,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\nRama in dina ögon med färg på fransar och bryn och en prydlig form som piggar upp blicken.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nFormning av bryn görs med vax, pincnett och sax. Jag rådgiver Dig om form och teknik som bäst lämpar sig till dina önskemål, men det är Du som får bestämma precis hur du vill ha dem.\r\n\r\nAngående brynfärgen rekommenderar jag att utgå ifrån dina egna toner för att uppnå ett naturligt resultat, men jag frågar dig alltid först innan att lägga på färgen.\r\n"
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-1364912",
@@ -1331,13 +772,6 @@
   "title": "Fransfärg",
   "slug": "fransfarg",
   "id": 89,
-  "category": "Ögon-Blick",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nRamar in dina ögon med färg på fransarna vilket piggar upp blicken.\r\n\r\nTIPS &amp; RÅD\r\n\r\nKom gärna utan maskara om du har möjlighet då färgen kan ha lättare att fästa när fransarna har fått “andas” innan. Har du maskara på dig inför besöket behöver du inte ta bort den själv, det gör jag.\r\n\r\nXlash fransserum förlänger dina fransar och passar perfekt som extra hemvård till denna typen av behandling. Rabatterat pris i samband med din bokning."
-   }
-  ],
-  "variant": " "
+  "category": "Ögon-Blick"
  }
 ]
