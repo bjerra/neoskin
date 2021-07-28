@@ -7,16 +7,14 @@ heading: Resultatinriktad hudvård, hudhälsa och estetisk dermatologi
 subheading: >
   Enerpeel kemiska peels, Fraktionerad laser, PRX-T33, Ultraljudsrengöring,
   Celluma LED-panel, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
-description: .
+description: .nan
 mainpitch:
-  title: Snart öppnar vi äntligen upp Neoskin Hudvårdssalong!
+  title: NYÖPPNING I HÖST!
   description: >
-    I slutet på augusti, senast början av September öppnar vi upp våra egna
-    dörrar på Lantmätargränd! Tills dess hittar du Neoskin inne på Estheticas
-    gamla lokaler. Du som har presentkort hos Esthetica har juni på dig att lösa
-    in dem då Nicolina avvecklar verksamheten helt efter det. (Neoskins hemsida
-    undergår just nu ett ansiktslyft och många nyheter lovas inför den stora
-    nyöppningen!)
+    I höst öppnar vi äntligen upp vår egna och helt nya hudsalong! Tills dess
+    hittar du Neoskin inne på Estheticas lokaler. Vi kommer att smygöppna i
+    september men startar inte upp den nya verksamheten förens allting är klart
+    med behandlingar, produkter och diverse utbildningar. Så håll utkik! 
 intro:
   blurbs:
     - image: /img/fraxium-.jpg
