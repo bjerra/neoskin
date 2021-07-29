@@ -1,533 +1,286 @@
 [
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/f%C3%B6rsta-bes%C3%B6ket--1364460",
-  "price": "850 kr",
-  "time": "60 minuter",
-  "title": "Första besöket",
-  "slug": "forsta-besoket",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-full-face--1364772",
+  "price": "2 400 kr",
+  "time": "90 minuter",
+  "title": "Fraktionerad laser - Full face",
+  "slug": "fraktionerad-laser-full-face",
   "id": 1,
-  "category": "NY KUND"
+  "category": "FRAXIUM UTGÅR 1 SEPTEMBER - Ny signaturbehandling för kraterärr"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplane-pro--1362854",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-1-zon-tinningar--1364770",
   "price": "1 000 kr",
-  "time": "50 minuter",
-  "title": "Dermaplane PRO ",
-  "slug": "dermaplane-pro",
+  "time": "15 minuter",
+  "title": "Fraktionerad laser 1 zon (tinningar)",
+  "slug": "fraktionerad-laser-1-zon-tinningar",
   "id": 2,
-  "category": "Ansiktsbehandlingar"
+  "category": "FRAXIUM UTGÅR 1 SEPTEMBER - Ny signaturbehandling för kraterärr"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-2-zoner-kindben--1364771",
+  "price": "1 800 kr",
+  "time": "60 minuter",
+  "title": "Fraktionerad laser 2 zoner (kindben)",
+  "slug": "fraktionerad-laser-2-zoner-kindben",
+  "id": 3,
+  "category": "FRAXIUM UTGÅR 1 SEPTEMBER - Ny signaturbehandling för kraterärr"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-mild--1364769",
+  "price": "1 600 kr",
+  "time": "45 minuter",
+  "title": "Fraktionerad laser mild",
+  "slug": "fraktionerad-laser-mild",
+  "id": 4,
+  "category": "FRAXIUM UTGÅR 1 SEPTEMBER - Ny signaturbehandling för kraterärr"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ultraljudsreng%C3%B6ring-1362855",
   "price": "500 kr",
-  "time": "30 minuter",
+  "time": "35 minuter",
   "title": "Ultraljudsrengöring",
   "slug": "ultraljudsrengoring",
-  "id": 3,
-  "category": "Ansiktsbehandlingar"
+  "id": 5,
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken."
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-45-minuter-1362856",
   "time": "750 kr",
   "title": "Tebiskin 45 minuter",
   "slug": "tebiskin-45-minuter",
-  "id": 4,
-  "category": "Ansiktsbehandlingar"
+  "id": 6,
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken.",
+  "info": [
+   {
+    "title": " ",
+    "text": "Delar av sortimentet blir kvar i försäljning som t.ex OSK serien.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nEn kortare behandling som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 15 min eller Mask med infraröd behandling, ögonkräm, kräm, SPF vid behov.\r\n"
+   }
+  ],
+  "variant": " "
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-60-minuter-1362857",
   "time": "1 000 kr",
   "title": "Tebiskin 60 minuter",
   "slug": "tebiskin-60-minuter",
-  "id": 5,
-  "category": "Ansiktsbehandlingar"
+  "id": 7,
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken.",
+  "info": [
+   {
+    "title": " ",
+    "text": "Delar av sortimentet blir kvar i försäljning som t.ex OSK serien.\r\n\r\nVAD GÖR BEHANDLINGEN?\r\n\r\nEn ansiktsbehandling som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 15 min och Mask med infraröd behandling, Tebiskin serum (inkl. ca 5 dagars eftervård), ögonkräm, kräm, SPF vid behov.\r\n"
+   }
+  ],
+  "variant": " "
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-75-minuter-1362946",
   "time": "1 200 kr",
   "title": "Tebiskin 75 minuter",
   "slug": "tebiskin-75-minuter",
-  "id": 6,
-  "category": "Ansiktsbehandlingar",
-  "info": [
-   {
-    "title": " ",
-    "text": "VAD GÖR BEHANDLINGEN?\r\n\r\nEn lite längre ansiktsbehandling som skräddarsys efter Din hud, Dina önskemål och Dina behov.\r\n\r\nVAD INGÅR I BEHANDLINGEN?\r\n\r\nDubbelrengöring, Scrub, AHA, Ultraljudsrengöring, Massage ca 30 min och Mask med infraröd behandling, Tebiskin serum (inkl. ca 5 dagars eftervård), ögonkräm, kräm, SPF vid behov.\r\n"
-   }
-  ],
-  "variant": " "
+  "id": 8,
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken."
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-90-minuter-1362947",
   "time": "1 500 kr",
   "title": "Tebiskin 90 minuter",
   "slug": "tebiskin-90-minuter",
-  "id": 7,
-  "category": "Ansiktsbehandlingar"
+  "id": 9,
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken."
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-120-minuter-1362948",
   "time": "2 700 kr",
   "title": "Tebiskin 120 minuter",
   "slug": "tebiskin-120-minuter",
-  "id": 8,
-  "category": "Ansiktsbehandlingar"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial--1364905",
-  "price": "650 kr",
-  "time": "30 minuter",
-  "title": "Massage Facial ",
-  "slug": "massage-facial",
-  "id": 9,
-  "category": "Massage & Kroppsbehandlingar"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial-beaut%C3%A9-1364907",
-  "price": "1 000 kr",
-  "time": "45 minuter",
-  "title": "Massage Facial Beauté",
-  "slug": "massage-facial-beaute",
   "id": 10,
-  "category": "Massage & Kroppsbehandlingar"
+  "category": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken."
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-facial-hydratation--1364906",
-  "price": "750 kr",
-  "time": "30 minuter",
-  "title": "Massage Facial Hydratation ",
-  "slug": "massage-facial-hydratation",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplanning-med-ultraljudsreng%C3%B6ring-1362854",
+  "price": "1 190 kr",
+  "time": "60 minuter",
+  "title": "Dermaplanning med ultraljudsrengöring",
+  "slug": "dermaplanning-med-ultraljudsrengoring",
   "id": 11,
-  "category": "Massage & Kroppsbehandlingar"
+  "category": "Avancerad hudvård - Dermaplane PRO"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-45-1364902",
-  "time": "1 100 kr",
-  "title": "Ryggbehandling 45´",
-  "slug": "ryggbehandling-45",
-  "id": 12,
-  "category": "Massage & Kroppsbehandlingar"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-60-1364904",
-  "time": "1 300 kr",
-  "title": "Ryggbehandling 60´",
-  "slug": "ryggbehandling-60",
-  "id": 13,
-  "category": "Massage & Kroppsbehandlingar"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-med-celluma-led-1364903",
-  "price": "1 600 kr",
-  "time": "75 minuter",
-  "title": "Ryggbehandling med Celluma LED",
-  "slug": "ryggbehandling-med-celluma-led",
-  "id": 14,
-  "category": "Massage & Kroppsbehandlingar"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/rygg-&-ansiktsbehandling--1364908",
-  "price": "2 000 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplanning-med-ultraljudsreng%C3%B6ring-och-led-panel-1522929",
+  "price": "1 590 kr",
   "time": "90 minuter",
-  "title": "Rygg & Ansiktsbehandling ",
-  "slug": "rygg-ansiktsbehandling",
-  "id": 15,
-  "category": "Massage & Kroppsbehandlingar"
+  "title": "Dermaplanning med ultraljudsrengöring och LED panel",
+  "slug": "dermaplanning-med-ultraljudsrengoring-och-led-panel",
+  "id": 12,
+  "category": "Avancerad hudvård - Dermaplane PRO",
+  "info": [
+   {
+    "title": " ",
+    "text": "Dermaplanning utförs av speciellt utbildad hudterapeut med en särskild scalpell ifrån Dermaplane Pro och är en antiage-behandling som exfolierar huden och tar bort vellushår (fjun). \r\n\r\nResultatet blir en jämnare hudton, mindre synliga linjer och acneärr, lyster, mjuk och len hud.\r\nBehandlingen är skapad till att på en gång förbättra hudens utseende, men också maximera upptag av följande produkter eller kombinationsbehandlingar. \r\n\r\nUltraljudsrengöringen tömmer skonsamt porerna på pormaskar, smuts och sebum utan att skada eller klämma huden.\r\n\r\nBehandlingen avslutas med 30 min Celluma PRO LED panel för att stimulera hudens ATP, lugna eventuella rodnader och främja kollagen och elastin produktionen. "
+   }
+  ],
+  "variant": " "
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/acne-cupping--1363563",
-  "time": "200 kr",
-  "title": "*Acne cupping ",
-  "slug": "acne-cupping",
-  "id": 16,
-  "category": "Tilläggstjänster"
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/dermaplanning-med-enerpeel-kemiska-peels-1522934",
+  "price": "1 690 kr",
+  "time": "60 minuter",
+  "title": "Dermaplanning med Enerpeel kemiska peels",
+  "slug": "dermaplanning-med-enerpeel-kemiska-peels",
+  "id": 13,
+  "category": "Avancerad hudvård - Dermaplane PRO"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ice-mask-cryoterapi-1281634",
-  "time": "150 kr",
-  "title": "*Ice Mask - Cryoterapi",
-  "slug": "ice-mask-cryoterapi",
-  "id": 17,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/esthemax-hydrojelly-mask-355378",
-  "time": "250 kr",
-  "title": "*Esthemax Hydrojelly Mask",
-  "slug": "esthemax-hydrojelly-mask",
-  "id": 18,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tebiskin-serum--1281635",
-  "time": "150 kr",
-  "title": "*Tebiskin Serum ",
-  "slug": "tebiskin-serum",
-  "id": 19,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-15-1363567",
-  "time": "300 kr",
-  "title": "*Massage 15´",
-  "slug": "massage-15",
-  "id": 20,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/massage-30-1364458",
-  "time": "600 kr",
-  "title": "*Massage 30´",
-  "slug": "massage-30",
-  "id": 21,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-led-fototerapi--1363562",
-  "time": "600 kr",
-  "title": "*Celluma LED fototerapi ",
-  "slug": "celluma-led-fototerapi",
-  "id": 22,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/-dermaplane-pro--1364459",
-  "time": "800 kr",
-  "title": "* Dermaplane PRO ",
-  "slug": "-dermaplane-pro",
-  "id": 23,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-%C3%B6gon-eller-mun-1281632",
-  "time": "800 kr",
-  "title": "*Lift & Tight Ögon eller Mun",
-  "slug": "lift-tight-ogon-eller-mun",
-  "id": 24,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-full-face-1362955",
-  "time": "1 400 kr",
-  "title": "*Lift & Tight Full Face",
-  "slug": "lift-tight-full-face",
-  "id": 25,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-kemiska-peels-ga-pa-jr-sa-el-neck--1281633",
-  "time": "900 kr",
-  "title": "*Enerpeel Kemiska peels (GA, PA, JR, SA, EL, NECK) ",
-  "slug": "enerpeel-kemiska-peels-ga-pa-jr-sa-el-neck",
-  "id": 26,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands--1363566",
-  "time": "1 000 kr",
-  "title": "*Enerpeel Hands ",
-  "slug": "enerpeel-hands",
-  "id": 27,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-50-med-fraxium-&-jett-plasma-1078672",
-  "time": "1 000 kr",
-  "title": "*PRX-T33 2. 0 -50% med Fraxium & Jett Plasma",
-  "slug": "prx-t33-2-0-50-med-fraxium-jett-plasma",
-  "id": 28,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-total-makeover--1363564",
-  "time": "1 200 kr",
-  "title": "*Yumi total makeover ",
-  "slug": "yumi-total-makeover",
-  "id": 29,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-lashes--1281441",
-  "time": "900 kr",
-  "title": "*Yumi Lashes ",
-  "slug": "yumi-lashes",
-  "id": 30,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-brows--1281442",
-  "time": "500 kr",
-  "title": "*Yumi brows ",
-  "slug": "yumi-brows",
-  "id": 31,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynform--1281443",
-  "time": "200 kr",
-  "title": "*Brynform ",
-  "slug": "brynform",
-  "id": 32,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynf%C3%A4rg-&-form--1281444",
-  "time": "250 kr",
-  "title": "*Brynfärg & Form ",
-  "slug": "brynfarg-form",
-  "id": 33,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-&-brynform--1281452",
-  "time": "300 kr",
-  "title": "*Fransfärg & Brynform ",
-  "slug": "fransfarg-brynform",
-  "id": 34,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/frans-&-brynf%C3%A4rg-formning-1281630",
-  "time": "400 kr",
-  "title": "*Frans & Brynfärg + formning",
-  "slug": "frans-brynfarg-formning",
-  "id": 35,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg--1281631",
-  "time": "250 kr",
-  "title": "*Fransfärg ",
-  "slug": "fransfarg",
-  "id": 36,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ultraljudsreng%C3%B6ring--1363565",
-  "time": "300 kr",
-  "title": "*Ultraljudsrengöring ",
-  "slug": "ultraljudsrengoring",
-  "id": 37,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/vaxning-%C3%B6verl%C3%A4pp--1219123",
-  "time": "200 kr",
-  "title": "*Vaxning överläpp ",
-  "slug": "vaxning-overlapp",
-  "id": 38,
-  "category": "Tilläggstjänster"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-pro-led-fototerapi-1379356",
-  "price": "900 kr",
-  "time": "50 minuter",
-  "title": "Celluma PRO LED fototerapi",
-  "slug": "celluma-pro-led-fototerapi",
-  "id": 39,
-  "category": "Avancerad Hudvård - Apparatur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-%C3%B6gon-eller-mun--1364773",
-  "price": "1 000 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-pro-led-panel-x5-1522935",
+  "price": "3 990 kr",
   "time": "30 minuter",
-  "title": "Lift & Tight Ögon eller Mun ",
-  "slug": "lift-tight-ogon-eller-mun",
-  "id": 40,
-  "category": "Avancerad Hudvård - Apparatur"
+  "title": "Celluma PRO LED Panel x5",
+  "slug": "celluma-pro-led-panel-x5",
+  "id": 14,
+  "category": "Avancerad Hudvård - Celluma PRO LED Panel"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/celluma-pro-led-panel-x10-1379356",
+  "price": "6 990 kr",
+  "time": "30 minuter",
+  "title": "Celluma PRO LED Panel x10",
+  "slug": "celluma-pro-led-panel-x10",
+  "id": 15,
+  "category": "Avancerad Hudvård - Celluma PRO LED Panel"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-parti-1364773",
+  "price": "990 kr",
+  "time": "30 minuter",
+  "title": "Lift & Tight Parti",
+  "slug": "lift-tight-parti",
+  "id": 16,
+  "category": "Avancerad Hudvård - Jett Plasma Cosmetical (Silver tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/lift-&-tight-full-face-1364774",
-  "price": "1 500 kr",
+  "price": "1 490 kr",
   "time": "45 minuter",
   "title": "Lift & Tight Full Face",
   "slug": "lift-tight-full-face",
-  "id": 41,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 17,
+  "category": "Avancerad Hudvård - Jett Plasma Cosmetical (Silver tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/k%C3%A4rlbehandling--1364797",
   "time": "",
   "title": "Kärlbehandling ",
   "slug": "karlbehandling",
-  "id": 42,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 18,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/borttagning-av-godartade-hudf%C3%B6r%C3%A4ndringar-1364796",
-  "time": "45 minuter",
+  "time": "",
   "title": "Borttagning av godartade hudförändringar",
   "slug": "borttagning-av-godartade-hudforandringar",
-  "id": 43,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 19,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-argrynka-1364885",
-  "price": "3 000 kr",
+  "price": "2 990 kr",
   "time": "60 minuter",
   "title": "Plasmalift argrynka",
   "slug": "plasmalift-argrynka",
-  "id": 44,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 20,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-hamsterp%C3%A5sar-1364888",
-  "price": "6 000 kr",
+  "price": "5 990 kr",
   "time": "90 minuter",
   "title": "Plasmalift hamsterpåsar",
   "slug": "plasmalift-hamsterpasar",
-  "id": 45,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 21,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-nasolabiala-veck-1364886",
-  "price": "3 500 kr",
+  "price": "3 450 kr",
   "time": "60 minuter",
   "title": "Plasmalift nasolabiala veck",
   "slug": "plasmalift-nasolabiala-veck",
-  "id": 46,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 22,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-panna-1364887",
-  "price": "3 500 kr",
+  "price": "3 450 kr",
   "time": "75 minuter",
   "title": "Plasmalift panna",
   "slug": "plasmalift-panna",
-  "id": 47,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 23,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6ra-1364889",
   "time": "60 minuter",
   "title": "Plasmalift öra",
   "slug": "plasmalift-ora",
-  "id": 48,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 24,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-acne%C3%A4rr-1364788",
-  "time": "",
+  "price": "2 990 kr",
+  "time": "60 minuter",
   "title": "Plasmalift acneärr",
   "slug": "plasmalift-acnearr",
-  "id": 49,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 25,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-ledsen-navel-1364787",
-  "time": "",
+  "price": "7 490 kr",
+  "time": "120 minuter",
   "title": "Plasmalift ledsen navel",
   "slug": "plasmalift-ledsen-navel",
-  "id": 50,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 26,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6gonlockslyft-1364784",
-  "price": "5 500 kr",
+  "price": "4 990 kr",
   "time": "75 minuter",
   "title": "Plasmalift ögonlockslyft",
   "slug": "plasmalift-ogonlockslyft",
-  "id": 51,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 27,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6gonlockslyft-%C3%B6ver-&-under-%C3%B6gonen-1364785",
-  "price": "8 900 kr",
+  "price": "7 990 kr",
   "time": "90 minuter",
   "title": "Plasmalift ögonlockslyft över & under ögonen. ",
   "slug": "plasmalift-ogonlockslyft-over-under-ogonen",
-  "id": 52,
-  "category": "Avancerad Hudvård - Apparatur"
+  "id": 28,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-%C3%B6verl%C3%A4pp-1364786",
-  "price": "3 500 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/plasmalift-r%C3%B6krynkor-1364786",
+  "price": "3 450 kr",
   "time": "75 minuter",
-  "title": "Plasmalift överläpp",
-  "slug": "plasmalift-overlapp",
-  "id": 53,
-  "category": "Avancerad Hudvård - Apparatur"
+  "title": "Plasmalift Rökrynkor",
+  "slug": "plasmalift-rokrynkor",
+  "id": 29,
+  "category": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-full-face--1364772",
-  "price": "2 400 kr",
-  "time": "90 minuter",
-  "title": "Fraktionerad laser - Full face ",
-  "slug": "fraktionerad-laser-full-face",
-  "id": 54,
-  "category": "Avancerad Hudvård - Apparatur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-1-zon-tinningar--1364770",
-  "price": "1 000 kr",
-  "time": "15 minuter",
-  "title": "Fraktionerad laser 1 zon (tinningar) ",
-  "slug": "fraktionerad-laser-1-zon-tinningar",
-  "id": 55,
-  "category": "Avancerad Hudvård - Apparatur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-2-zoner-kindben--1364771",
-  "price": "1 800 kr",
-  "time": "60 minuter",
-  "title": "Fraktionerad laser 2 zoner (kindben) ",
-  "slug": "fraktionerad-laser-2-zoner-kindben",
-  "id": 56,
-  "category": "Avancerad Hudvård - Apparatur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fraktionerad-laser-mild--1364769",
-  "price": "1 600 kr",
-  "time": "45 minuter",
-  "title": "Fraktionerad laser mild ",
-  "slug": "fraktionerad-laser-mild",
-  "id": 57,
-  "category": "Avancerad Hudvård - Apparatur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-1364895",
-  "price": "2 000 kr",
-  "time": "45 minuter",
-  "title": "PRX-T33 2. 0 Ansikte",
-  "slug": "prx-t33-2-0-ansikte",
-  "id": 58,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-&-hals-1364896",
-  "price": "2 500 kr",
-  "time": "45 minuter",
-  "title": "PRX-T33 2. 0 Ansikte & Hals",
-  "slug": "prx-t33-2-0-ansikte-hals",
-  "id": 59,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-hals-&-decolletage-1364897",
-  "price": "3 500 kr",
-  "time": "45 minuter",
-  "title": "PRX-T33 2. 0 Ansikte, Hals & Decolletage",
-  "slug": "prx-t33-2-0-ansikte-hals-decolletage",
-  "id": 60,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-kemiska-peels--1364890",
-  "price": "1 100 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-kemiska-peels-kur-p%C3%A5-x5-1364890",
+  "price": "4 990 kr",
   "time": "30 minuter",
-  "title": "Enerpeel Kemiska peels ",
-  "slug": "enerpeel-kemiska-peels",
-  "id": 61,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tca-cocktail-35-30-1364898",
-  "price": "1 500 kr",
-  "time": "45 minuter",
-  "title": "TCA cocktail 35% 30´",
-  "slug": "tca-cocktail-35-30",
-  "id": 62,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
+  "title": "Enerpeel Kemiska peels kur på x5",
+  "slug": "enerpeel-kemiska-peels-kur-pa-x5",
+  "id": 30,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-ice-peel-1364894",
@@ -535,172 +288,116 @@
   "time": "45 minuter",
   "title": "Enerpeel Ice peel",
   "slug": "enerpeel-ice-peel",
-  "id": 63,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
+  "id": 31,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands--1364891",
-  "price": "1 500 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-hands-x4-1364891",
+  "price": "4 990 kr",
   "time": "30 minuter",
-  "title": "Enerpeel Hands ",
-  "slug": "enerpeel-hands",
-  "id": 64,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
+  "title": "Enerpeel Hands x4",
+  "slug": "enerpeel-hands-x4",
+  "id": 32,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-soft-tca-1364893",
-  "price": "2 500 kr",
+  "price": "1 990 kr",
   "time": "30 minuter",
   "title": "Enerpeel soft TCA",
   "slug": "enerpeel-soft-tca",
-  "id": 65,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
+  "id": 33,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/enerpeel-tca-25-1364892",
-  "price": "3 500 kr",
+  "price": "2 490 kr",
   "time": "30 minuter",
   "title": "Enerpeel TCA 25%",
   "slug": "enerpeel-tca-25",
-  "id": 66,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
+  "id": 34,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tca-cross-icepicks-30-just-nu-kom-2-och-f%C3%A5-halva-priset-1379357",
-  "price": "2 500 kr",
-  "time": "45 minuter",
-  "title": "TCA Cross - icepicks 30´ just nu: Kom 2 och få halva priset!",
-  "slug": "tca-cross-icepicks-30-just-nu-kom-2-och-fa-halva-priset",
-  "id": 67,
-  "category": "Avancerad Hudvård - Medicintekniska produkter"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/glow-paketet-1379358",
-  "price": "2 695 kr",
-  "time": "80 minuter",
-  "title": "Glow paketet",
-  "slug": "glow-paketet",
-  "id": 68,
-  "category": "Förmånliga paket inkl. hemvård"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/acne-paketet-v%C3%A4rde-5300--1364899",
-  "price": "3 900 kr",
-  "time": "90 minuter",
-  "title": "Acne paketet, värde 5300:-",
-  "slug": "acne-paketet-varde-5300-",
-  "id": 69,
-  "category": "Förmånliga paket inkl. hemvård"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/antiage-paketet-v%C3%A4rde-8500--1364900",
-  "price": "5 500 kr",
-  "time": "120 minuter",
-  "title": "Antiage paketet, värde 8500:-",
-  "slug": "antiage-paketet-varde-8500-",
-  "id": 70,
-  "category": "Förmånliga paket inkl. hemvård"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/pigmenteringar-hudton-paketet-v%C3%A4rde-8100--1364901",
-  "price": "4 500 kr",
-  "time": "90 minuter",
-  "title": "Pigmenteringar / hudton-paketet, värde 8100:-",
-  "slug": "pigmenteringar-hudton-paketet-varde-8100-",
-  "id": 71,
-  "category": "Förmånliga paket inkl. hemvård"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/9x-celluma-led-fototerapi-v%C3%A4rde-8100-1364876",
-  "time": "4 500 kr",
-  "title": "9x Celluma LED fototerapi - värde 8100",
-  "slug": "9x-celluma-led-fototerapi-varde-8100",
-  "id": 72,
-  "category": "Kur",
-  "info": [
-   {
-    "title": " ",
-    "text": "<span>Boka denna om du vill eller har köpt en kur. Skriv gärna i rabattkodsfältet vilken vilken behandling du är på för varje</span><br><span>bokning. (1/9, 2/9....)</span>"
-   }
-  ],
-  "variant": " "
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-prx-t33-20-ansikte-v%C3%A4rde-8000--1364877",
-  "time": "6 000 kr",
-  "title": "4x PRX-T33 2. 0 Ansikte, värde 8000:-",
-  "slug": "4x-prx-t33-2-0-ansikte-varde-8000-",
-  "id": 73,
-  "category": "Kur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-prx-t33-20-ansikte-&-hals-v%C3%A4rde-10000--1364878",
-  "time": "8 000 kr",
-  "title": "4x PRX-T33 2. 0 Ansikte & Hals, värde 10. 000:-",
-  "slug": "4x-prx-t33-2-0-ansikte-hals-varde-10-000-",
-  "id": 74,
-  "category": "Kur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-prx-t33-20-ansikte-hals-&-dekolletage-v%C3%A4rde-16000--1364879",
-  "time": "12 000 kr",
-  "title": "4x PRX-T33 2. 0 Ansikte, Hals & Dekolletage, värde 16. 000:-",
-  "slug": "4x-prx-t33-2-0-ansikte-hals-dekolletage-varde-16-000-",
-  "id": 75,
-  "category": "Kur"
- },
- {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/6x-lift-&-tight-%C3%B6gon-eller-mun-v%C3%A4rde-6000-1364880",
-  "price": "4 500 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tca-cross-icepicks-30-1379357",
+  "price": "1 990 kr",
   "time": "30 minuter",
-  "title": "6x Lift & Tight Ögon eller Mun, värde 6000",
-  "slug": "6x-lift-tight-ogon-eller-mun-varde-6000",
-  "id": 76,
-  "category": "Kur"
+  "title": "TCA Cross - icepicks 30",
+  "slug": "tca-cross-icepicks-30",
+  "id": 35,
+  "category": "Avancerad Hudvård - Kemisk peeling"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/6x-lift-&-tight-full-face-v%C3%A4rde-9000--1364881",
-  "price": "7 500 kr",
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-1364895",
+  "price": "1 990 kr",
   "time": "45 minuter",
-  "title": "6x Lift & Tight Full Face, värde 9000:-",
-  "slug": "6x-lift-tight-full-face-varde-9000-",
-  "id": 77,
-  "category": "Kur"
+  "title": "PRX-T33 2. 0 Ansikte",
+  "slug": "prx-t33-2-0-ansikte",
+  "id": 36,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/4x-enerpeel-hands-v%C3%A4rde-6000-1364882",
-  "price": "5 000 kr",
-  "time": "30 minuter",
-  "title": "4x Enerpeel hands, värde 6000",
-  "slug": "4x-enerpeel-hands-varde-6000",
-  "id": 78,
-  "category": "Kur"
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-&-hals-1364896",
+  "price": "2 490 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Ansikte & Hals",
+  "slug": "prx-t33-2-0-ansikte-hals",
+  "id": 37,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tid-f%C3%B6r-k%C3%B6p-av-produkter-eller-presentkort--1180811",
-  "price": "Kostnadsfri",
-  "time": "15 minuter",
-  "title": "Tid för köp av produkter eller presentkort ",
-  "slug": "tid-for-kop-av-produkter-eller-presentkort",
-  "id": 79,
-  "category": "Konsultationer"
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-x4-1364877",
+  "price": "5 990 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Ansikte x4",
+  "slug": "prx-t33-2-0-ansikte-x4",
+  "id": 38,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/stickprov-allergitest--1379572",
-  "time": "Kostnadsfri",
-  "title": "Stickprov, allergitest ",
-  "slug": "stickprov-allergitest",
-  "id": 80,
-  "category": "Konsultationer"
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-&-hals-x4-1364878",
+  "price": "7 490 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Ansikte & Hals x4",
+  "slug": "prx-t33-2-0-ansikte-hals-x4",
+  "id": 39,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
  },
  {
-  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/%C3%A5terbes%C3%B6k-kostnadsfri-konsultation--1180812",
-  "price": "Kostnadsfri",
-  "time": "20 minuter",
-  "title": "Återbesök / kostnadsfri konsultation ",
-  "slug": "aterbesok-kostnadsfri-konsultation",
-  "id": 81,
-  "category": "Konsultationer"
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-hals-&-decolletage-1364897",
+  "price": "3 490 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Ansikte, Hals & Decolletage",
+  "slug": "prx-t33-2-0-ansikte-hals-decolletage",
+  "id": 40,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/prx-t33-20-ansikte-hals-&-dekolletage-x4-1364879",
+  "price": "10 450 kr",
+  "time": "45 minuter",
+  "title": "PRX-T33 2. 0 Ansikte, Hals & Dekolletage x4",
+  "slug": "prx-t33-2-0-ansikte-hals-dekolletage-x4",
+  "id": 41,
+  "category": "Avancerad Hudvård - PRX-T33 Biorevitalisering"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/ryggbehandling-med-celluma-led-1364903",
+  "price": "1 390 kr",
+  "time": "75 minuter",
+  "title": "Ryggbehandling med Celluma LED",
+  "slug": "ryggbehandling-med-celluma-led",
+  "id": 42,
+  "category": "Ryggbehandling"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/rygg-&-ansiktsbehandling--1364908",
+  "price": "1 790 kr",
+  "time": "90 minuter",
+  "title": "Rygg & Ansiktsbehandling ",
+  "slug": "rygg-ansiktsbehandling",
+  "id": 43,
+  "category": "Ryggbehandling"
  },
  {
   "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/yumi-total-makeover-1364916",
@@ -708,7 +405,7 @@
   "time": "90 minuter",
   "title": "Yumi Total Makeover",
   "slug": "yumi-total-makeover",
-  "id": 82,
+  "id": 44,
   "category": "Ögon-Blick"
  },
  {
@@ -717,7 +414,7 @@
   "time": "75 minuter",
   "title": "Yumi Lashes",
   "slug": "yumi-lashes",
-  "id": 83,
+  "id": 45,
   "category": "Ögon-Blick"
  },
  {
@@ -726,7 +423,7 @@
   "time": "45 minuter",
   "title": "Yumi Brows",
   "slug": "yumi-brows",
-  "id": 84,
+  "id": 46,
   "category": "Ögon-Blick"
  },
  {
@@ -735,7 +432,7 @@
   "time": "15 minuter",
   "title": "Brynform",
   "slug": "brynform",
-  "id": 85,
+  "id": 47,
   "category": "Ögon-Blick"
  },
  {
@@ -744,7 +441,7 @@
   "time": "20 minuter",
   "title": "Brynfärg & Form",
   "slug": "brynfarg-form",
-  "id": 86,
+  "id": 48,
   "category": "Ögon-Blick"
  },
  {
@@ -753,7 +450,7 @@
   "time": "25 minuter",
   "title": "Fransfärg & Formning av bryn",
   "slug": "fransfarg-formning-av-bryn",
-  "id": 87,
+  "id": 49,
   "category": "Ögon-Blick"
  },
  {
@@ -762,7 +459,7 @@
   "time": "30 minuter",
   "title": "Frans-Brynfärg & Formning",
   "slug": "frans-brynfarg-formning",
-  "id": 88,
+  "id": 50,
   "category": "Ögon-Blick"
  },
  {
@@ -771,7 +468,81 @@
   "time": "20 minuter",
   "title": "Fransfärg",
   "slug": "fransfarg",
-  "id": 89,
+  "id": 51,
   "category": "Ögon-Blick"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/tid-f%C3%B6r-k%C3%B6p-av-produkter-eller-presentkort--1180811",
+  "price": "Kostnadsfri",
+  "time": "15 minuter",
+  "title": "Tid för köp av produkter eller presentkort ",
+  "slug": "tid-for-kop-av-produkter-eller-presentkort",
+  "id": 52,
+  "category": "Konsultationer"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/stickprov-allergitest--1379572",
+  "time": "Kostnadsfri",
+  "title": "Stickprov, allergitest ",
+  "slug": "stickprov-allergitest",
+  "id": 53,
+  "category": "Konsultationer"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/%C3%A5terbes%C3%B6k-kostnadsfri-konsultation--1180812",
+  "price": "Kostnadsfri",
+  "time": "20 minuter",
+  "title": "Återbesök / kostnadsfri konsultation ",
+  "slug": "aterbesok-kostnadsfri-konsultation",
+  "id": 54,
+  "category": "Konsultationer"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynform--1281443",
+  "time": "200 kr",
+  "title": "*Brynform ",
+  "slug": "brynform",
+  "id": 55,
+  "category": "Tilläggstjänster"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/brynf%C3%A4rg-&-form--1281444",
+  "time": "250 kr",
+  "title": "*Brynfärg & Form ",
+  "slug": "brynfarg-form",
+  "id": 56,
+  "category": "Tilläggstjänster"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg-&-brynform--1281452",
+  "time": "300 kr",
+  "title": "*Fransfärg & Brynform ",
+  "slug": "fransfarg-brynform",
+  "id": 57,
+  "category": "Tilläggstjänster"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/frans-&-brynf%C3%A4rg-formning-1281630",
+  "time": "400 kr",
+  "title": "*Frans & Brynfärg + formning",
+  "slug": "frans-brynfarg-formning",
+  "id": 58,
+  "category": "Tilläggstjänster"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/fransf%C3%A4rg--1281631",
+  "time": "250 kr",
+  "title": "*Fransfärg ",
+  "slug": "fransfarg",
+  "id": 59,
+  "category": "Tilläggstjänster"
+ },
+ {
+  "url": "https://www.bokadirekt.se/boka-tjanst/neoskin-33692/vaxning-%C3%B6verl%C3%A4pp--1219123",
+  "time": "200 kr",
+  "title": "*Vaxning överläpp ",
+  "slug": "vaxning-overlapp",
+  "id": 60,
+  "category": "Tilläggstjänster"
  }
 ]

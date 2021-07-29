@@ -1,39 +1,49 @@
 [
  {
-  "title": "NY KUND",
+  "title": "FRAXIUM UTGÅR 1 SEPTEMBER - Ny signaturbehandling för kraterärr",
   "services": [
-   1
+   1,
+   2,
+   3,
+   4
   ]
  },
  {
-  "title": "Ansiktsbehandlingar",
+  "title": "Ansiktsbehandlingar - Efter nyöppningen byts Tebiskin-behandlingarna ut mot nya märken.",
   "services": [
-   2,
-   3,
-   4,
    5,
    6,
    7,
-   8
+   8,
+   9,
+   10
   ]
  },
  {
-  "title": "Massage & Kroppsbehandlingar",
+  "title": "Avancerad hudvård - Dermaplane PRO",
   "services": [
-   9,
-   10,
    11,
    12,
-   13,
+   13
+  ]
+ },
+ {
+  "title": "Avancerad Hudvård - Celluma PRO LED Panel",
+  "services": [
    14,
    15
   ]
  },
  {
-  "title": "Tilläggstjänster",
+  "title": "Avancerad Hudvård - Jett Plasma Cosmetical (Silver tip)",
   "services": [
    16,
-   17,
+   17
+  ]
+ },
+ {
+  "title": "Avancerad Hudvård - Jett Plasma Medical (Gold tip)",
+  "services": [
    18,
    19,
    20,
@@ -45,26 +55,41 @@
    26,
    27,
    28,
-   29,
+   29
+  ]
+ },
+ {
+  "title": "Avancerad Hudvård - Kemisk peeling",
+  "services": [
    30,
    31,
    32,
    33,
    34,
-   35,
-   36,
-   37,
-   38
+   35
   ]
  },
  {
-  "title": "Avancerad Hudvård - Apparatur",
+  "title": "Avancerad Hudvård - PRX-T33 Biorevitalisering",
   "services": [
+   36,
+   37,
+   38,
    39,
    40,
-   41,
+   41
+  ]
+ },
+ {
+  "title": "Ryggbehandling",
+  "services": [
    42,
-   43,
+   43
+  ]
+ },
+ {
+  "title": "Ögon-Blick",
+  "services": [
    44,
    45,
    46,
@@ -72,70 +97,26 @@
    48,
    49,
    50,
-   51,
-   52,
-   53,
-   54,
-   55,
-   56,
-   57
-  ]
- },
- {
-  "title": "Avancerad Hudvård - Medicintekniska produkter",
-  "services": [
-   58,
-   59,
-   60,
-   61,
-   62,
-   63,
-   64,
-   65,
-   66,
-   67
-  ]
- },
- {
-  "title": "Förmånliga paket inkl. hemvård",
-  "services": [
-   68,
-   69,
-   70,
-   71
-  ]
- },
- {
-  "title": "Kur",
-  "services": [
-   72,
-   73,
-   74,
-   75,
-   76,
-   77,
-   78
+   51
   ]
  },
  {
   "title": "Konsultationer",
   "services": [
-   79,
-   80,
-   81
+   52,
+   53,
+   54
   ]
  },
  {
-  "title": "Ögon-Blick",
+  "title": "Tilläggstjänster",
   "services": [
-   82,
-   83,
-   84,
-   85,
-   86,
-   87,
-   88,
-   89
+   55,
+   56,
+   57,
+   58,
+   59,
+   60
   ]
  }
 ]
