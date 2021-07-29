@@ -7,7 +7,7 @@ heading: Resultatinriktad hudvård, hudhälsa och estetisk dermatologi
 subheading: >
   Enerpeel kemiska peels, Fraktionerad laser, PRX-T33, Ultraljudsrengöring,
   Celluma LED-panel, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
-description: .nan
+description: 
 mainpitch:
   title: NYÖPPNING I HÖST!
   description: >
