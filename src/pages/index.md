@@ -1,27 +1,20 @@
 ---
 templateKey: index-page
 title: NEOSKIN
-subtitle: Skräddarsydd hudvård med synliga resultat
+subtitle: Din hud är min passion - Anaïs
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: Resultatinriktad hudvård, hudhälsa och estetisk dermatologi
 subheading: >
-  Enerpeel kemiska peels, Fraxium laser, PRX-T33, Ultraljudsrengöring, LED-mask,
-  JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
-description: "Boka gärna din konsultation i samband med första behandlingen om
-  du är osäker på vad du ska välja, eller börja med konsultationen om du känner
-  dig helt vilsen. Du får en genomtänkt, professionell och skräddarsydd plan som
-  lägger allt fokus på dig, dina individuella förutsättningar och dina önskemål
-  för att tillsammans förbättra din vardag, självkänsla eller livskvalitet.
-  Bokar du en behandling som inte är optimal med tanke på din hudtyp, tillstånd
-  eller önskemål kan vi självklart bestämma att göra en annan behandling
-  istället, bättre anpassad för dig. "
+  Enerpeel kemiska peels, Fraktionerad laser, PRX-T33, Ultraljudsrengöring,
+  Celluma LED-panel, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
+description: .nan
 mainpitch:
-  title: NEOSKIN HUDVÅRDSKLINIK
+  title: NYÖPPNING I HÖST!
   description: >
-    Välkommen till en Auktoriserad hudterapeut med Gesällbrev, blivande mästare
-    med mästarbrev.  
-
-    Anaïs erbjuder dig skräddarsydda behandlingar och behandlingsprogram med ett mycket brett utbud av marknadens bästa verktyg, maskiner och produkter. 
+    I höst öppnar vi äntligen upp vår egna och helt nya hudsalong! Tills dess
+    hittar du Neoskin inne på Estheticas lokaler. Vi kommer att smygöppna i
+    september men startar inte upp den nya verksamheten förens allting är klart
+    med behandlingar, produkter och diverse utbildningar. Så håll utkik! 
 intro:
   blurbs:
     - image: /img/fraxium-.jpg
@@ -49,5 +42,5 @@ intro:
         Du som kund kan således känna dig trygg när du väljer en hudterapeut som är medlem i vårt förbund. SHR representerar den svenska sektionen i CIDESCO.  
 
         Vårt emblem är din trygghet – välj en hudterapeut som är medlem i SHR.
-  description: x
+  description: ",x"
 ---
