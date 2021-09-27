@@ -5,30 +5,17 @@ subtitle: Din hud är min passion - Anaïs
 image: /img/anais_aesthetica_consulting_blg_9107_6_xx.jpg
 heading: Resultatinriktad hudvård, hudhälsa och estetisk dermatologi
 subheading: >
-  Enerpeel kemiska peels, Fraktionerad laser, PRX-T33, Ultraljudsrengöring,
-  Celluma LED-panel, JETT Plasma / Plasmalift, Lift & Tight plasmaflöde, m.m...
-description: 
+  Kemiska peels,  PRX-T33, Ultraljudsrengöring, Celluma LED-panel, JETT Plasma /
+  Plasmalift, Lift & Tight plasmaflöde, m.m...
+description: x
 mainpitch:
   title: NYÖPPNING I HÖST!
-  description: >
-    I höst öppnar vi äntligen upp vår egna och helt nya hudsalong! Tills dess
-    hittar du Neoskin inne på Estheticas lokaler. Vi kommer att smygöppna i
-    september men startar inte upp den nya verksamheten förens allting är klart
-    med behandlingar, produkter och diverse utbildningar. Så håll utkik! 
+  description: I höst öppnar vi äntligen upp vår egna och helt nya hudklinik!
+    Tills dess hittar du Neoskin i tillfälliga lokaler på LANTMÄTARGRÄND 12. Vi
+    kommer att öppna dörrarna till kliniken i oktober på LANTMÄTARGRÄND 16! Så
+    håll utkik!
 intro:
   blurbs:
-    - image: /img/fraxium-.jpg
-      text: >
-        Fraktionerad Erbiumlaser är den största vinnaren på marknaden gällande
-        acneärr. Fraxium ligger mellan microneedling och CO2 laser...Tack var en
-        av marknadens mest avancerade laserteknologier kan jag med denna maskin
-        alltid leverera bra resultat. Likt microneedling jobbar vi med att skapa
-        hål i huden som triggar den inflammatoriska processen och nybildningen
-        av kollagenet, men det finns vessäntliga skillnader som ger vässäntligt
-        mycket mer trygghet i att det faktiskt fungerar och levererar synliga,
-        permanenta resultat. Du slipper den jobbiga återhämtningen av en CO2
-        laser men bör räkna med att göra minst 4-6 behandlingar på hög
-        intensitet för acneärr. 
     - image: /img/fullsizeoutput_e2e.jpeg
       text: >-
         Visste du att vem som helst kunde jobba som hudterapeut i Sverige? För
